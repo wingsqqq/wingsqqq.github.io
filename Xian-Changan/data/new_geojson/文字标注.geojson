@@ -1,0 +1,3626 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "群贤",
+        "_elementType": "text",
+        "text": "群贤"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.25032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "延寿",
+        "_elementType": "text",
+        "text": "延寿"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.25032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "太平",
+        "_elementType": "text",
+        "text": "太平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.25032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "善和",
+        "_elementType": "text",
+        "text": "善和"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.25032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "兴道",
+        "_elementType": "text",
+        "text": "兴道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.25032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "务本",
+        "_elementType": "text",
+        "text": "务本"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.25032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "平康",
+        "_elementType": "text",
+        "text": "平康"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.25032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "道政",
+        "_elementType": "text",
+        "text": "道政"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.25032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "怀德",
+        "_elementType": "text",
+        "text": "怀德"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.245294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "光德",
+        "_elementType": "text",
+        "text": "光德"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.245294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "通义",
+        "_elementType": "text",
+        "text": "通义"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.245294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "通化",
+        "_elementType": "text",
+        "text": "通化"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.245294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "开化",
+        "_elementType": "text",
+        "text": "开化"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.245294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "崇义",
+        "_elementType": "text",
+        "text": "崇义"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.245294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "宣阳",
+        "_elementType": "text",
+        "text": "宣阳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.245294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "常乐",
+        "_elementType": "text",
+        "text": "常乐"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.245294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "崇化",
+        "_elementType": "text",
+        "text": "崇化"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "怀远",
+        "_elementType": "text",
+        "text": "怀远"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "延康",
+        "_elementType": "text",
+        "text": "延康"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "兴化",
+        "_elementType": "text",
+        "text": "兴化"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "丰乐",
+        "_elementType": "text",
+        "text": "丰乐"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安仁",
+        "_elementType": "text",
+        "text": "安仁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "长兴",
+        "_elementType": "text",
+        "text": "长兴"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "亲仁",
+        "_elementType": "text",
+        "text": "亲仁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安邑",
+        "_elementType": "text",
+        "text": "安邑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "靖恭",
+        "_elementType": "text",
+        "text": "靖恭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.240214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "丰邑",
+        "_elementType": "text",
+        "text": "丰邑"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "长寿",
+        "_elementType": "text",
+        "text": "长寿"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "崇贤",
+        "_elementType": "text",
+        "text": "崇贤"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "崇德",
+        "_elementType": "text",
+        "text": "崇德"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安业",
+        "_elementType": "text",
+        "text": "安业"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "光福",
+        "_elementType": "text",
+        "text": "光福"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永乐",
+        "_elementType": "text",
+        "text": "永乐"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永宁",
+        "_elementType": "text",
+        "text": "永宁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "宣平",
+        "_elementType": "text",
+        "text": "宣平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "新昌",
+        "_elementType": "text",
+        "text": "新昌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.235002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "待贤",
+        "_elementType": "text",
+        "text": "待贤"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "嘉会",
+        "_elementType": "text",
+        "text": "嘉会"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "延福",
+        "_elementType": "text",
+        "text": "延福"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "怀贞",
+        "_elementType": "text",
+        "text": "怀贞"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "崇业",
+        "_elementType": "text",
+        "text": "崇业"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "靖善",
+        "_elementType": "text",
+        "text": "靖善"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "靖安",
+        "_elementType": "text",
+        "text": "靖安"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永崇",
+        "_elementType": "text",
+        "text": "永崇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "昇平",
+        "_elementType": "text",
+        "text": "昇平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "昇道",
+        "_elementType": "text",
+        "text": "昇道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.22968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "淳和",
+        "_elementType": "text",
+        "text": "淳和"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永平",
+        "_elementType": "text",
+        "text": "永平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永安",
+        "_elementType": "text",
+        "text": "永安"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "宣义",
+        "_elementType": "text",
+        "text": "宣义"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永达",
+        "_elementType": "text",
+        "text": "永达"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "兰陵",
+        "_elementType": "text",
+        "text": "兰陵"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安善",
+        "_elementType": "text",
+        "text": "安善"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "昭国",
+        "_elementType": "text",
+        "text": "昭国"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "修行",
+        "_elementType": "text",
+        "text": "修行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "广德",
+        "_elementType": "text",
+        "text": "广德"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.224578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "常安",
+        "_elementType": "text",
+        "text": "常安"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "通轨",
+        "_elementType": "text",
+        "text": "通轨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "敦义",
+        "_elementType": "text",
+        "text": "敦义"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "丰安",
+        "_elementType": "text",
+        "text": "丰安"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "道德",
+        "_elementType": "text",
+        "text": "道德"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "开明",
+        "_elementType": "text",
+        "text": "开明"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "大业",
+        "_elementType": "text",
+        "text": "大业"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "晋昌",
+        "_elementType": "text",
+        "text": "晋昌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "修政",
+        "_elementType": "text",
+        "text": "修政"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "立政",
+        "_elementType": "text",
+        "text": "立政"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.219344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "和平",
+        "_elementType": "text",
+        "text": "和平"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "归义",
+        "_elementType": "text",
+        "text": "归义"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "大通",
+        "_elementType": "text",
+        "text": "大通"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "昌明",
+        "_elementType": "text",
+        "text": "昌明"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "光行",
+        "_elementType": "text",
+        "text": "光行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "保宁",
+        "_elementType": "text",
+        "text": "保宁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "昌乐",
+        "_elementType": "text",
+        "text": "昌乐"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "通善",
+        "_elementType": "text",
+        "text": "通善"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "青龙",
+        "_elementType": "text",
+        "text": "青龙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "敦化",
+        "_elementType": "text",
+        "text": "敦化"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.214375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永阳",
+        "_elementType": "text",
+        "text": "永阳"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "昭行",
+        "_elementType": "text",
+        "text": "昭行"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "大安",
+        "_elementType": "text",
+        "text": "大安"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安乐",
+        "_elementType": "text",
+        "text": "安乐"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924082,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "延祚",
+        "_elementType": "text",
+        "text": "延祚"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931448,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安义",
+        "_elementType": "text",
+        "text": "安义"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939154,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安德",
+        "_elementType": "text",
+        "text": "安德"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946676,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "通济",
+        "_elementType": "text",
+        "text": "通济"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "曲池",
+        "_elementType": "text",
+        "text": "曲池"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.209295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "修真",
+        "_elementType": "text",
+        "text": "修真"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.278227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安定",
+        "_elementType": "text",
+        "text": "安定"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.278227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "修德",
+        "_elementType": "text",
+        "text": "修德"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.278227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "普宁",
+        "_elementType": "text",
+        "text": "普宁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.272361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "休祥",
+        "_elementType": "text",
+        "text": "休祥"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.272361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "辅兴",
+        "_elementType": "text",
+        "text": "辅兴"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.272361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "义宁",
+        "_elementType": "text",
+        "text": "义宁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.265086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "金城",
+        "_elementType": "text",
+        "text": "金城"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.265086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "颁政",
+        "_elementType": "text",
+        "text": "颁政"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.265086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "居德",
+        "_elementType": "text",
+        "text": "居德"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.889719,
+          34.257379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "醴泉",
+        "_elementType": "text",
+        "text": "醴泉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.257379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "布政",
+        "_elementType": "text",
+        "text": "布政"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.913741,
+          34.257379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "光宅",
+        "_elementType": "text",
+        "text": "光宅"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.955511,
+          34.278227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "翊善",
+        "_elementType": "text",
+        "text": "翊善"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.961514,
+          34.278227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "长乐",
+        "_elementType": "text",
+        "text": "长乐"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.278227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "大安国寺",
+        "_elementType": "text",
+        "text": "大安国寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.978212,
+          34.278227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "入苑(十六王宅)",
+        "_elementType": "text",
+        "text": "入苑(十六王宅)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.984222,
+          34.278227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永昌",
+        "_elementType": "text",
+        "text": "永昌"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.955511,
+          34.272361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "来庭",
+        "_elementType": "text",
+        "text": "来庭"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.961514,
+          34.272361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "大宁",
+        "_elementType": "text",
+        "text": "大宁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.272361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "兴宁",
+        "_elementType": "text",
+        "text": "兴宁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.272361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永兴",
+        "_elementType": "text",
+        "text": "永兴"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.265086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "安兴",
+        "_elementType": "text",
+        "text": "安兴"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.265086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "永嘉",
+        "_elementType": "text",
+        "text": "永嘉"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.266146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "崇仁",
+        "_elementType": "text",
+        "text": "崇仁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.957399,
+          34.257379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "ward-label"
+        ],
+        "name": "胜业",
+        "_elementType": "text",
+        "text": "胜业"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969093,
+          34.257379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "feature-label"
+        ],
+        "name": "西市",
+        "_elementType": "text",
+        "text": "西市"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.247785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "feature-label"
+        ],
+        "name": "东市",
+        "_elementType": "text",
+        "text": "东市"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.247785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "feature-label"
+        ],
+        "name": "兴庆宫",
+        "_elementType": "text",
+        "text": "兴庆宫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.258536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "feature-label"
+        ],
+        "name": "芙蓉园",
+        "_elementType": "text",
+        "text": "芙蓉园"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981096,
+          34.20422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "曲江池",
+        "_elementType": "text",
+        "text": "曲江池"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.977343,
+          34.204269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label"
+        ],
+        "name": "西侧居民环城街",
+        "_elementType": "text",
+        "text": "西侧居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.883404,
+          34.244441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label"
+        ],
+        "name": "南侧居民环城街",
+        "_elementType": "text",
+        "text": "南侧居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.206557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label"
+        ],
+        "name": "北侧居民环城街",
+        "_elementType": "text",
+        "text": "北侧居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.935446,
+          34.281089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label"
+        ],
+        "name": "东侧居民环城街",
+        "_elementType": "text",
+        "text": "东侧居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.988136,
+          34.247312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label"
+        ],
+        "name": "北侧夹城隔墙",
+        "_elementType": "text",
+        "text": "北侧夹城隔墙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.281398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label"
+        ],
+        "name": "东侧夹城隔墙",
+        "_elementType": "text",
+        "text": "东侧夹城隔墙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.988513,
+          34.247312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label"
+        ],
+        "name": "北侧夹城御道",
+        "_elementType": "text",
+        "text": "北侧夹城御道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.282017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label"
+        ],
+        "name": "东侧夹城御道",
+        "_elementType": "text",
+        "text": "东侧夹城御道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.989267,
+          34.247312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "西侧居民环城街",
+        "_elementType": "text",
+        "text": "西侧居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.883404,
+          34.244441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "南侧居民环城街",
+        "_elementType": "text",
+        "text": "南侧居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.206557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "北侧居民环城街",
+        "_elementType": "text",
+        "text": "北侧居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.935446,
+          34.281089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "北侧夹城御道",
+        "_elementType": "text",
+        "text": "北侧夹城御道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.955185,
+          34.282017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "东侧居民环城街",
+        "_elementType": "text",
+        "text": "东侧居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.988136,
+          34.247312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "东侧夹城御道",
+        "_elementType": "text",
+        "text": "东侧夹城御道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.989267,
+          34.247312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "光化门街（朱雀街西第四街）",
+        "_elementType": "text",
+        "text": "光化门街（朱雀街西第四街）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.895938,
+          34.243558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "景耀门街（朱雀街西第三街）",
+        "_elementType": "text",
+        "text": "景耀门街（朱雀街西第三街）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.907906,
+          34.243558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "安化门—芳林门街（皇城西街）",
+        "_elementType": "text",
+        "text": "安化门—芳林门街（皇城西街）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.91982,
+          34.243558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "含光门街（朱雀街西第一街）",
+        "_elementType": "text",
+        "text": "含光门街（朱雀街西第一街）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.928102,
+          34.229985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "朱雀大街（明德门—朱雀门街）",
+        "_elementType": "text",
+        "text": "朱雀大街（明德门—朱雀门街）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93529,
+          34.229985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "安上门街（朱雀街东第一街）",
+        "_elementType": "text",
+        "text": "安上门街（朱雀街东第一街）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.942543,
+          34.229985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "启夏门—兴安门街（皇城东街）",
+        "_elementType": "text",
+        "text": "启夏门—兴安门街（皇城东街）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.95117,
+          34.243558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "朱雀街东第三街",
+        "_elementType": "text",
+        "text": "朱雀街东第三街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.963273,
+          34.243558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "朱雀街东第四街",
+        "_elementType": "text",
+        "text": "朱雀街东第四街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.97543,
+          34.243558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "丹凤门大街",
+        "_elementType": "text",
+        "text": "丹凤门大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.959625,
+          34.275294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "兴庆宫西侧街",
+        "_elementType": "text",
+        "text": "兴庆宫西侧街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.975171,
+          34.258536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "金光门—春明门街",
+        "_elementType": "text",
+        "text": "金光门—春明门街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.253147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "皇城南第二横街",
+        "_elementType": "text",
+        "text": "皇城南第二横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.935603,
+          34.247829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "皇城南第三横街",
+        "_elementType": "text",
+        "text": "皇城南第三横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.242776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "皇城南第四横街",
+        "_elementType": "text",
+        "text": "皇城南第四横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.23763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "延平门—延兴门街",
+        "_elementType": "text",
+        "text": "延平门—延兴门街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.23233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "皇城南第六横街",
+        "_elementType": "text",
+        "text": "皇城南第六横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.227118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "皇城南第七横街",
+        "_elementType": "text",
+        "text": "皇城南第七横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.22195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "皇城南第八横街",
+        "_elementType": "text",
+        "text": "皇城南第八横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.216848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "皇城南第九横街",
+        "_elementType": "text",
+        "text": "皇城南第九横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936524,
+          34.211901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "北三横街",
+        "_elementType": "text",
+        "text": "北三横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.970208,
+          34.261416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "开远门—通化门街",
+        "_elementType": "text",
+        "text": "开远门—通化门街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.970208,
+          34.269093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "北一横街",
+        "_elementType": "text",
+        "text": "北一横街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.970208,
+          34.275294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "兴庆宫北街",
+        "_elementType": "text",
+        "text": "兴庆宫北街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.981804,
+          34.263633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "西市西侧周街",
+        "_elementType": "text",
+        "text": "西市西侧周街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.896541,
+          34.247785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "西市东侧周街",
+        "_elementType": "text",
+        "text": "西市东侧周街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.907189,
+          34.247785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "西市南侧周街",
+        "_elementType": "text",
+        "text": "西市南侧周街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.243306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "西市北侧周街",
+        "_elementType": "text",
+        "text": "西市北侧周街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.901865,
+          34.252264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "东市西侧周街",
+        "_elementType": "text",
+        "text": "东市西侧周街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.964017,
+          34.247785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "东市东侧周街",
+        "_elementType": "text",
+        "text": "东市东侧周街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.974686,
+          34.247785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "东市南侧周街",
+        "_elementType": "text",
+        "text": "东市南侧周街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.243306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "street-label"
+        ],
+        "name": "东市北侧周街",
+        "_elementType": "text",
+        "text": "东市北侧周街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.969351,
+          34.252264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "明德门",
+        "_elementType": "text",
+        "text": "明德门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93529,
+          34.206292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "安化门",
+        "_elementType": "text",
+        "text": "安化门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.91982,
+          34.206292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "启夏门",
+        "_elementType": "text",
+        "text": "启夏门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.95117,
+          34.206292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "金光门",
+        "_elementType": "text",
+        "text": "金光门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.88308,
+          34.253147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "延平门",
+        "_elementType": "text",
+        "text": "延平门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.88308,
+          34.23233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "开远门",
+        "_elementType": "text",
+        "text": "开远门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.88308,
+          34.269093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "春明门",
+        "_elementType": "text",
+        "text": "春明门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.989968,
+          34.253147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "延兴门",
+        "_elementType": "text",
+        "text": "延兴门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.989968,
+          34.23233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "通化门",
+        "_elementType": "text",
+        "text": "通化门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.989968,
+          34.269093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "光化门",
+        "_elementType": "text",
+        "text": "光化门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.895938,
+          34.282591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "景耀门",
+        "_elementType": "text",
+        "text": "景耀门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.907906,
+          34.282591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "芳林门",
+        "_elementType": "text",
+        "text": "芳林门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.91982,
+          34.282591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "兴安门",
+        "_elementType": "text",
+        "text": "兴安门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.95117,
+          34.282591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "丹凤门",
+        "_elementType": "text",
+        "text": "丹凤门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.959625,
+          34.282591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "朱雀门",
+        "_elementType": "text",
+        "text": "朱雀门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93529,
+          34.253677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "含光门",
+        "_elementType": "text",
+        "text": "含光门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.928102,
+          34.253677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "安上门",
+        "_elementType": "text",
+        "text": "安上门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.942543,
+          34.253677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "安福门",
+        "_elementType": "text",
+        "text": "安福门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.920402,
+          34.269093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "延喜门",
+        "_elementType": "text",
+        "text": "延喜门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.950448,
+          34.269093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "兴庆门",
+        "_elementType": "text",
+        "text": "兴庆门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.975796,
+          34.259269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "金明门",
+        "_elementType": "text",
+        "text": "金明门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.975796,
+          34.255691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "顺义门",
+        "_elementType": "text",
+        "text": "顺义门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.920402,
+          34.261416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "景风门",
+        "_elementType": "text",
+        "text": "景风门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.950448,
+          34.261416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "承天门",
+        "_elementType": "text",
+        "text": "承天门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93529,
+          34.269764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "太极门",
+        "_elementType": "text",
+        "text": "太极门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93529,
+          34.272861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "朱明门",
+        "_elementType": "text",
+        "text": "朱明门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93529,
+          34.275847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "玄武门",
+        "_elementType": "text",
+        "text": "玄武门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.93529,
+          34.280824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "建福门",
+        "_elementType": "text",
+        "text": "建福门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.956823,
+          34.282591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "label",
+          "gate-label"
+        ],
+        "name": "望仙门",
+        "_elementType": "text",
+        "text": "望仙门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.962427,
+          34.282591
+        ]
+      }
+    }
+  ]
+}

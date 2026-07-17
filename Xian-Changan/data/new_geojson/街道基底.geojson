@@ -1,0 +1,1715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "西侧居民环城街",
+        "description": "西侧居民环城街 | public_inner_wall_resident_street",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.282591
+            ],
+            [
+              108.883727,
+              34.282591
+            ],
+            [
+              108.883727,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "南侧居民环城街（芙蓉园西段）",
+        "description": "南侧居民环城街 | public_inner_wall_resident_street | 芙蓉园西段",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.206822
+            ],
+            [
+              108.974379,
+              34.206822
+            ],
+            [
+              108.974379,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "南侧居民环城街（芙蓉园东段）",
+        "description": "南侧居民环城街 | public_inner_wall_resident_street | 芙蓉园东段",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.987813,
+              34.206822
+            ],
+            [
+              108.989968,
+              34.206822
+            ],
+            [
+              108.989968,
+              34.206292
+            ],
+            [
+              108.987813,
+              34.206292
+            ],
+            [
+              108.987813,
+              34.206822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "西北侧居民环城街",
+        "description": "西北侧居民环城街 | public_inner_wall_resident_street",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.88308,
+              34.280824
+            ],
+            [
+              108.88308,
+              34.281354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "宫城北侧禁行道路",
+        "description": "宫城北侧禁行道路 | restricted_imperial_only",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.281354
+            ],
+            [
+              108.989968,
+              34.281354
+            ],
+            [
+              108.989968,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.281354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "北侧夹城御道",
+        "description": "北侧夹城御道 | restricted_imperial_only",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.281442
+            ],
+            [
+              108.920402,
+              34.281442
+            ],
+            [
+              108.920402,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "东侧居民环城街",
+        "description": "东侧居民环城街 | public_inner_wall_resident_street",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.987813,
+              34.282591
+            ],
+            [
+              108.988459,
+              34.282591
+            ],
+            [
+              108.988459,
+              34.212034
+            ],
+            [
+              108.987813,
+              34.212034
+            ],
+            [
+              108.987813,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "东侧夹城御道",
+        "description": "东侧夹城御道 | restricted_imperial_only",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.988567,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.212034
+            ],
+            [
+              108.988567,
+              34.212034
+            ],
+            [
+              108.988567,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "光化门街（朱雀街西第四街）",
+        "description": "光化门街（朱雀街西第四街） | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.895711,
+              34.280824
+            ],
+            [
+              108.896164,
+              34.280824
+            ],
+            [
+              108.896164,
+              34.206292
+            ],
+            [
+              108.895711,
+              34.206292
+            ],
+            [
+              108.895711,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "景耀门街（朱雀街西第三街）",
+        "description": "景耀门街（朱雀街西第三街） | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.907566,
+              34.280824
+            ],
+            [
+              108.908245,
+              34.280824
+            ],
+            [
+              108.908245,
+              34.206292
+            ],
+            [
+              108.907566,
+              34.206292
+            ],
+            [
+              108.907566,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "安化门—芳林门街（皇城西街）",
+        "description": "安化门—芳林门街（皇城西街） | public_priority",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.919238,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.206292
+            ],
+            [
+              108.919238,
+              34.206292
+            ],
+            [
+              108.919238,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "含光门街（朱雀街西第一街）",
+        "description": "含光门街（朱雀街西第一街） | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.927762,
+              34.253677
+            ],
+            [
+              108.928441,
+              34.253677
+            ],
+            [
+              108.928441,
+              34.206292
+            ],
+            [
+              108.927762,
+              34.206292
+            ],
+            [
+              108.927762,
+              34.253677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "朱雀大街（明德门—朱雀门街）",
+        "description": "朱雀大街（明德门—朱雀门街） | public_priority",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.934455,
+              34.253677
+            ],
+            [
+              108.936125,
+              34.253677
+            ],
+            [
+              108.936125,
+              34.206292
+            ],
+            [
+              108.934455,
+              34.206292
+            ],
+            [
+              108.934455,
+              34.253677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "安上门街（朱雀街东第一街）",
+        "description": "安上门街（朱雀街东第一街） | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942182,
+              34.253677
+            ],
+            [
+              108.942904,
+              34.253677
+            ],
+            [
+              108.942904,
+              34.206292
+            ],
+            [
+              108.942182,
+              34.206292
+            ],
+            [
+              108.942182,
+              34.253677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "启夏门—兴安门街（皇城东街）",
+        "description": "启夏门—兴安门街（皇城东街） | public_priority",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950448,
+              34.280824
+            ],
+            [
+              108.951892,
+              34.280824
+            ],
+            [
+              108.951892,
+              34.206292
+            ],
+            [
+              108.950448,
+              34.206292
+            ],
+            [
+              108.950448,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "朱雀街东第三街",
+        "description": "朱雀街东第三街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.962907,
+              34.280824
+            ],
+            [
+              108.963639,
+              34.280824
+            ],
+            [
+              108.963639,
+              34.206292
+            ],
+            [
+              108.962907,
+              34.206292
+            ],
+            [
+              108.962907,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "朱雀街东第四街",
+        "description": "朱雀街东第四街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975063,
+              34.280824
+            ],
+            [
+              108.975796,
+              34.280824
+            ],
+            [
+              108.975796,
+              34.206292
+            ],
+            [
+              108.975063,
+              34.206292
+            ],
+            [
+              108.975063,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "丹凤门大街",
+        "description": "丹凤门大街 | public_danfengmen_south_axis",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.959129,
+              34.280824
+            ],
+            [
+              108.960121,
+              34.280824
+            ],
+            [
+              108.960121,
+              34.269764
+            ],
+            [
+              108.959129,
+              34.269764
+            ],
+            [
+              108.959129,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "兴庆宫西侧街",
+        "description": "兴庆宫西侧街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.974546,
+              34.263395
+            ],
+            [
+              108.975796,
+              34.263395
+            ],
+            [
+              108.975796,
+              34.253677
+            ],
+            [
+              108.974546,
+              34.253677
+            ],
+            [
+              108.974546,
+              34.263395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "金光门—春明门街",
+        "description": "金光门—春明门街 | public_priority",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.253677
+            ],
+            [
+              108.989968,
+              34.253677
+            ],
+            [
+              108.989968,
+              34.252617
+            ],
+            [
+              108.88308,
+              34.252617
+            ],
+            [
+              108.88308,
+              34.253677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第二横街",
+        "description": "皇城南第二横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.248024
+            ],
+            [
+              108.896164,
+              34.248024
+            ],
+            [
+              108.896164,
+              34.247635
+            ],
+            [
+              108.88308,
+              34.247635
+            ],
+            [
+              108.88308,
+              34.248024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第二横街",
+        "description": "皇城南第二横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.907566,
+              34.248024
+            ],
+            [
+              108.963639,
+              34.248024
+            ],
+            [
+              108.963639,
+              34.247635
+            ],
+            [
+              108.907566,
+              34.247635
+            ],
+            [
+              108.907566,
+              34.248024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第二横街",
+        "description": "皇城南第二横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975063,
+              34.248024
+            ],
+            [
+              108.989968,
+              34.248024
+            ],
+            [
+              108.989968,
+              34.247635
+            ],
+            [
+              108.975063,
+              34.247635
+            ],
+            [
+              108.975063,
+              34.248024
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第三横街",
+        "description": "皇城南第三横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.242953
+            ],
+            [
+              108.989968,
+              34.242953
+            ],
+            [
+              108.989968,
+              34.242599
+            ],
+            [
+              108.88308,
+              34.242599
+            ],
+            [
+              108.88308,
+              34.242953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第四横街",
+        "description": "皇城南第四横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.237829
+            ],
+            [
+              108.989968,
+              34.237829
+            ],
+            [
+              108.989968,
+              34.237432
+            ],
+            [
+              108.88308,
+              34.237432
+            ],
+            [
+              108.88308,
+              34.237829
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "延平门—延兴门街",
+        "description": "延平门—延兴门街 | public_priority",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.232573
+            ],
+            [
+              108.989968,
+              34.232573
+            ],
+            [
+              108.989968,
+              34.232087
+            ],
+            [
+              108.88308,
+              34.232087
+            ],
+            [
+              108.88308,
+              34.232573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第六横街",
+        "description": "皇城南第六横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.227273
+            ],
+            [
+              108.989968,
+              34.227273
+            ],
+            [
+              108.989968,
+              34.226963
+            ],
+            [
+              108.88308,
+              34.226963
+            ],
+            [
+              108.88308,
+              34.227273
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第七横街",
+        "description": "皇城南第七横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.222193
+            ],
+            [
+              108.989968,
+              34.222193
+            ],
+            [
+              108.989968,
+              34.221707
+            ],
+            [
+              108.88308,
+              34.221707
+            ],
+            [
+              108.88308,
+              34.222193
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第八横街",
+        "description": "皇城南第八横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.216981
+            ],
+            [
+              108.989968,
+              34.216981
+            ],
+            [
+              108.989968,
+              34.216716
+            ],
+            [
+              108.88308,
+              34.216716
+            ],
+            [
+              108.88308,
+              34.216981
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "皇城南第九横街",
+        "description": "皇城南第九横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.212034
+            ],
+            [
+              108.989968,
+              34.212034
+            ],
+            [
+              108.989968,
+              34.211769
+            ],
+            [
+              108.88308,
+              34.211769
+            ],
+            [
+              108.88308,
+              34.212034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "北三横街",
+        "description": "北三横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.261752
+            ],
+            [
+              108.920402,
+              34.261752
+            ],
+            [
+              108.920402,
+              34.26108
+            ],
+            [
+              108.88308,
+              34.26108
+            ],
+            [
+              108.88308,
+              34.261752
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "北三横街",
+        "description": "北三横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950448,
+              34.261752
+            ],
+            [
+              108.989968,
+              34.261752
+            ],
+            [
+              108.989968,
+              34.26108
+            ],
+            [
+              108.950448,
+              34.26108
+            ],
+            [
+              108.950448,
+              34.261752
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "开远门—通化门街",
+        "description": "开远门—通化门街 | public_priority",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.268421
+            ],
+            [
+              108.88308,
+              34.268421
+            ],
+            [
+              108.88308,
+              34.269764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "开远门—通化门街",
+        "description": "开远门—通化门街 | public_priority",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950448,
+              34.269764
+            ],
+            [
+              108.989968,
+              34.269764
+            ],
+            [
+              108.989968,
+              34.268421
+            ],
+            [
+              108.950448,
+              34.268421
+            ],
+            [
+              108.950448,
+              34.269764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "北一横街",
+        "description": "北一横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.27563
+            ],
+            [
+              108.920402,
+              34.27563
+            ],
+            [
+              108.920402,
+              34.274958
+            ],
+            [
+              108.88308,
+              34.274958
+            ],
+            [
+              108.88308,
+              34.27563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "北一横街",
+        "description": "北一横街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950448,
+              34.27563
+            ],
+            [
+              108.989968,
+              34.27563
+            ],
+            [
+              108.989968,
+              34.274958
+            ],
+            [
+              108.950448,
+              34.274958
+            ],
+            [
+              108.950448,
+              34.27563
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "兴庆宫北街",
+        "description": "兴庆宫北街 | public_local",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.263872
+            ],
+            [
+              108.987813,
+              34.263872
+            ],
+            [
+              108.987813,
+              34.263395
+            ],
+            [
+              108.975796,
+              34.263395
+            ],
+            [
+              108.975796,
+              34.263872
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "西市西侧周街",
+        "description": "西市西侧周街 | public_market_perimeter",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.252617
+            ],
+            [
+              108.896918,
+              34.252617
+            ],
+            [
+              108.896918,
+              34.242953
+            ],
+            [
+              108.896164,
+              34.242953
+            ],
+            [
+              108.896164,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "西市东侧周街",
+        "description": "西市东侧周街 | public_market_perimeter",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.906812,
+              34.252617
+            ],
+            [
+              108.907566,
+              34.252617
+            ],
+            [
+              108.907566,
+              34.242953
+            ],
+            [
+              108.906812,
+              34.242953
+            ],
+            [
+              108.906812,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "西市南侧周街",
+        "description": "西市南侧周街 | public_market_perimeter",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.24366
+            ],
+            [
+              108.907566,
+              34.24366
+            ],
+            [
+              108.907566,
+              34.242953
+            ],
+            [
+              108.896164,
+              34.242953
+            ],
+            [
+              108.896164,
+              34.24366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "西市北侧周街",
+        "description": "西市北侧周街 | public_market_perimeter",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.252617
+            ],
+            [
+              108.907566,
+              34.252617
+            ],
+            [
+              108.907566,
+              34.25191
+            ],
+            [
+              108.896164,
+              34.25191
+            ],
+            [
+              108.896164,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "东市西侧周街",
+        "description": "东市西侧周街 | public_market_perimeter",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.252617
+            ],
+            [
+              108.964394,
+              34.252617
+            ],
+            [
+              108.964394,
+              34.242953
+            ],
+            [
+              108.963639,
+              34.242953
+            ],
+            [
+              108.963639,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "东市东侧周街",
+        "description": "东市东侧周街 | public_market_perimeter",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.974309,
+              34.252617
+            ],
+            [
+              108.975063,
+              34.252617
+            ],
+            [
+              108.975063,
+              34.242953
+            ],
+            [
+              108.974309,
+              34.242953
+            ],
+            [
+              108.974309,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "东市南侧周街",
+        "description": "东市南侧周街 | public_market_perimeter",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.24366
+            ],
+            [
+              108.975063,
+              34.24366
+            ],
+            [
+              108.975063,
+              34.242953
+            ],
+            [
+              108.963639,
+              34.242953
+            ],
+            [
+              108.963639,
+              34.24366
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "street-band"
+        ],
+        "name": "东市北侧周街",
+        "description": "东市北侧周街 | public_market_perimeter",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.252617
+            ],
+            [
+              108.975063,
+              34.252617
+            ],
+            [
+              108.975063,
+              34.25191
+            ],
+            [
+              108.963639,
+              34.25191
+            ],
+            [
+              108.963639,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

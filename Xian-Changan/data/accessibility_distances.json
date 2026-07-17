@@ -1,0 +1,571 @@
+{
+  "version": 1,
+  "computedAt": "2026-07-12",
+  "wards": {
+    "群贤坊": {
+      "palace": 3386,
+      "market": 297,
+      "gate": 380
+    },
+    "延寿坊": {
+      "palace": 1203,
+      "market": 318,
+      "gate": 2656
+    },
+    "太平坊": {
+      "palace": 412,
+      "market": 1509,
+      "gate": 3708
+    },
+    "善和坊": {
+      "palace": 412,
+      "market": 2255,
+      "gate": 4455
+    },
+    "兴道坊": {
+      "palace": 414,
+      "market": 2309,
+      "gate": 4756
+    },
+    "务本坊": {
+      "palace": 414,
+      "market": 1542,
+      "gate": 3989
+    },
+    "平康坊": {
+      "palace": 1248,
+      "market": 323,
+      "gate": 2832
+    },
+    "道政坊": {
+      "palace": 3466,
+      "market": 323,
+      "gate": 520
+    },
+    "怀德坊": {
+      "palace": 3955,
+      "market": 302,
+      "gate": 949
+    },
+    "光德坊": {
+      "palace": 1772,
+      "market": 323,
+      "gate": 3225
+    },
+    "通义坊": {
+      "palace": 981,
+      "market": 1514,
+      "gate": 4278
+    },
+    "通化坊": {
+      "palace": 981,
+      "market": 2260,
+      "gate": 4494
+    },
+    "开化坊": {
+      "palace": 983,
+      "market": 2314,
+      "gate": 4494
+    },
+    "崇义坊": {
+      "palace": 983,
+      "market": 1547,
+      "gate": 4484
+    },
+    "宣阳坊": {
+      "palace": 1817,
+      "market": 328,
+      "gate": 3401
+    },
+    "常乐坊": {
+      "palace": 4035,
+      "market": 328,
+      "gate": 1089
+    },
+    "崇化坊": {
+      "palace": 4530,
+      "market": 427,
+      "gate": 953
+    },
+    "怀远坊": {
+      "palace": 3431,
+      "market": 427,
+      "gate": 2107
+    },
+    "延康坊": {
+      "palace": 2347,
+      "market": 448,
+      "gate": 3229
+    },
+    "兴化坊": {
+      "palace": 1556,
+      "market": 1577,
+      "gate": 3896
+    },
+    "丰乐坊": {
+      "palace": 1556,
+      "market": 2323,
+      "gate": 3919
+    },
+    "安仁坊": {
+      "palace": 1558,
+      "market": 2377,
+      "gate": 3919
+    },
+    "长兴坊": {
+      "palace": 1558,
+      "market": 1610,
+      "gate": 3909
+    },
+    "亲仁坊": {
+      "palace": 2392,
+      "market": 453,
+      "gate": 3405
+    },
+    "安邑坊": {
+      "palace": 3483,
+      "market": 453,
+      "gate": 2276
+    },
+    "靖恭坊": {
+      "palace": 4610,
+      "market": 453,
+      "gate": 1093
+    },
+    "丰邑坊": {
+      "palace": 5121,
+      "market": 1017,
+      "gate": 363
+    },
+    "长寿坊": {
+      "palace": 4021,
+      "market": 1017,
+      "gate": 1517
+    },
+    "崇贤坊": {
+      "palace": 2938,
+      "market": 1038,
+      "gate": 2639
+    },
+    "崇德坊": {
+      "palace": 2146,
+      "market": 2167,
+      "gate": 3305
+    },
+    "安业坊": {
+      "palace": 2146,
+      "market": 2913,
+      "gate": 3329
+    },
+    "光福坊": {
+      "palace": 2148,
+      "market": 2967,
+      "gate": 3329
+    },
+    "永乐坊": {
+      "palace": 2148,
+      "market": 2200,
+      "gate": 3318
+    },
+    "永宁坊": {
+      "palace": 2983,
+      "market": 1043,
+      "gate": 2815
+    },
+    "宣平坊": {
+      "palace": 4073,
+      "market": 1043,
+      "gate": 1686
+    },
+    "新昌坊": {
+      "palace": 5201,
+      "market": 1043,
+      "gate": 503
+    },
+    "待贤坊": {
+      "palace": 5723,
+      "market": 1620,
+      "gate": 360
+    },
+    "嘉会坊": {
+      "palace": 4624,
+      "market": 1620,
+      "gate": 1515
+    },
+    "延福坊": {
+      "palace": 3540,
+      "market": 1641,
+      "gate": 2636
+    },
+    "怀贞坊": {
+      "palace": 2749,
+      "market": 2770,
+      "gate": 2703
+    },
+    "崇业坊": {
+      "palace": 2749,
+      "market": 3516,
+      "gate": 2726
+    },
+    "靖善坊": {
+      "palace": 2751,
+      "market": 3570,
+      "gate": 2726
+    },
+    "靖安坊": {
+      "palace": 2751,
+      "market": 2803,
+      "gate": 2716
+    },
+    "永崇坊": {
+      "palace": 3585,
+      "market": 1646,
+      "gate": 2716
+    },
+    "昇平坊": {
+      "palace": 4676,
+      "market": 1646,
+      "gate": 1684
+    },
+    "昇道坊": {
+      "palace": 5803,
+      "market": 1646,
+      "gate": 500
+    },
+    "淳和坊": {
+      "palace": 6301,
+      "market": 2198,
+      "gate": 938
+    },
+    "永平坊": {
+      "palace": 5202,
+      "market": 2198,
+      "gate": 2092
+    },
+    "永安坊": {
+      "palace": 4118,
+      "market": 2219,
+      "gate": 2125
+    },
+    "宣义坊": {
+      "palace": 3327,
+      "market": 3347,
+      "gate": 2125
+    },
+    "永达坊": {
+      "palace": 3327,
+      "market": 4094,
+      "gate": 2148
+    },
+    "兰陵坊": {
+      "palace": 3329,
+      "market": 4148,
+      "gate": 2148
+    },
+    "安善坊": {
+      "palace": 3329,
+      "market": 3380,
+      "gate": 2138
+    },
+    "昭国坊": {
+      "palace": 4163,
+      "market": 2224,
+      "gate": 2138
+    },
+    "修行坊": {
+      "palace": 5254,
+      "market": 2224,
+      "gate": 2261
+    },
+    "广德坊": {
+      "palace": 6381,
+      "market": 2224,
+      "gate": 1078
+    },
+    "常安坊": {
+      "palace": 6894,
+      "market": 2791,
+      "gate": 1531
+    },
+    "通轨坊": {
+      "palace": 5794,
+      "market": 2791,
+      "gate": 2616
+    },
+    "敦义坊": {
+      "palace": 4711,
+      "market": 2812,
+      "gate": 1532
+    },
+    "丰安坊": {
+      "palace": 3920,
+      "market": 3940,
+      "gate": 1532
+    },
+    "道德坊": {
+      "palace": 3920,
+      "market": 4686,
+      "gate": 1556
+    },
+    "开明坊": {
+      "palace": 3922,
+      "market": 4740,
+      "gate": 1556
+    },
+    "大业坊": {
+      "palace": 3922,
+      "market": 3973,
+      "gate": 1545
+    },
+    "晋昌坊": {
+      "palace": 4756,
+      "market": 2817,
+      "gate": 1545
+    },
+    "修政坊": {
+      "palace": 5846,
+      "market": 2817,
+      "gate": 2636
+    },
+    "立政坊": {
+      "palace": 6974,
+      "market": 2817,
+      "gate": 1671
+    },
+    "和平坊": {
+      "palace": 7457,
+      "market": 3353,
+      "gate": 2093
+    },
+    "归义坊": {
+      "palace": 6357,
+      "market": 3353,
+      "gate": 2053
+    },
+    "大通坊": {
+      "palace": 5274,
+      "market": 3374,
+      "gate": 969
+    },
+    "昌明坊": {
+      "palace": 4482,
+      "market": 4503,
+      "gate": 969
+    },
+    "光行坊": {
+      "palace": 4482,
+      "market": 5249,
+      "gate": 993
+    },
+    "保宁坊": {
+      "palace": 4484,
+      "market": 5303,
+      "gate": 993
+    },
+    "昌乐坊": {
+      "palace": 4484,
+      "market": 4536,
+      "gate": 982
+    },
+    "通善坊": {
+      "palace": 5319,
+      "market": 3379,
+      "gate": 982
+    },
+    "青龙坊": {
+      "palace": 6409,
+      "market": 3379,
+      "gate": 2073
+    },
+    "敦化坊": {
+      "palace": 7537,
+      "market": 3379,
+      "gate": 2233
+    },
+    "永阳坊": {
+      "palace": 8032,
+      "market": 3929,
+      "gate": 2578
+    },
+    "昭行坊": {
+      "palace": 6932,
+      "market": 3929,
+      "gate": 1478
+    },
+    "大安坊": {
+      "palace": 5849,
+      "market": 3950,
+      "gate": 394
+    },
+    "安乐坊": {
+      "palace": 5058,
+      "market": 5078,
+      "gate": 394
+    },
+    "延祚坊": {
+      "palace": 5058,
+      "market": 5824,
+      "gate": 418
+    },
+    "安义坊": {
+      "palace": 5060,
+      "market": 5878,
+      "gate": 418
+    },
+    "安德坊": {
+      "palace": 5060,
+      "market": 5111,
+      "gate": 407
+    },
+    "通济坊": {
+      "palace": 5894,
+      "market": 3955,
+      "gate": 407
+    },
+    "曲池坊": {
+      "palace": 6984,
+      "market": 3955,
+      "gate": 1498
+    },
+    "修真坊": {
+      "palace": 4196,
+      "market": 3017,
+      "gate": 515
+    },
+    "安定坊": {
+      "palace": 3095,
+      "market": 3017,
+      "gate": 515
+    },
+    "修德坊": {
+      "palace": 2012,
+      "market": 3038,
+      "gate": 526
+    },
+    "普宁坊": {
+      "palace": 3531,
+      "market": 2353,
+      "gate": 430
+    },
+    "休祥坊": {
+      "palace": 2431,
+      "market": 2353,
+      "gate": 1179
+    },
+    "辅兴坊": {
+      "palace": 1348,
+      "market": 2374,
+      "gate": 1190
+    },
+    "义宁坊": {
+      "palace": 2708,
+      "market": 1529,
+      "gate": 514
+    },
+    "金城坊": {
+      "palace": 1607,
+      "market": 1529,
+      "gate": 1668
+    },
+    "颁政坊": {
+      "palace": 524,
+      "market": 1550,
+      "gate": 2014
+    },
+    "居德坊": {
+      "palace": 2749,
+      "market": 656,
+      "gate": 539
+    },
+    "醴泉坊": {
+      "palace": 1649,
+      "market": 654,
+      "gate": 1694
+    },
+    "布政坊": {
+      "palace": 565,
+      "market": 677,
+      "gate": 2815
+    },
+    "光宅坊": {
+      "palace": 1168,
+      "market": 3394,
+      "gate": 3897
+    },
+    "翊善坊": {
+      "palace": 1932,
+      "market": 3043,
+      "gate": 3546
+    },
+    "长乐坊": {
+      "palace": 2259,
+      "market": 3043,
+      "gate": 2418
+    },
+    "大安国寺坊": {
+      "palace": 3318,
+      "market": 2973,
+      "gate": 1831
+    },
+    "入苑(十六王宅)坊": {
+      "palace": 3875,
+      "market": 3531,
+      "gate": 1234
+    },
+    "永昌坊": {
+      "palace": 504,
+      "market": 2730,
+      "gate": 3233
+    },
+    "来庭坊": {
+      "palace": 1268,
+      "market": 2379,
+      "gate": 2882
+    },
+    "大宁坊": {
+      "palace": 1595,
+      "market": 2379,
+      "gate": 1754
+    },
+    "兴宁坊": {
+      "palace": 2723,
+      "market": 2379,
+      "gate": 570
+    },
+    "永兴坊": {
+      "palace": 550,
+      "market": 1555,
+      "gate": 2966
+    },
+    "安兴坊": {
+      "palace": 1640,
+      "market": 1555,
+      "gate": 1837
+    },
+    "永嘉坊": {
+      "palace": 2687,
+      "market": 1675,
+      "gate": 534
+    },
+    "崇仁坊": {
+      "palace": 591,
+      "market": 682,
+      "gate": 2991
+    },
+    "胜业坊": {
+      "palace": 1682,
+      "market": 631,
+      "gate": 1911
+    },
+    "西市坊": {
+      "palace": 2495,
+      "market": 0,
+      "gate": 1514
+    },
+    "东市坊": {
+      "palace": 2525,
+      "market": 0,
+      "gate": 1938
+    }
+  }
+}

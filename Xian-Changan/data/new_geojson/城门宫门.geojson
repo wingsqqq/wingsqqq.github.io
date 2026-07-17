@@ -1,0 +1,1136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "明德门",
+        "description": "明德门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935064,
+              34.206477
+            ],
+            [
+              108.935517,
+              34.206477
+            ],
+            [
+              108.935517,
+              34.206106
+            ],
+            [
+              108.935064,
+              34.206106
+            ],
+            [
+              108.935064,
+              34.206477
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "安化门",
+        "description": "安化门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.919593,
+              34.206477
+            ],
+            [
+              108.920046,
+              34.206477
+            ],
+            [
+              108.920046,
+              34.206106
+            ],
+            [
+              108.919593,
+              34.206106
+            ],
+            [
+              108.919593,
+              34.206477
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "启夏门",
+        "description": "启夏门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950944,
+              34.206477
+            ],
+            [
+              108.951397,
+              34.206477
+            ],
+            [
+              108.951397,
+              34.206106
+            ],
+            [
+              108.950944,
+              34.206106
+            ],
+            [
+              108.950944,
+              34.206477
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "金光门",
+        "description": "金光门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.882854,
+              34.253333
+            ],
+            [
+              108.883307,
+              34.253333
+            ],
+            [
+              108.883307,
+              34.252962
+            ],
+            [
+              108.882854,
+              34.252962
+            ],
+            [
+              108.882854,
+              34.253333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "延平门",
+        "description": "延平门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.882854,
+              34.232516
+            ],
+            [
+              108.883307,
+              34.232516
+            ],
+            [
+              108.883307,
+              34.232144
+            ],
+            [
+              108.882854,
+              34.232144
+            ],
+            [
+              108.882854,
+              34.232516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "开远门",
+        "description": "开远门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.882854,
+              34.269278
+            ],
+            [
+              108.883307,
+              34.269278
+            ],
+            [
+              108.883307,
+              34.268907
+            ],
+            [
+              108.882854,
+              34.268907
+            ],
+            [
+              108.882854,
+              34.269278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "春明门",
+        "description": "春明门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.989742,
+              34.253333
+            ],
+            [
+              108.990194,
+              34.253333
+            ],
+            [
+              108.990194,
+              34.252962
+            ],
+            [
+              108.989742,
+              34.252962
+            ],
+            [
+              108.989742,
+              34.253333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "延兴门",
+        "description": "延兴门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.989742,
+              34.232516
+            ],
+            [
+              108.990194,
+              34.232516
+            ],
+            [
+              108.990194,
+              34.232144
+            ],
+            [
+              108.989742,
+              34.232144
+            ],
+            [
+              108.989742,
+              34.232516
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "通化门",
+        "description": "通化门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.989742,
+              34.269278
+            ],
+            [
+              108.990194,
+              34.269278
+            ],
+            [
+              108.990194,
+              34.268907
+            ],
+            [
+              108.989742,
+              34.268907
+            ],
+            [
+              108.989742,
+              34.269278
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "光化门",
+        "description": "光化门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.895711,
+              34.282776
+            ],
+            [
+              108.896164,
+              34.282776
+            ],
+            [
+              108.896164,
+              34.282405
+            ],
+            [
+              108.895711,
+              34.282405
+            ],
+            [
+              108.895711,
+              34.282776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "景耀门",
+        "description": "景耀门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.907679,
+              34.282776
+            ],
+            [
+              108.908132,
+              34.282776
+            ],
+            [
+              108.908132,
+              34.282405
+            ],
+            [
+              108.907679,
+              34.282405
+            ],
+            [
+              108.907679,
+              34.282776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "芳林门",
+        "description": "芳林门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.919593,
+              34.282776
+            ],
+            [
+              108.920046,
+              34.282776
+            ],
+            [
+              108.920046,
+              34.282405
+            ],
+            [
+              108.919593,
+              34.282405
+            ],
+            [
+              108.919593,
+              34.282776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-public"
+        ],
+        "name": "兴安门",
+        "description": "兴安门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950944,
+              34.282776
+            ],
+            [
+              108.951397,
+              34.282776
+            ],
+            [
+              108.951397,
+              34.282405
+            ],
+            [
+              108.950944,
+              34.282405
+            ],
+            [
+              108.950944,
+              34.282776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "丹凤门",
+        "description": "丹凤门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.959442,
+              34.282741
+            ],
+            [
+              108.959808,
+              34.282741
+            ],
+            [
+              108.959808,
+              34.282441
+            ],
+            [
+              108.959442,
+              34.282441
+            ],
+            [
+              108.959442,
+              34.282741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "朱雀门",
+        "description": "朱雀门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935107,
+              34.253827
+            ],
+            [
+              108.935473,
+              34.253827
+            ],
+            [
+              108.935473,
+              34.253527
+            ],
+            [
+              108.935107,
+              34.253527
+            ],
+            [
+              108.935107,
+              34.253827
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "含光门",
+        "description": "含光门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.927919,
+              34.253827
+            ],
+            [
+              108.928285,
+              34.253827
+            ],
+            [
+              108.928285,
+              34.253527
+            ],
+            [
+              108.927919,
+              34.253527
+            ],
+            [
+              108.927919,
+              34.253827
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "安上门",
+        "description": "安上门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.94236,
+              34.253827
+            ],
+            [
+              108.942726,
+              34.253827
+            ],
+            [
+              108.942726,
+              34.253527
+            ],
+            [
+              108.94236,
+              34.253527
+            ],
+            [
+              108.94236,
+              34.253827
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "安福门",
+        "description": "安福门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920218,
+              34.269243
+            ],
+            [
+              108.920585,
+              34.269243
+            ],
+            [
+              108.920585,
+              34.268942
+            ],
+            [
+              108.920218,
+              34.268942
+            ],
+            [
+              108.920218,
+              34.269243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "延喜门",
+        "description": "延喜门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950265,
+              34.269243
+            ],
+            [
+              108.950631,
+              34.269243
+            ],
+            [
+              108.950631,
+              34.268942
+            ],
+            [
+              108.950265,
+              34.268942
+            ],
+            [
+              108.950265,
+              34.269243
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "兴庆门",
+        "description": "兴庆门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975613,
+              34.259419
+            ],
+            [
+              108.975979,
+              34.259419
+            ],
+            [
+              108.975979,
+              34.259119
+            ],
+            [
+              108.975613,
+              34.259119
+            ],
+            [
+              108.975613,
+              34.259419
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "金明门",
+        "description": "金明门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975613,
+              34.255842
+            ],
+            [
+              108.975979,
+              34.255842
+            ],
+            [
+              108.975979,
+              34.255541
+            ],
+            [
+              108.975613,
+              34.255541
+            ],
+            [
+              108.975613,
+              34.255842
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "顺义门",
+        "description": "顺义门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920218,
+              34.261566
+            ],
+            [
+              108.920585,
+              34.261566
+            ],
+            [
+              108.920585,
+              34.261266
+            ],
+            [
+              108.920218,
+              34.261266
+            ],
+            [
+              108.920218,
+              34.261566
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "景风门",
+        "description": "景风门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950265,
+              34.261566
+            ],
+            [
+              108.950631,
+              34.261566
+            ],
+            [
+              108.950631,
+              34.261266
+            ],
+            [
+              108.950265,
+              34.261266
+            ],
+            [
+              108.950265,
+              34.261566
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "承天门",
+        "description": "承天门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935107,
+              34.269914
+            ],
+            [
+              108.935473,
+              34.269914
+            ],
+            [
+              108.935473,
+              34.269614
+            ],
+            [
+              108.935107,
+              34.269614
+            ],
+            [
+              108.935107,
+              34.269914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "太极门",
+        "description": "太极门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935107,
+              34.273011
+            ],
+            [
+              108.935473,
+              34.273011
+            ],
+            [
+              108.935473,
+              34.272711
+            ],
+            [
+              108.935107,
+              34.272711
+            ],
+            [
+              108.935107,
+              34.273011
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "朱明门",
+        "description": "朱明门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935107,
+              34.275997
+            ],
+            [
+              108.935473,
+              34.275997
+            ],
+            [
+              108.935473,
+              34.275697
+            ],
+            [
+              108.935107,
+              34.275697
+            ],
+            [
+              108.935107,
+              34.275997
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "玄武门",
+        "description": "玄武门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935107,
+              34.280974
+            ],
+            [
+              108.935473,
+              34.280974
+            ],
+            [
+              108.935473,
+              34.280674
+            ],
+            [
+              108.935107,
+              34.280674
+            ],
+            [
+              108.935107,
+              34.280974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "建福门",
+        "description": "建福门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.95664,
+              34.282741
+            ],
+            [
+              108.957006,
+              34.282741
+            ],
+            [
+              108.957006,
+              34.282441
+            ],
+            [
+              108.95664,
+              34.282441
+            ],
+            [
+              108.95664,
+              34.282741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "gate",
+          "gate-restricted"
+        ],
+        "name": "望仙门",
+        "description": "望仙门",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.962244,
+              34.282741
+            ],
+            [
+              108.96261,
+              34.282741
+            ],
+            [
+              108.96261,
+              34.282441
+            ],
+            [
+              108.962244,
+              34.282441
+            ],
+            [
+              108.962244,
+              34.282741
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

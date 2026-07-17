@@ -1,0 +1,537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "public-ring-overlay"
+        ],
+        "name": "西侧居民环城街",
+        "description": "public_inner_wall_resident_street | 西侧居民环城街",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.282591
+            ],
+            [
+              108.883727,
+              34.282591
+            ],
+            [
+              108.883727,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "public-ring-overlay"
+        ],
+        "name": "南侧居民环城街（芙蓉园西段）",
+        "description": "public_inner_wall_resident_street | 南侧居民环城街（芙蓉园西段）",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.206822
+            ],
+            [
+              108.974379,
+              34.206822
+            ],
+            [
+              108.974379,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "public-ring-overlay"
+        ],
+        "name": "南侧居民环城街（芙蓉园东段）",
+        "description": "public_inner_wall_resident_street | 南侧居民环城街（芙蓉园东段）",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.987813,
+              34.206822
+            ],
+            [
+              108.989968,
+              34.206822
+            ],
+            [
+              108.989968,
+              34.206292
+            ],
+            [
+              108.987813,
+              34.206292
+            ],
+            [
+              108.987813,
+              34.206822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "public-ring-overlay"
+        ],
+        "name": "西北侧居民环城街",
+        "description": "public_inner_wall_resident_street | 芳林门以西可通行",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.88308,
+              34.280824
+            ],
+            [
+              108.88308,
+              34.281354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "restricted-street-overlay"
+        ],
+        "name": "宫城北侧禁行带",
+        "description": "restricted_imperial_only | 宫城北侧道路与北侧夹城御道均禁行",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "public-ring-overlay"
+        ],
+        "name": "东侧居民环城街",
+        "description": "public_inner_wall_resident_street | 东侧居民环城街",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.987813,
+              34.282591
+            ],
+            [
+              108.988459,
+              34.282591
+            ],
+            [
+              108.988459,
+              34.212034
+            ],
+            [
+              108.987813,
+              34.212034
+            ],
+            [
+              108.987813,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "restricted-street-overlay"
+        ],
+        "name": "东侧夹城御道",
+        "description": "restricted_outer_jiacheng_street | 东侧夹城御道",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.988567,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.212034
+            ],
+            [
+              108.988567,
+              34.212034
+            ],
+            [
+              108.988567,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "priority-street-overlay"
+        ],
+        "name": "安化门—芳林门街（皇城西街）",
+        "description": "priority_public_street | 安化门—芳林门街（皇城西街）",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.919238,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.206292
+            ],
+            [
+              108.919238,
+              34.206292
+            ],
+            [
+              108.919238,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "priority-street-overlay"
+        ],
+        "name": "朱雀大街（明德门—朱雀门街）",
+        "description": "priority_public_street | 朱雀大街（明德门—朱雀门街）",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.934455,
+              34.253677
+            ],
+            [
+              108.936125,
+              34.253677
+            ],
+            [
+              108.936125,
+              34.206292
+            ],
+            [
+              108.934455,
+              34.206292
+            ],
+            [
+              108.934455,
+              34.253677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "priority-street-overlay"
+        ],
+        "name": "启夏门—兴安门街（皇城东街）",
+        "description": "priority_public_street | 启夏门—兴安门街（皇城东街）",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950448,
+              34.280824
+            ],
+            [
+              108.951892,
+              34.280824
+            ],
+            [
+              108.951892,
+              34.206292
+            ],
+            [
+              108.950448,
+              34.206292
+            ],
+            [
+              108.950448,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "priority-street-overlay"
+        ],
+        "name": "金光门—春明门街",
+        "description": "priority_public_street | 金光门—春明门街",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.253677
+            ],
+            [
+              108.989968,
+              34.253677
+            ],
+            [
+              108.989968,
+              34.252617
+            ],
+            [
+              108.88308,
+              34.252617
+            ],
+            [
+              108.88308,
+              34.253677
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "priority-street-overlay"
+        ],
+        "name": "延平门—延兴门街",
+        "description": "priority_public_street | 延平门—延兴门街",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.232573
+            ],
+            [
+              108.989968,
+              34.232573
+            ],
+            [
+              108.989968,
+              34.232087
+            ],
+            [
+              108.88308,
+              34.232087
+            ],
+            [
+              108.88308,
+              34.232573
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "priority-street-overlay"
+        ],
+        "name": "开远门—通化门街",
+        "description": "priority_public_street | 开远门—通化门街",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.268421
+            ],
+            [
+              108.88308,
+              34.268421
+            ],
+            [
+              108.88308,
+              34.269764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "priority-street-overlay"
+        ],
+        "name": "开远门—通化门街",
+        "description": "priority_public_street | 开远门—通化门街",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.950448,
+              34.269764
+            ],
+            [
+              108.989968,
+              34.269764
+            ],
+            [
+              108.989968,
+              34.268421
+            ],
+            [
+              108.950448,
+              34.268421
+            ],
+            [
+              108.950448,
+              34.269764
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

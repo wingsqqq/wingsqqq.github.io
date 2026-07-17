@@ -1,0 +1,7415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "群贤 坊内街道",
+        "description": "群贤 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.250387
+            ],
+            [
+              108.895711,
+              34.250387
+            ],
+            [
+              108.895711,
+              34.250254
+            ],
+            [
+              108.883727,
+              34.250254
+            ],
+            [
+              108.883727,
+              34.250387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "群贤 坊内街道",
+        "description": "群贤 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.252617
+            ],
+            [
+              108.8898,
+              34.252617
+            ],
+            [
+              108.8898,
+              34.248024
+            ],
+            [
+              108.889638,
+              34.248024
+            ],
+            [
+              108.889638,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "延寿 坊内街道",
+        "description": "延寿 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.250387
+            ],
+            [
+              108.919238,
+              34.250387
+            ],
+            [
+              108.919238,
+              34.250254
+            ],
+            [
+              108.908245,
+              34.250254
+            ],
+            [
+              108.908245,
+              34.250387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "延寿 坊内街道",
+        "description": "延寿 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.252617
+            ],
+            [
+              108.913822,
+              34.252617
+            ],
+            [
+              108.913822,
+              34.248024
+            ],
+            [
+              108.913661,
+              34.248024
+            ],
+            [
+              108.913661,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "太平 坊内街道",
+        "description": "太平 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.250387
+            ],
+            [
+              108.927762,
+              34.250387
+            ],
+            [
+              108.927762,
+              34.250254
+            ],
+            [
+              108.920402,
+              34.250254
+            ],
+            [
+              108.920402,
+              34.250387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "善和 坊内街道",
+        "description": "善和 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.250387
+            ],
+            [
+              108.934455,
+              34.250387
+            ],
+            [
+              108.934455,
+              34.250254
+            ],
+            [
+              108.928441,
+              34.250254
+            ],
+            [
+              108.928441,
+              34.250387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "兴道 坊内街道",
+        "description": "兴道 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.250387
+            ],
+            [
+              108.942182,
+              34.250387
+            ],
+            [
+              108.942182,
+              34.250254
+            ],
+            [
+              108.936125,
+              34.250254
+            ],
+            [
+              108.936125,
+              34.250387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "务本 坊内街道",
+        "description": "务本 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.250387
+            ],
+            [
+              108.950448,
+              34.250387
+            ],
+            [
+              108.950448,
+              34.250254
+            ],
+            [
+              108.942904,
+              34.250254
+            ],
+            [
+              108.942904,
+              34.250387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "平康 坊内街道",
+        "description": "平康 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.250387
+            ],
+            [
+              108.962907,
+              34.250387
+            ],
+            [
+              108.962907,
+              34.250254
+            ],
+            [
+              108.951892,
+              34.250254
+            ],
+            [
+              108.951892,
+              34.250387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "平康 坊内街道",
+        "description": "平康 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.252617
+            ],
+            [
+              108.95748,
+              34.252617
+            ],
+            [
+              108.95748,
+              34.248024
+            ],
+            [
+              108.957319,
+              34.248024
+            ],
+            [
+              108.957319,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "道政 坊内街道",
+        "description": "道政 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.250387
+            ],
+            [
+              108.987813,
+              34.250387
+            ],
+            [
+              108.987813,
+              34.250254
+            ],
+            [
+              108.975796,
+              34.250254
+            ],
+            [
+              108.975796,
+              34.250387
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "道政 坊内街道",
+        "description": "道政 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.252617
+            ],
+            [
+              108.981885,
+              34.252617
+            ],
+            [
+              108.981885,
+              34.248024
+            ],
+            [
+              108.981723,
+              34.248024
+            ],
+            [
+              108.981723,
+              34.252617
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "怀德 坊内街道",
+        "description": "怀德 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.24536
+            ],
+            [
+              108.895711,
+              34.24536
+            ],
+            [
+              108.895711,
+              34.245228
+            ],
+            [
+              108.883727,
+              34.245228
+            ],
+            [
+              108.883727,
+              34.24536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "怀德 坊内街道",
+        "description": "怀德 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.247635
+            ],
+            [
+              108.8898,
+              34.247635
+            ],
+            [
+              108.8898,
+              34.242953
+            ],
+            [
+              108.889638,
+              34.242953
+            ],
+            [
+              108.889638,
+              34.247635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "光德 坊内街道",
+        "description": "光德 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.24536
+            ],
+            [
+              108.919238,
+              34.24536
+            ],
+            [
+              108.919238,
+              34.245228
+            ],
+            [
+              108.908245,
+              34.245228
+            ],
+            [
+              108.908245,
+              34.24536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "光德 坊内街道",
+        "description": "光德 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.247635
+            ],
+            [
+              108.913822,
+              34.247635
+            ],
+            [
+              108.913822,
+              34.242953
+            ],
+            [
+              108.913661,
+              34.242953
+            ],
+            [
+              108.913661,
+              34.247635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "通义 坊内街道",
+        "description": "通义 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.24536
+            ],
+            [
+              108.927762,
+              34.24536
+            ],
+            [
+              108.927762,
+              34.245228
+            ],
+            [
+              108.920402,
+              34.245228
+            ],
+            [
+              108.920402,
+              34.24536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "通化 坊内街道",
+        "description": "通化 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.24536
+            ],
+            [
+              108.934455,
+              34.24536
+            ],
+            [
+              108.934455,
+              34.245228
+            ],
+            [
+              108.928441,
+              34.245228
+            ],
+            [
+              108.928441,
+              34.24536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "开化 坊内街道",
+        "description": "开化 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.24536
+            ],
+            [
+              108.942182,
+              34.24536
+            ],
+            [
+              108.942182,
+              34.245228
+            ],
+            [
+              108.936125,
+              34.245228
+            ],
+            [
+              108.936125,
+              34.24536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇义 坊内街道",
+        "description": "崇义 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.24536
+            ],
+            [
+              108.950448,
+              34.24536
+            ],
+            [
+              108.950448,
+              34.245228
+            ],
+            [
+              108.942904,
+              34.245228
+            ],
+            [
+              108.942904,
+              34.24536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "宣阳 坊内街道",
+        "description": "宣阳 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.24536
+            ],
+            [
+              108.962907,
+              34.24536
+            ],
+            [
+              108.962907,
+              34.245228
+            ],
+            [
+              108.951892,
+              34.245228
+            ],
+            [
+              108.951892,
+              34.24536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "宣阳 坊内街道",
+        "description": "宣阳 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.247635
+            ],
+            [
+              108.95748,
+              34.247635
+            ],
+            [
+              108.95748,
+              34.242953
+            ],
+            [
+              108.957319,
+              34.242953
+            ],
+            [
+              108.957319,
+              34.247635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "常乐 坊内街道",
+        "description": "常乐 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.24536
+            ],
+            [
+              108.987813,
+              34.24536
+            ],
+            [
+              108.987813,
+              34.245228
+            ],
+            [
+              108.975796,
+              34.245228
+            ],
+            [
+              108.975796,
+              34.24536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "常乐 坊内街道",
+        "description": "常乐 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.247635
+            ],
+            [
+              108.981885,
+              34.247635
+            ],
+            [
+              108.981885,
+              34.242953
+            ],
+            [
+              108.981723,
+              34.242953
+            ],
+            [
+              108.981723,
+              34.247635
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇化 坊内街道",
+        "description": "崇化 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.240281
+            ],
+            [
+              108.895711,
+              34.240281
+            ],
+            [
+              108.895711,
+              34.240148
+            ],
+            [
+              108.883727,
+              34.240148
+            ],
+            [
+              108.883727,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇化 坊内街道",
+        "description": "崇化 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.242599
+            ],
+            [
+              108.8898,
+              34.242599
+            ],
+            [
+              108.8898,
+              34.237829
+            ],
+            [
+              108.889638,
+              34.237829
+            ],
+            [
+              108.889638,
+              34.242599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "怀远 坊内街道",
+        "description": "怀远 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.240281
+            ],
+            [
+              108.907566,
+              34.240281
+            ],
+            [
+              108.907566,
+              34.240148
+            ],
+            [
+              108.896164,
+              34.240148
+            ],
+            [
+              108.896164,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "怀远 坊内街道",
+        "description": "怀远 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.242599
+            ],
+            [
+              108.901946,
+              34.242599
+            ],
+            [
+              108.901946,
+              34.237829
+            ],
+            [
+              108.901784,
+              34.237829
+            ],
+            [
+              108.901784,
+              34.242599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "延康 坊内街道",
+        "description": "延康 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.240281
+            ],
+            [
+              108.919238,
+              34.240281
+            ],
+            [
+              108.919238,
+              34.240148
+            ],
+            [
+              108.908245,
+              34.240148
+            ],
+            [
+              108.908245,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "延康 坊内街道",
+        "description": "延康 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.242599
+            ],
+            [
+              108.913822,
+              34.242599
+            ],
+            [
+              108.913822,
+              34.237829
+            ],
+            [
+              108.913661,
+              34.237829
+            ],
+            [
+              108.913661,
+              34.242599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "兴化 坊内街道",
+        "description": "兴化 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.240281
+            ],
+            [
+              108.927762,
+              34.240281
+            ],
+            [
+              108.927762,
+              34.240148
+            ],
+            [
+              108.920402,
+              34.240148
+            ],
+            [
+              108.920402,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "丰乐 坊内街道",
+        "description": "丰乐 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.240281
+            ],
+            [
+              108.934455,
+              34.240281
+            ],
+            [
+              108.934455,
+              34.240148
+            ],
+            [
+              108.928441,
+              34.240148
+            ],
+            [
+              108.928441,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安仁 坊内街道",
+        "description": "安仁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.240281
+            ],
+            [
+              108.942182,
+              34.240281
+            ],
+            [
+              108.942182,
+              34.240148
+            ],
+            [
+              108.936125,
+              34.240148
+            ],
+            [
+              108.936125,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "长兴 坊内街道",
+        "description": "长兴 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.240281
+            ],
+            [
+              108.950448,
+              34.240281
+            ],
+            [
+              108.950448,
+              34.240148
+            ],
+            [
+              108.942904,
+              34.240148
+            ],
+            [
+              108.942904,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "亲仁 坊内街道",
+        "description": "亲仁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.240281
+            ],
+            [
+              108.962907,
+              34.240281
+            ],
+            [
+              108.962907,
+              34.240148
+            ],
+            [
+              108.951892,
+              34.240148
+            ],
+            [
+              108.951892,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "亲仁 坊内街道",
+        "description": "亲仁 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.242599
+            ],
+            [
+              108.95748,
+              34.242599
+            ],
+            [
+              108.95748,
+              34.237829
+            ],
+            [
+              108.957319,
+              34.237829
+            ],
+            [
+              108.957319,
+              34.242599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安邑 坊内街道",
+        "description": "安邑 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.240281
+            ],
+            [
+              108.975063,
+              34.240281
+            ],
+            [
+              108.975063,
+              34.240148
+            ],
+            [
+              108.963639,
+              34.240148
+            ],
+            [
+              108.963639,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安邑 坊内街道",
+        "description": "安邑 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.242599
+            ],
+            [
+              108.969432,
+              34.242599
+            ],
+            [
+              108.969432,
+              34.237829
+            ],
+            [
+              108.96927,
+              34.237829
+            ],
+            [
+              108.96927,
+              34.242599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "靖恭 坊内街道",
+        "description": "靖恭 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.240281
+            ],
+            [
+              108.987813,
+              34.240281
+            ],
+            [
+              108.987813,
+              34.240148
+            ],
+            [
+              108.975796,
+              34.240148
+            ],
+            [
+              108.975796,
+              34.240281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "靖恭 坊内街道",
+        "description": "靖恭 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.242599
+            ],
+            [
+              108.981885,
+              34.242599
+            ],
+            [
+              108.981885,
+              34.237829
+            ],
+            [
+              108.981723,
+              34.237829
+            ],
+            [
+              108.981723,
+              34.242599
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "丰邑 坊内街道",
+        "description": "丰邑 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.235069
+            ],
+            [
+              108.895711,
+              34.235069
+            ],
+            [
+              108.895711,
+              34.234936
+            ],
+            [
+              108.883727,
+              34.234936
+            ],
+            [
+              108.883727,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "丰邑 坊内街道",
+        "description": "丰邑 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.237432
+            ],
+            [
+              108.8898,
+              34.237432
+            ],
+            [
+              108.8898,
+              34.232573
+            ],
+            [
+              108.889638,
+              34.232573
+            ],
+            [
+              108.889638,
+              34.237432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "长寿 坊内街道",
+        "description": "长寿 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.235069
+            ],
+            [
+              108.907566,
+              34.235069
+            ],
+            [
+              108.907566,
+              34.234936
+            ],
+            [
+              108.896164,
+              34.234936
+            ],
+            [
+              108.896164,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "长寿 坊内街道",
+        "description": "长寿 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.237432
+            ],
+            [
+              108.901946,
+              34.237432
+            ],
+            [
+              108.901946,
+              34.232573
+            ],
+            [
+              108.901784,
+              34.232573
+            ],
+            [
+              108.901784,
+              34.237432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇贤 坊内街道",
+        "description": "崇贤 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.235069
+            ],
+            [
+              108.919238,
+              34.235069
+            ],
+            [
+              108.919238,
+              34.234936
+            ],
+            [
+              108.908245,
+              34.234936
+            ],
+            [
+              108.908245,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇贤 坊内街道",
+        "description": "崇贤 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.237432
+            ],
+            [
+              108.913822,
+              34.237432
+            ],
+            [
+              108.913822,
+              34.232573
+            ],
+            [
+              108.913661,
+              34.232573
+            ],
+            [
+              108.913661,
+              34.237432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇德 坊内街道",
+        "description": "崇德 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.235069
+            ],
+            [
+              108.927762,
+              34.235069
+            ],
+            [
+              108.927762,
+              34.234936
+            ],
+            [
+              108.920402,
+              34.234936
+            ],
+            [
+              108.920402,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安业 坊内街道",
+        "description": "安业 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.235069
+            ],
+            [
+              108.934455,
+              34.235069
+            ],
+            [
+              108.934455,
+              34.234936
+            ],
+            [
+              108.928441,
+              34.234936
+            ],
+            [
+              108.928441,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "光福 坊内街道",
+        "description": "光福 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.235069
+            ],
+            [
+              108.942182,
+              34.235069
+            ],
+            [
+              108.942182,
+              34.234936
+            ],
+            [
+              108.936125,
+              34.234936
+            ],
+            [
+              108.936125,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永乐 坊内街道",
+        "description": "永乐 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.235069
+            ],
+            [
+              108.950448,
+              34.235069
+            ],
+            [
+              108.950448,
+              34.234936
+            ],
+            [
+              108.942904,
+              34.234936
+            ],
+            [
+              108.942904,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永宁 坊内街道",
+        "description": "永宁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.235069
+            ],
+            [
+              108.962907,
+              34.235069
+            ],
+            [
+              108.962907,
+              34.234936
+            ],
+            [
+              108.951892,
+              34.234936
+            ],
+            [
+              108.951892,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永宁 坊内街道",
+        "description": "永宁 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.237432
+            ],
+            [
+              108.95748,
+              34.237432
+            ],
+            [
+              108.95748,
+              34.232573
+            ],
+            [
+              108.957319,
+              34.232573
+            ],
+            [
+              108.957319,
+              34.237432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "宣平 坊内街道",
+        "description": "宣平 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.235069
+            ],
+            [
+              108.975063,
+              34.235069
+            ],
+            [
+              108.975063,
+              34.234936
+            ],
+            [
+              108.963639,
+              34.234936
+            ],
+            [
+              108.963639,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "宣平 坊内街道",
+        "description": "宣平 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.237432
+            ],
+            [
+              108.969432,
+              34.237432
+            ],
+            [
+              108.969432,
+              34.232573
+            ],
+            [
+              108.96927,
+              34.232573
+            ],
+            [
+              108.96927,
+              34.237432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "新昌 坊内街道",
+        "description": "新昌 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.235069
+            ],
+            [
+              108.987813,
+              34.235069
+            ],
+            [
+              108.987813,
+              34.234936
+            ],
+            [
+              108.975796,
+              34.234936
+            ],
+            [
+              108.975796,
+              34.235069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "新昌 坊内街道",
+        "description": "新昌 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.237432
+            ],
+            [
+              108.981885,
+              34.237432
+            ],
+            [
+              108.981885,
+              34.232573
+            ],
+            [
+              108.981723,
+              34.232573
+            ],
+            [
+              108.981723,
+              34.237432
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "待贤 坊内街道",
+        "description": "待贤 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.229746
+            ],
+            [
+              108.895711,
+              34.229746
+            ],
+            [
+              108.895711,
+              34.229614
+            ],
+            [
+              108.883727,
+              34.229614
+            ],
+            [
+              108.883727,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "待贤 坊内街道",
+        "description": "待贤 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.232087
+            ],
+            [
+              108.8898,
+              34.232087
+            ],
+            [
+              108.8898,
+              34.227273
+            ],
+            [
+              108.889638,
+              34.227273
+            ],
+            [
+              108.889638,
+              34.232087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "嘉会 坊内街道",
+        "description": "嘉会 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.229746
+            ],
+            [
+              108.907566,
+              34.229746
+            ],
+            [
+              108.907566,
+              34.229614
+            ],
+            [
+              108.896164,
+              34.229614
+            ],
+            [
+              108.896164,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "嘉会 坊内街道",
+        "description": "嘉会 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.232087
+            ],
+            [
+              108.901946,
+              34.232087
+            ],
+            [
+              108.901946,
+              34.227273
+            ],
+            [
+              108.901784,
+              34.227273
+            ],
+            [
+              108.901784,
+              34.232087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "延福 坊内街道",
+        "description": "延福 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.229746
+            ],
+            [
+              108.919238,
+              34.229746
+            ],
+            [
+              108.919238,
+              34.229614
+            ],
+            [
+              108.908245,
+              34.229614
+            ],
+            [
+              108.908245,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "延福 坊内街道",
+        "description": "延福 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.232087
+            ],
+            [
+              108.913822,
+              34.232087
+            ],
+            [
+              108.913822,
+              34.227273
+            ],
+            [
+              108.913661,
+              34.227273
+            ],
+            [
+              108.913661,
+              34.232087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "怀贞 坊内街道",
+        "description": "怀贞 | 坊内街道 | EW | 12分坊：坊内东西横街，连接西坊门与东坊门；无南北街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.229746
+            ],
+            [
+              108.927762,
+              34.229746
+            ],
+            [
+              108.927762,
+              34.229614
+            ],
+            [
+              108.920402,
+              34.229614
+            ],
+            [
+              108.920402,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇业 坊内街道",
+        "description": "崇业 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.229746
+            ],
+            [
+              108.934455,
+              34.229746
+            ],
+            [
+              108.934455,
+              34.229614
+            ],
+            [
+              108.928441,
+              34.229614
+            ],
+            [
+              108.928441,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "靖善 坊内街道",
+        "description": "靖善 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.229746
+            ],
+            [
+              108.942182,
+              34.229746
+            ],
+            [
+              108.942182,
+              34.229614
+            ],
+            [
+              108.936125,
+              34.229614
+            ],
+            [
+              108.936125,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "靖安 坊内街道",
+        "description": "靖安 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.229746
+            ],
+            [
+              108.950448,
+              34.229746
+            ],
+            [
+              108.950448,
+              34.229614
+            ],
+            [
+              108.942904,
+              34.229614
+            ],
+            [
+              108.942904,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永崇 坊内街道",
+        "description": "永崇 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.229746
+            ],
+            [
+              108.962907,
+              34.229746
+            ],
+            [
+              108.962907,
+              34.229614
+            ],
+            [
+              108.951892,
+              34.229614
+            ],
+            [
+              108.951892,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永崇 坊内街道",
+        "description": "永崇 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.232087
+            ],
+            [
+              108.95748,
+              34.232087
+            ],
+            [
+              108.95748,
+              34.227273
+            ],
+            [
+              108.957319,
+              34.227273
+            ],
+            [
+              108.957319,
+              34.232087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昇平 坊内街道",
+        "description": "昇平 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.229746
+            ],
+            [
+              108.975063,
+              34.229746
+            ],
+            [
+              108.975063,
+              34.229614
+            ],
+            [
+              108.963639,
+              34.229614
+            ],
+            [
+              108.963639,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昇平 坊内街道",
+        "description": "昇平 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.232087
+            ],
+            [
+              108.969432,
+              34.232087
+            ],
+            [
+              108.969432,
+              34.227273
+            ],
+            [
+              108.96927,
+              34.227273
+            ],
+            [
+              108.96927,
+              34.232087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昇道 坊内街道",
+        "description": "昇道 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.229746
+            ],
+            [
+              108.987813,
+              34.229746
+            ],
+            [
+              108.987813,
+              34.229614
+            ],
+            [
+              108.975796,
+              34.229614
+            ],
+            [
+              108.975796,
+              34.229746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昇道 坊内街道",
+        "description": "昇道 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.232087
+            ],
+            [
+              108.981885,
+              34.232087
+            ],
+            [
+              108.981885,
+              34.227273
+            ],
+            [
+              108.981723,
+              34.227273
+            ],
+            [
+              108.981723,
+              34.232087
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "淳和 坊内街道",
+        "description": "淳和 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.224644
+            ],
+            [
+              108.895711,
+              34.224644
+            ],
+            [
+              108.895711,
+              34.224512
+            ],
+            [
+              108.883727,
+              34.224512
+            ],
+            [
+              108.883727,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "淳和 坊内街道",
+        "description": "淳和 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.226963
+            ],
+            [
+              108.8898,
+              34.226963
+            ],
+            [
+              108.8898,
+              34.222193
+            ],
+            [
+              108.889638,
+              34.222193
+            ],
+            [
+              108.889638,
+              34.226963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永平 坊内街道",
+        "description": "永平 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.224644
+            ],
+            [
+              108.907566,
+              34.224644
+            ],
+            [
+              108.907566,
+              34.224512
+            ],
+            [
+              108.896164,
+              34.224512
+            ],
+            [
+              108.896164,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永平 坊内街道",
+        "description": "永平 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.226963
+            ],
+            [
+              108.901946,
+              34.226963
+            ],
+            [
+              108.901946,
+              34.222193
+            ],
+            [
+              108.901784,
+              34.222193
+            ],
+            [
+              108.901784,
+              34.226963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永安 坊内街道",
+        "description": "永安 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.224644
+            ],
+            [
+              108.919238,
+              34.224644
+            ],
+            [
+              108.919238,
+              34.224512
+            ],
+            [
+              108.908245,
+              34.224512
+            ],
+            [
+              108.908245,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永安 坊内街道",
+        "description": "永安 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.226963
+            ],
+            [
+              108.913822,
+              34.226963
+            ],
+            [
+              108.913822,
+              34.222193
+            ],
+            [
+              108.913661,
+              34.222193
+            ],
+            [
+              108.913661,
+              34.226963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "宣义 坊内街道",
+        "description": "宣义 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.224644
+            ],
+            [
+              108.927762,
+              34.224644
+            ],
+            [
+              108.927762,
+              34.224512
+            ],
+            [
+              108.920402,
+              34.224512
+            ],
+            [
+              108.920402,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永达 坊内街道",
+        "description": "永达 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.224644
+            ],
+            [
+              108.934455,
+              34.224644
+            ],
+            [
+              108.934455,
+              34.224512
+            ],
+            [
+              108.928441,
+              34.224512
+            ],
+            [
+              108.928441,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "兰陵 坊内街道",
+        "description": "兰陵 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.224644
+            ],
+            [
+              108.942182,
+              34.224644
+            ],
+            [
+              108.942182,
+              34.224512
+            ],
+            [
+              108.936125,
+              34.224512
+            ],
+            [
+              108.936125,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安善 坊内街道",
+        "description": "安善 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.224644
+            ],
+            [
+              108.950448,
+              34.224644
+            ],
+            [
+              108.950448,
+              34.224512
+            ],
+            [
+              108.942904,
+              34.224512
+            ],
+            [
+              108.942904,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昭国 坊内街道",
+        "description": "昭国 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.224644
+            ],
+            [
+              108.962907,
+              34.224644
+            ],
+            [
+              108.962907,
+              34.224512
+            ],
+            [
+              108.951892,
+              34.224512
+            ],
+            [
+              108.951892,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昭国 坊内街道",
+        "description": "昭国 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.226963
+            ],
+            [
+              108.95748,
+              34.226963
+            ],
+            [
+              108.95748,
+              34.222193
+            ],
+            [
+              108.957319,
+              34.222193
+            ],
+            [
+              108.957319,
+              34.226963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "修行 坊内街道",
+        "description": "修行 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.224644
+            ],
+            [
+              108.975063,
+              34.224644
+            ],
+            [
+              108.975063,
+              34.224512
+            ],
+            [
+              108.963639,
+              34.224512
+            ],
+            [
+              108.963639,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "修行 坊内街道",
+        "description": "修行 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.226963
+            ],
+            [
+              108.969432,
+              34.226963
+            ],
+            [
+              108.969432,
+              34.222193
+            ],
+            [
+              108.96927,
+              34.222193
+            ],
+            [
+              108.96927,
+              34.226963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "广德 坊内街道",
+        "description": "广德 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.224644
+            ],
+            [
+              108.987813,
+              34.224644
+            ],
+            [
+              108.987813,
+              34.224512
+            ],
+            [
+              108.975796,
+              34.224512
+            ],
+            [
+              108.975796,
+              34.224644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "广德 坊内街道",
+        "description": "广德 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.226963
+            ],
+            [
+              108.981885,
+              34.226963
+            ],
+            [
+              108.981885,
+              34.222193
+            ],
+            [
+              108.981723,
+              34.222193
+            ],
+            [
+              108.981723,
+              34.226963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "常安 坊内街道",
+        "description": "常安 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.21941
+            ],
+            [
+              108.895711,
+              34.21941
+            ],
+            [
+              108.895711,
+              34.219278
+            ],
+            [
+              108.883727,
+              34.219278
+            ],
+            [
+              108.883727,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "常安 坊内街道",
+        "description": "常安 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.221707
+            ],
+            [
+              108.8898,
+              34.221707
+            ],
+            [
+              108.8898,
+              34.216981
+            ],
+            [
+              108.889638,
+              34.216981
+            ],
+            [
+              108.889638,
+              34.221707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "通轨 坊内街道",
+        "description": "通轨 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.21941
+            ],
+            [
+              108.907566,
+              34.21941
+            ],
+            [
+              108.907566,
+              34.219278
+            ],
+            [
+              108.896164,
+              34.219278
+            ],
+            [
+              108.896164,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "通轨 坊内街道",
+        "description": "通轨 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.221707
+            ],
+            [
+              108.901946,
+              34.221707
+            ],
+            [
+              108.901946,
+              34.216981
+            ],
+            [
+              108.901784,
+              34.216981
+            ],
+            [
+              108.901784,
+              34.221707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "敦义 坊内街道",
+        "description": "敦义 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.21941
+            ],
+            [
+              108.919238,
+              34.21941
+            ],
+            [
+              108.919238,
+              34.219278
+            ],
+            [
+              108.908245,
+              34.219278
+            ],
+            [
+              108.908245,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "敦义 坊内街道",
+        "description": "敦义 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.221707
+            ],
+            [
+              108.913822,
+              34.221707
+            ],
+            [
+              108.913822,
+              34.216981
+            ],
+            [
+              108.913661,
+              34.216981
+            ],
+            [
+              108.913661,
+              34.221707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "丰安 坊内街道",
+        "description": "丰安 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.21941
+            ],
+            [
+              108.927762,
+              34.21941
+            ],
+            [
+              108.927762,
+              34.219278
+            ],
+            [
+              108.920402,
+              34.219278
+            ],
+            [
+              108.920402,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "道德 坊内街道",
+        "description": "道德 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.21941
+            ],
+            [
+              108.934455,
+              34.21941
+            ],
+            [
+              108.934455,
+              34.219278
+            ],
+            [
+              108.928441,
+              34.219278
+            ],
+            [
+              108.928441,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "开明 坊内街道",
+        "description": "开明 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.21941
+            ],
+            [
+              108.942182,
+              34.21941
+            ],
+            [
+              108.942182,
+              34.219278
+            ],
+            [
+              108.936125,
+              34.219278
+            ],
+            [
+              108.936125,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大业 坊内街道",
+        "description": "大业 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.21941
+            ],
+            [
+              108.950448,
+              34.21941
+            ],
+            [
+              108.950448,
+              34.219278
+            ],
+            [
+              108.942904,
+              34.219278
+            ],
+            [
+              108.942904,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "晋昌 坊内街道",
+        "description": "晋昌 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.21941
+            ],
+            [
+              108.962907,
+              34.21941
+            ],
+            [
+              108.962907,
+              34.219278
+            ],
+            [
+              108.951892,
+              34.219278
+            ],
+            [
+              108.951892,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "晋昌 坊内街道",
+        "description": "晋昌 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.221707
+            ],
+            [
+              108.95748,
+              34.221707
+            ],
+            [
+              108.95748,
+              34.216981
+            ],
+            [
+              108.957319,
+              34.216981
+            ],
+            [
+              108.957319,
+              34.221707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "修政 坊内街道",
+        "description": "修政 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.21941
+            ],
+            [
+              108.975063,
+              34.21941
+            ],
+            [
+              108.975063,
+              34.219278
+            ],
+            [
+              108.963639,
+              34.219278
+            ],
+            [
+              108.963639,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "修政 坊内街道",
+        "description": "修政 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.221707
+            ],
+            [
+              108.969432,
+              34.221707
+            ],
+            [
+              108.969432,
+              34.216981
+            ],
+            [
+              108.96927,
+              34.216981
+            ],
+            [
+              108.96927,
+              34.221707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "立政 坊内街道",
+        "description": "立政 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.21941
+            ],
+            [
+              108.987813,
+              34.21941
+            ],
+            [
+              108.987813,
+              34.219278
+            ],
+            [
+              108.975796,
+              34.219278
+            ],
+            [
+              108.975796,
+              34.21941
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "立政 坊内街道",
+        "description": "立政 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.221707
+            ],
+            [
+              108.981885,
+              34.221707
+            ],
+            [
+              108.981885,
+              34.216981
+            ],
+            [
+              108.981723,
+              34.216981
+            ],
+            [
+              108.981723,
+              34.221707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "和平 坊内街道",
+        "description": "和平 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.214441
+            ],
+            [
+              108.895711,
+              34.214441
+            ],
+            [
+              108.895711,
+              34.214309
+            ],
+            [
+              108.883727,
+              34.214309
+            ],
+            [
+              108.883727,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "和平 坊内街道",
+        "description": "和平 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.216716
+            ],
+            [
+              108.8898,
+              34.216716
+            ],
+            [
+              108.8898,
+              34.212034
+            ],
+            [
+              108.889638,
+              34.212034
+            ],
+            [
+              108.889638,
+              34.216716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "归义 坊内街道",
+        "description": "归义 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.214441
+            ],
+            [
+              108.907566,
+              34.214441
+            ],
+            [
+              108.907566,
+              34.214309
+            ],
+            [
+              108.896164,
+              34.214309
+            ],
+            [
+              108.896164,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "归义 坊内街道",
+        "description": "归义 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.216716
+            ],
+            [
+              108.901946,
+              34.216716
+            ],
+            [
+              108.901946,
+              34.212034
+            ],
+            [
+              108.901784,
+              34.212034
+            ],
+            [
+              108.901784,
+              34.216716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大通 坊内街道",
+        "description": "大通 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.214441
+            ],
+            [
+              108.919238,
+              34.214441
+            ],
+            [
+              108.919238,
+              34.214309
+            ],
+            [
+              108.908245,
+              34.214309
+            ],
+            [
+              108.908245,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大通 坊内街道",
+        "description": "大通 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.216716
+            ],
+            [
+              108.913822,
+              34.216716
+            ],
+            [
+              108.913822,
+              34.212034
+            ],
+            [
+              108.913661,
+              34.212034
+            ],
+            [
+              108.913661,
+              34.216716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昌明 坊内街道",
+        "description": "昌明 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.214441
+            ],
+            [
+              108.927762,
+              34.214441
+            ],
+            [
+              108.927762,
+              34.214309
+            ],
+            [
+              108.920402,
+              34.214309
+            ],
+            [
+              108.920402,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "光行 坊内街道",
+        "description": "光行 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.214441
+            ],
+            [
+              108.934455,
+              34.214441
+            ],
+            [
+              108.934455,
+              34.214309
+            ],
+            [
+              108.928441,
+              34.214309
+            ],
+            [
+              108.928441,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "保宁 坊内街道",
+        "description": "保宁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.214441
+            ],
+            [
+              108.942182,
+              34.214441
+            ],
+            [
+              108.942182,
+              34.214309
+            ],
+            [
+              108.936125,
+              34.214309
+            ],
+            [
+              108.936125,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昌乐 坊内街道",
+        "description": "昌乐 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.214441
+            ],
+            [
+              108.950448,
+              34.214441
+            ],
+            [
+              108.950448,
+              34.214309
+            ],
+            [
+              108.942904,
+              34.214309
+            ],
+            [
+              108.942904,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "通善 坊内街道",
+        "description": "通善 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.214441
+            ],
+            [
+              108.962907,
+              34.214441
+            ],
+            [
+              108.962907,
+              34.214309
+            ],
+            [
+              108.951892,
+              34.214309
+            ],
+            [
+              108.951892,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "通善 坊内街道",
+        "description": "通善 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.216716
+            ],
+            [
+              108.95748,
+              34.216716
+            ],
+            [
+              108.95748,
+              34.212034
+            ],
+            [
+              108.957319,
+              34.212034
+            ],
+            [
+              108.957319,
+              34.216716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "青龙 坊内街道",
+        "description": "青龙 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.214441
+            ],
+            [
+              108.975063,
+              34.214441
+            ],
+            [
+              108.975063,
+              34.214309
+            ],
+            [
+              108.963639,
+              34.214309
+            ],
+            [
+              108.963639,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "青龙 坊内街道",
+        "description": "青龙 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.216716
+            ],
+            [
+              108.969432,
+              34.216716
+            ],
+            [
+              108.969432,
+              34.212034
+            ],
+            [
+              108.96927,
+              34.212034
+            ],
+            [
+              108.96927,
+              34.216716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "敦化 坊内街道",
+        "description": "敦化 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.214441
+            ],
+            [
+              108.987813,
+              34.214441
+            ],
+            [
+              108.987813,
+              34.214309
+            ],
+            [
+              108.975796,
+              34.214309
+            ],
+            [
+              108.975796,
+              34.214441
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "敦化 坊内街道",
+        "description": "敦化 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.216716
+            ],
+            [
+              108.981885,
+              34.216716
+            ],
+            [
+              108.981885,
+              34.212034
+            ],
+            [
+              108.981723,
+              34.212034
+            ],
+            [
+              108.981723,
+              34.216716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永阳 坊内街道",
+        "description": "永阳 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.209362
+            ],
+            [
+              108.895711,
+              34.209362
+            ],
+            [
+              108.895711,
+              34.209229
+            ],
+            [
+              108.883727,
+              34.209229
+            ],
+            [
+              108.883727,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永阳 坊内街道",
+        "description": "永阳 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.211769
+            ],
+            [
+              108.8898,
+              34.211769
+            ],
+            [
+              108.8898,
+              34.206822
+            ],
+            [
+              108.889638,
+              34.206822
+            ],
+            [
+              108.889638,
+              34.211769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昭行 坊内街道",
+        "description": "昭行 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.209362
+            ],
+            [
+              108.907566,
+              34.209362
+            ],
+            [
+              108.907566,
+              34.209229
+            ],
+            [
+              108.896164,
+              34.209229
+            ],
+            [
+              108.896164,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "昭行 坊内街道",
+        "description": "昭行 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.211769
+            ],
+            [
+              108.901946,
+              34.211769
+            ],
+            [
+              108.901946,
+              34.206822
+            ],
+            [
+              108.901784,
+              34.206822
+            ],
+            [
+              108.901784,
+              34.211769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大安 坊内街道",
+        "description": "大安 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.209362
+            ],
+            [
+              108.919238,
+              34.209362
+            ],
+            [
+              108.919238,
+              34.209229
+            ],
+            [
+              108.908245,
+              34.209229
+            ],
+            [
+              108.908245,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大安 坊内街道",
+        "description": "大安 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.211769
+            ],
+            [
+              108.913822,
+              34.211769
+            ],
+            [
+              108.913822,
+              34.206822
+            ],
+            [
+              108.913661,
+              34.206822
+            ],
+            [
+              108.913661,
+              34.211769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安乐 坊内街道",
+        "description": "安乐 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.209362
+            ],
+            [
+              108.927762,
+              34.209362
+            ],
+            [
+              108.927762,
+              34.209229
+            ],
+            [
+              108.920402,
+              34.209229
+            ],
+            [
+              108.920402,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "延祚 坊内街道",
+        "description": "延祚 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928441,
+              34.209362
+            ],
+            [
+              108.934455,
+              34.209362
+            ],
+            [
+              108.934455,
+              34.209229
+            ],
+            [
+              108.928441,
+              34.209229
+            ],
+            [
+              108.928441,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安义 坊内街道",
+        "description": "安义 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.936125,
+              34.209362
+            ],
+            [
+              108.942182,
+              34.209362
+            ],
+            [
+              108.942182,
+              34.209229
+            ],
+            [
+              108.936125,
+              34.209229
+            ],
+            [
+              108.936125,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安德 坊内街道",
+        "description": "安德 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942904,
+              34.209362
+            ],
+            [
+              108.950448,
+              34.209362
+            ],
+            [
+              108.950448,
+              34.209229
+            ],
+            [
+              108.942904,
+              34.209229
+            ],
+            [
+              108.942904,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "通济 坊内街道",
+        "description": "通济 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.209362
+            ],
+            [
+              108.962907,
+              34.209362
+            ],
+            [
+              108.962907,
+              34.209229
+            ],
+            [
+              108.951892,
+              34.209229
+            ],
+            [
+              108.951892,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "通济 坊内街道",
+        "description": "通济 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.211769
+            ],
+            [
+              108.95748,
+              34.211769
+            ],
+            [
+              108.95748,
+              34.206822
+            ],
+            [
+              108.957319,
+              34.206822
+            ],
+            [
+              108.957319,
+              34.211769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "曲池 坊内街道",
+        "description": "曲池 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.209362
+            ],
+            [
+              108.975063,
+              34.209362
+            ],
+            [
+              108.975063,
+              34.209229
+            ],
+            [
+              108.963639,
+              34.209229
+            ],
+            [
+              108.963639,
+              34.209362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "曲池 坊内街道",
+        "description": "曲池 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.211769
+            ],
+            [
+              108.969432,
+              34.211769
+            ],
+            [
+              108.969432,
+              34.206822
+            ],
+            [
+              108.96927,
+              34.206822
+            ],
+            [
+              108.96927,
+              34.211769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "修真 坊内街道",
+        "description": "修真 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.278293
+            ],
+            [
+              108.895711,
+              34.278293
+            ],
+            [
+              108.895711,
+              34.278161
+            ],
+            [
+              108.883727,
+              34.278161
+            ],
+            [
+              108.883727,
+              34.278293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "修真 坊内街道",
+        "description": "修真 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.280824
+            ],
+            [
+              108.8898,
+              34.280824
+            ],
+            [
+              108.8898,
+              34.27563
+            ],
+            [
+              108.889638,
+              34.27563
+            ],
+            [
+              108.889638,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安定 坊内街道",
+        "description": "安定 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.278293
+            ],
+            [
+              108.907566,
+              34.278293
+            ],
+            [
+              108.907566,
+              34.278161
+            ],
+            [
+              108.896164,
+              34.278161
+            ],
+            [
+              108.896164,
+              34.278293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安定 坊内街道",
+        "description": "安定 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.280824
+            ],
+            [
+              108.901946,
+              34.280824
+            ],
+            [
+              108.901946,
+              34.27563
+            ],
+            [
+              108.901784,
+              34.27563
+            ],
+            [
+              108.901784,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "修德 坊内街道",
+        "description": "修德 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.278293
+            ],
+            [
+              108.919238,
+              34.278293
+            ],
+            [
+              108.919238,
+              34.278161
+            ],
+            [
+              108.908245,
+              34.278161
+            ],
+            [
+              108.908245,
+              34.278293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "修德 坊内街道",
+        "description": "修德 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.280824
+            ],
+            [
+              108.913822,
+              34.280824
+            ],
+            [
+              108.913822,
+              34.27563
+            ],
+            [
+              108.913661,
+              34.27563
+            ],
+            [
+              108.913661,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "普宁 坊内街道",
+        "description": "普宁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.272427
+            ],
+            [
+              108.895711,
+              34.272427
+            ],
+            [
+              108.895711,
+              34.272295
+            ],
+            [
+              108.883727,
+              34.272295
+            ],
+            [
+              108.883727,
+              34.272427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "普宁 坊内街道",
+        "description": "普宁 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.274958
+            ],
+            [
+              108.8898,
+              34.274958
+            ],
+            [
+              108.8898,
+              34.269764
+            ],
+            [
+              108.889638,
+              34.269764
+            ],
+            [
+              108.889638,
+              34.274958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "休祥 坊内街道",
+        "description": "休祥 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.272427
+            ],
+            [
+              108.907566,
+              34.272427
+            ],
+            [
+              108.907566,
+              34.272295
+            ],
+            [
+              108.896164,
+              34.272295
+            ],
+            [
+              108.896164,
+              34.272427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "休祥 坊内街道",
+        "description": "休祥 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.274958
+            ],
+            [
+              108.901946,
+              34.274958
+            ],
+            [
+              108.901946,
+              34.269764
+            ],
+            [
+              108.901784,
+              34.269764
+            ],
+            [
+              108.901784,
+              34.274958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "辅兴 坊内街道",
+        "description": "辅兴 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.272427
+            ],
+            [
+              108.919238,
+              34.272427
+            ],
+            [
+              108.919238,
+              34.272295
+            ],
+            [
+              108.908245,
+              34.272295
+            ],
+            [
+              108.908245,
+              34.272427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "辅兴 坊内街道",
+        "description": "辅兴 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.274958
+            ],
+            [
+              108.913822,
+              34.274958
+            ],
+            [
+              108.913822,
+              34.269764
+            ],
+            [
+              108.913661,
+              34.269764
+            ],
+            [
+              108.913661,
+              34.274958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "义宁 坊内街道",
+        "description": "义宁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.265153
+            ],
+            [
+              108.895711,
+              34.265153
+            ],
+            [
+              108.895711,
+              34.26502
+            ],
+            [
+              108.883727,
+              34.26502
+            ],
+            [
+              108.883727,
+              34.265153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "义宁 坊内街道",
+        "description": "义宁 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.268421
+            ],
+            [
+              108.8898,
+              34.268421
+            ],
+            [
+              108.8898,
+              34.261752
+            ],
+            [
+              108.889638,
+              34.261752
+            ],
+            [
+              108.889638,
+              34.268421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "金城 坊内街道",
+        "description": "金城 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.265153
+            ],
+            [
+              108.907566,
+              34.265153
+            ],
+            [
+              108.907566,
+              34.26502
+            ],
+            [
+              108.896164,
+              34.26502
+            ],
+            [
+              108.896164,
+              34.265153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "金城 坊内街道",
+        "description": "金城 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.268421
+            ],
+            [
+              108.901946,
+              34.268421
+            ],
+            [
+              108.901946,
+              34.261752
+            ],
+            [
+              108.901784,
+              34.261752
+            ],
+            [
+              108.901784,
+              34.268421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "颁政 坊内街道",
+        "description": "颁政 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.265153
+            ],
+            [
+              108.919238,
+              34.265153
+            ],
+            [
+              108.919238,
+              34.26502
+            ],
+            [
+              108.908245,
+              34.26502
+            ],
+            [
+              108.908245,
+              34.265153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "颁政 坊内街道",
+        "description": "颁政 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.268421
+            ],
+            [
+              108.913822,
+              34.268421
+            ],
+            [
+              108.913822,
+              34.261752
+            ],
+            [
+              108.913661,
+              34.261752
+            ],
+            [
+              108.913661,
+              34.268421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "居德 坊内街道",
+        "description": "居德 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.883727,
+              34.257445
+            ],
+            [
+              108.895711,
+              34.257445
+            ],
+            [
+              108.895711,
+              34.257312
+            ],
+            [
+              108.883727,
+              34.257312
+            ],
+            [
+              108.883727,
+              34.257445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "居德 坊内街道",
+        "description": "居德 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889638,
+              34.26108
+            ],
+            [
+              108.8898,
+              34.26108
+            ],
+            [
+              108.8898,
+              34.253677
+            ],
+            [
+              108.889638,
+              34.253677
+            ],
+            [
+              108.889638,
+              34.26108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "醴泉 坊内街道",
+        "description": "醴泉 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896164,
+              34.257445
+            ],
+            [
+              108.907566,
+              34.257445
+            ],
+            [
+              108.907566,
+              34.257312
+            ],
+            [
+              108.896164,
+              34.257312
+            ],
+            [
+              108.896164,
+              34.257445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "醴泉 坊内街道",
+        "description": "醴泉 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.901784,
+              34.26108
+            ],
+            [
+              108.901946,
+              34.26108
+            ],
+            [
+              108.901946,
+              34.253677
+            ],
+            [
+              108.901784,
+              34.253677
+            ],
+            [
+              108.901784,
+              34.26108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "布政 坊内街道",
+        "description": "布政 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.908245,
+              34.257445
+            ],
+            [
+              108.919238,
+              34.257445
+            ],
+            [
+              108.919238,
+              34.257312
+            ],
+            [
+              108.908245,
+              34.257312
+            ],
+            [
+              108.908245,
+              34.257445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "布政 坊内街道",
+        "description": "布政 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.913661,
+              34.26108
+            ],
+            [
+              108.913822,
+              34.26108
+            ],
+            [
+              108.913822,
+              34.253677
+            ],
+            [
+              108.913661,
+              34.253677
+            ],
+            [
+              108.913661,
+              34.26108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "光宅 坊内街道",
+        "description": "光宅 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.278293
+            ],
+            [
+              108.959129,
+              34.278293
+            ],
+            [
+              108.959129,
+              34.278161
+            ],
+            [
+              108.951892,
+              34.278161
+            ],
+            [
+              108.951892,
+              34.278293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "翊善 坊内街道",
+        "description": "翊善 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.960121,
+              34.278293
+            ],
+            [
+              108.962907,
+              34.278293
+            ],
+            [
+              108.962907,
+              34.278161
+            ],
+            [
+              108.960121,
+              34.278161
+            ],
+            [
+              108.960121,
+              34.278293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "长乐 坊内街道",
+        "description": "长乐 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.278293
+            ],
+            [
+              108.975063,
+              34.278293
+            ],
+            [
+              108.975063,
+              34.278161
+            ],
+            [
+              108.963639,
+              34.278161
+            ],
+            [
+              108.963639,
+              34.278293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "长乐 坊内街道",
+        "description": "长乐 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.280824
+            ],
+            [
+              108.969432,
+              34.280824
+            ],
+            [
+              108.969432,
+              34.27563
+            ],
+            [
+              108.96927,
+              34.27563
+            ],
+            [
+              108.96927,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大安国寺 坊内街道",
+        "description": "大安国寺 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.278293
+            ],
+            [
+              108.98063,
+              34.278293
+            ],
+            [
+              108.98063,
+              34.278161
+            ],
+            [
+              108.975796,
+              34.278161
+            ],
+            [
+              108.975796,
+              34.278293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大安国寺 坊内街道",
+        "description": "大安国寺 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.978133,
+              34.280824
+            ],
+            [
+              108.978294,
+              34.280824
+            ],
+            [
+              108.978294,
+              34.27563
+            ],
+            [
+              108.978133,
+              34.27563
+            ],
+            [
+              108.978133,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "入苑(十六王宅) 坊内街道",
+        "description": "入苑(十六王宅) | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.98063,
+              34.278293
+            ],
+            [
+              108.987813,
+              34.278293
+            ],
+            [
+              108.987813,
+              34.278161
+            ],
+            [
+              108.98063,
+              34.278161
+            ],
+            [
+              108.98063,
+              34.278293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "入苑(十六王宅) 坊内街道",
+        "description": "入苑(十六王宅) | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.98414,
+              34.280824
+            ],
+            [
+              108.984301,
+              34.280824
+            ],
+            [
+              108.984301,
+              34.27563
+            ],
+            [
+              108.98414,
+              34.27563
+            ],
+            [
+              108.98414,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永昌 坊内街道",
+        "description": "永昌 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.272427
+            ],
+            [
+              108.959129,
+              34.272427
+            ],
+            [
+              108.959129,
+              34.272295
+            ],
+            [
+              108.951892,
+              34.272295
+            ],
+            [
+              108.951892,
+              34.272427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "来庭 坊内街道",
+        "description": "来庭 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.960121,
+              34.272427
+            ],
+            [
+              108.962907,
+              34.272427
+            ],
+            [
+              108.962907,
+              34.272295
+            ],
+            [
+              108.960121,
+              34.272295
+            ],
+            [
+              108.960121,
+              34.272427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大宁 坊内街道",
+        "description": "大宁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.272427
+            ],
+            [
+              108.975063,
+              34.272427
+            ],
+            [
+              108.975063,
+              34.272295
+            ],
+            [
+              108.963639,
+              34.272295
+            ],
+            [
+              108.963639,
+              34.272427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "大宁 坊内街道",
+        "description": "大宁 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.274958
+            ],
+            [
+              108.969432,
+              34.274958
+            ],
+            [
+              108.969432,
+              34.269764
+            ],
+            [
+              108.96927,
+              34.269764
+            ],
+            [
+              108.96927,
+              34.274958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "兴宁 坊内街道",
+        "description": "兴宁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.272427
+            ],
+            [
+              108.987813,
+              34.272427
+            ],
+            [
+              108.987813,
+              34.272295
+            ],
+            [
+              108.975796,
+              34.272295
+            ],
+            [
+              108.975796,
+              34.272427
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "兴宁 坊内街道",
+        "description": "兴宁 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.274958
+            ],
+            [
+              108.981885,
+              34.274958
+            ],
+            [
+              108.981885,
+              34.269764
+            ],
+            [
+              108.981723,
+              34.269764
+            ],
+            [
+              108.981723,
+              34.274958
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永兴 坊内街道",
+        "description": "永兴 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.265153
+            ],
+            [
+              108.962907,
+              34.265153
+            ],
+            [
+              108.962907,
+              34.26502
+            ],
+            [
+              108.951892,
+              34.26502
+            ],
+            [
+              108.951892,
+              34.265153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永兴 坊内街道",
+        "description": "永兴 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.268421
+            ],
+            [
+              108.95748,
+              34.268421
+            ],
+            [
+              108.95748,
+              34.261752
+            ],
+            [
+              108.957319,
+              34.261752
+            ],
+            [
+              108.957319,
+              34.268421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安兴 坊内街道",
+        "description": "安兴 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.265153
+            ],
+            [
+              108.975063,
+              34.265153
+            ],
+            [
+              108.975063,
+              34.26502
+            ],
+            [
+              108.963639,
+              34.26502
+            ],
+            [
+              108.963639,
+              34.265153
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "安兴 坊内街道",
+        "description": "安兴 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.96927,
+              34.268421
+            ],
+            [
+              108.969432,
+              34.268421
+            ],
+            [
+              108.969432,
+              34.261752
+            ],
+            [
+              108.96927,
+              34.261752
+            ],
+            [
+              108.96927,
+              34.268421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永嘉 坊内街道",
+        "description": "永嘉 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.266213
+            ],
+            [
+              108.987813,
+              34.266213
+            ],
+            [
+              108.987813,
+              34.26608
+            ],
+            [
+              108.975796,
+              34.26608
+            ],
+            [
+              108.975796,
+              34.266213
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "永嘉 坊内街道",
+        "description": "永嘉 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.981723,
+              34.268421
+            ],
+            [
+              108.981885,
+              34.268421
+            ],
+            [
+              108.981885,
+              34.263872
+            ],
+            [
+              108.981723,
+              34.263872
+            ],
+            [
+              108.981723,
+              34.268421
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇仁 坊内街道",
+        "description": "崇仁 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.951892,
+              34.257445
+            ],
+            [
+              108.962907,
+              34.257445
+            ],
+            [
+              108.962907,
+              34.257312
+            ],
+            [
+              108.951892,
+              34.257312
+            ],
+            [
+              108.951892,
+              34.257445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "崇仁 坊内街道",
+        "description": "崇仁 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.957319,
+              34.26108
+            ],
+            [
+              108.95748,
+              34.26108
+            ],
+            [
+              108.95748,
+              34.253677
+            ],
+            [
+              108.957319,
+              34.253677
+            ],
+            [
+              108.957319,
+              34.26108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "胜业 坊内街道",
+        "description": "胜业 | 坊内街道 | EW | 坊内东西横街，连接西坊门与东坊门。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.963639,
+              34.257445
+            ],
+            [
+              108.974546,
+              34.257445
+            ],
+            [
+              108.974546,
+              34.257312
+            ],
+            [
+              108.963639,
+              34.257312
+            ],
+            [
+              108.963639,
+              34.257445
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "ward-internal-street"
+        ],
+        "name": "胜业 坊内街道",
+        "description": "胜业 | 坊内街道 | NS | 坊内南北街，连接南坊门与北坊门，并与东西横街构成十字街。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.969012,
+              34.26108
+            ],
+            [
+              108.969173,
+              34.26108
+            ],
+            [
+              108.969173,
+              34.253677
+            ],
+            [
+              108.969012,
+              34.253677
+            ],
+            [
+              108.969012,
+              34.26108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "market-internal-street"
+        ],
+        "name": "西市 坊内街道",
+        "description": "西市 | 坊内街道 | NS | 市场内部南北街之一，九宫格分割线。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.900135,
+              34.25191
+            ],
+            [
+              108.900297,
+              34.25191
+            ],
+            [
+              108.900297,
+              34.24366
+            ],
+            [
+              108.900135,
+              34.24366
+            ],
+            [
+              108.900135,
+              34.25191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "market-internal-street"
+        ],
+        "name": "西市 坊内街道",
+        "description": "西市 | 坊内街道 | NS | 市场内部南北街之一，九宫格分割线。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.903433,
+              34.25191
+            ],
+            [
+              108.903595,
+              34.25191
+            ],
+            [
+              108.903595,
+              34.24366
+            ],
+            [
+              108.903433,
+              34.24366
+            ],
+            [
+              108.903433,
+              34.25191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "market-internal-street"
+        ],
+        "name": "西市 坊内街道",
+        "description": "西市 | 坊内街道 | EW | 市场内部东西街之一，九宫格分割线。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896918,
+              34.246476
+            ],
+            [
+              108.906812,
+              34.246476
+            ],
+            [
+              108.906812,
+              34.246343
+            ],
+            [
+              108.896918,
+              34.246343
+            ],
+            [
+              108.896918,
+              34.246476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "market-internal-street"
+        ],
+        "name": "西市 坊内街道",
+        "description": "西市 | 坊内街道 | EW | 市场内部东西街之一，九宫格分割线。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896918,
+              34.249227
+            ],
+            [
+              108.906812,
+              34.249227
+            ],
+            [
+              108.906812,
+              34.249094
+            ],
+            [
+              108.896918,
+              34.249094
+            ],
+            [
+              108.896918,
+              34.249227
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "market-internal-street"
+        ],
+        "name": "东市 坊内街道",
+        "description": "东市 | 坊内街道 | NS | 市场内部南北街之一，九宫格分割线。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.967618,
+              34.25191
+            ],
+            [
+              108.96778,
+              34.25191
+            ],
+            [
+              108.96778,
+              34.24366
+            ],
+            [
+              108.967618,
+              34.24366
+            ],
+            [
+              108.967618,
+              34.25191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "market-internal-street"
+        ],
+        "name": "东市 坊内街道",
+        "description": "东市 | 坊内街道 | NS | 市场内部南北街之一，九宫格分割线。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.970923,
+              34.25191
+            ],
+            [
+              108.971084,
+              34.25191
+            ],
+            [
+              108.971084,
+              34.24366
+            ],
+            [
+              108.970923,
+              34.24366
+            ],
+            [
+              108.970923,
+              34.25191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "market-internal-street"
+        ],
+        "name": "东市 坊内街道",
+        "description": "东市 | 坊内街道 | EW | 市场内部东西街之一，九宫格分割线。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.964394,
+              34.246476
+            ],
+            [
+              108.974309,
+              34.246476
+            ],
+            [
+              108.974309,
+              34.246343
+            ],
+            [
+              108.964394,
+              34.246343
+            ],
+            [
+              108.964394,
+              34.246476
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "internal-street",
+          "market-internal-street"
+        ],
+        "name": "东市 坊内街道",
+        "description": "东市 | 坊内街道 | EW | 市场内部东西街之一，九宫格分割线。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.964394,
+              34.249227
+            ],
+            [
+              108.974309,
+              34.249227
+            ],
+            [
+              108.974309,
+              34.249094
+            ],
+            [
+              108.964394,
+              34.249094
+            ],
+            [
+              108.964394,
+              34.249227
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

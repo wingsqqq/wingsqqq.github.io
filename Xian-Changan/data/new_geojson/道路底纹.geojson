@@ -1,0 +1,317 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "road-zone",
+          "public-ring-zone-base"
+        ],
+        "name": "西侧居民环城街",
+        "description": "西侧居民环城街 | 墙内居民街，普通人可通行；与夹城御道分层。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.282591
+            ],
+            [
+              108.883727,
+              34.282591
+            ],
+            [
+              108.883727,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "road-zone",
+          "public-ring-zone-base"
+        ],
+        "name": "南侧居民环城街（芙蓉园西段）",
+        "description": "南侧居民环城街 | 芙蓉园西侧可通行段。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.206822
+            ],
+            [
+              108.974379,
+              34.206822
+            ],
+            [
+              108.974379,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "road-zone",
+          "public-ring-zone-base"
+        ],
+        "name": "南侧居民环城街（芙蓉园东段）",
+        "description": "南侧居民环城街 | 芙蓉园东侧短段。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.987813,
+              34.206822
+            ],
+            [
+              108.989968,
+              34.206822
+            ],
+            [
+              108.989968,
+              34.206292
+            ],
+            [
+              108.987813,
+              34.206292
+            ],
+            [
+              108.987813,
+              34.206822
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "road-zone",
+          "public-ring-zone-base"
+        ],
+        "name": "西北侧居民环城街",
+        "description": "西北侧居民环城街 | 芳林门以西可通行。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.88308,
+              34.280824
+            ],
+            [
+              108.88308,
+              34.281354
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "road-zone",
+          "restricted-road-zone-base"
+        ],
+        "name": "宫城北侧禁行带",
+        "description": "宫城北侧禁行带 | 包括宫城北侧道路与夹城御道，任何出行方式均不得进入。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.281442
+            ],
+            [
+              108.989968,
+              34.281442
+            ],
+            [
+              108.989968,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.920402,
+              34.281442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "road-zone",
+          "public-ring-zone-base"
+        ],
+        "name": "东侧居民环城街",
+        "description": "东侧居民环城街 | 墙内居民街，普通人可通行；与夹城御道分层。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.987813,
+              34.282591
+            ],
+            [
+              108.988459,
+              34.282591
+            ],
+            [
+              108.988459,
+              34.212034
+            ],
+            [
+              108.987813,
+              34.212034
+            ],
+            [
+              108.987813,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "road-zone",
+          "restricted-road-zone-base"
+        ],
+        "name": "北侧夹城御道",
+        "description": "北侧夹城御道 | 墙内最外侧夹城/御道，普通人禁行。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.281442
+            ],
+            [
+              108.920402,
+              34.281442
+            ],
+            [
+              108.920402,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "road-zone",
+          "restricted-road-zone-base"
+        ],
+        "name": "东侧夹城御道",
+        "description": "东侧夹城御道 | 墙内最外侧夹城/御道，普通人禁行。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.988567,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.212034
+            ],
+            [
+              108.988567,
+              34.212034
+            ],
+            [
+              108.988567,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

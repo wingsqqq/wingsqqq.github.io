@@ -1,0 +1,684 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-box"
+        ],
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.885775,
+              34.280382
+            ],
+            [
+              108.912179,
+              34.280382
+            ],
+            [
+              108.912179,
+              34.273669
+            ],
+            [
+              108.885775,
+              34.273669
+            ],
+            [
+              108.885775,
+              34.280382
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-title"
+        ],
+        "_elementType": "text",
+        "text": "图例"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.887068,
+          34.279543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-priority"
+        ],
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.887068,
+              34.279119
+            ],
+            [
+              108.88987,
+              34.279119
+            ],
+            [
+              108.88987,
+              34.27873
+            ],
+            [
+              108.887068,
+              34.27873
+            ],
+            [
+              108.887068,
+              34.279119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-text"
+        ],
+        "_elementType": "text",
+        "text": "主干道（车马可行）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.890517,
+          34.278925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-road"
+        ],
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.887068,
+              34.278324
+            ],
+            [
+              108.88987,
+              34.278324
+            ],
+            [
+              108.88987,
+              34.277935
+            ],
+            [
+              108.887068,
+              34.277935
+            ],
+            [
+              108.887068,
+              34.278324
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-text"
+        ],
+        "_elementType": "text",
+        "text": "公共街道（步行）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.890517,
+          34.27813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-public-ring"
+        ],
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.887068,
+              34.277529
+            ],
+            [
+              108.88987,
+              34.277529
+            ],
+            [
+              108.88987,
+              34.27714
+            ],
+            [
+              108.887068,
+              34.27714
+            ],
+            [
+              108.887068,
+              34.277529
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-text"
+        ],
+        "_elementType": "text",
+        "text": "居民环城街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.890517,
+          34.277335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-internal"
+        ],
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.887068,
+              34.276734
+            ],
+            [
+              108.889223,
+              34.276734
+            ],
+            [
+              108.889223,
+              34.276345
+            ],
+            [
+              108.887068,
+              34.276345
+            ],
+            [
+              108.887068,
+              34.276734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-gate"
+        ],
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.889396,
+              34.276734
+            ],
+            [
+              108.88987,
+              34.276734
+            ],
+            [
+              108.88987,
+              34.276345
+            ],
+            [
+              108.889396,
+              34.276345
+            ],
+            [
+              108.889396,
+              34.276734
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-text"
+        ],
+        "_elementType": "text",
+        "text": "坊内街道与坊门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.890517,
+          34.27654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-restricted"
+        ],
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.887068,
+              34.275939
+            ],
+            [
+              108.88987,
+              34.275939
+            ],
+            [
+              108.88987,
+              34.27555
+            ],
+            [
+              108.887068,
+              34.27555
+            ],
+            [
+              108.887068,
+              34.275939
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-text"
+        ],
+        "_elementType": "text",
+        "text": "夹城御道 / 宫禁（禁行）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.890517,
+          34.275744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-park"
+        ],
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.887068,
+              34.275144
+            ],
+            [
+              108.88987,
+              34.275144
+            ],
+            [
+              108.88987,
+              34.274755
+            ],
+            [
+              108.887068,
+              34.274755
+            ],
+            [
+              108.887068,
+              34.275144
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "legend-text"
+        ],
+        "_elementType": "text",
+        "text": "园林（芙蓉园等，公众可游）"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.890517,
+          34.274949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "scale-line"
+        ],
+        "_elementType": "line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.885775,
+            34.19464
+          ],
+          [
+            108.907329,
+            34.19464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "scale-tick"
+        ],
+        "_elementType": "line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.885775,
+            34.194905
+          ],
+          [
+            108.885775,
+            34.194375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "scale-tick"
+        ],
+        "_elementType": "line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.891163,
+            34.194905
+          ],
+          [
+            108.891163,
+            34.194375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "scale-tick"
+        ],
+        "_elementType": "line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.896552,
+            34.194905
+          ],
+          [
+            108.896552,
+            34.194375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "scale-tick"
+        ],
+        "_elementType": "line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.90194,
+            34.194905
+          ],
+          [
+            108.90194,
+            34.194375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "scale-tick"
+        ],
+        "_elementType": "line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.907329,
+            34.194905
+          ],
+          [
+            108.907329,
+            34.194375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "furniture-label"
+        ],
+        "_elementType": "text",
+        "text": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.885775,
+          34.193801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "furniture-label"
+        ],
+        "_elementType": "text",
+        "text": "500"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.891163,
+          34.193801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "furniture-label"
+        ],
+        "_elementType": "text",
+        "text": "1000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.896552,
+          34.193801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "furniture-label"
+        ],
+        "_elementType": "text",
+        "text": "2000m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.907329,
+          34.193801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "north-line"
+        ],
+        "_elementType": "line"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.994387,
+            34.274817
+          ],
+          [
+            108.994387,
+            34.27623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "north-arrow"
+        ],
+        "_elementType": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.994387,
+              34.276937
+            ],
+            [
+              108.993902,
+              34.276142
+            ],
+            [
+              108.994872,
+              34.276142
+            ],
+            [
+              108.994387,
+              34.276937
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "furniture-label",
+          "north-label"
+        ],
+        "_elementType": "text",
+        "text": "北"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.994387,
+          34.274199
+        ]
+      }
+    }
+  ]
+}

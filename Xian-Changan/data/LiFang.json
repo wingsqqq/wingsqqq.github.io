@@ -1,0 +1,3794 @@
+[
+  {
+    "name": "兴道坊",
+    "interpretation": "《说文》曰：“兴者，起也。”“道，所行道也。”《孟子 ·公孙丑下》曰：“得 道者多助，失道者寡助。”是“道”又有道德、道义之释，兴道者，使道义兴 起也。班固《白虎通 ·谏诤》曰：“夫四弼兴道，率主行仁。”而兴道又有引导 之义，《周礼 ·春官 ·大司乐》曰：“以乐语教国子，兴道讽诵言语。”郑玄注： “兴者以善物喻善事。道读曰导，导者言古以凯今也。”又，兴道之名在景龙三 年(709)曾更名瑶林，以避驸马都尉武攸暨(攸暨之父名怀道)讳。武氏败， 景云元年(710)复名兴道。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，至德女冠观",
+        "ancient_type": "寺观",
+        "modern": "朱雀东坊南区13号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "南门盘道交叉口正中心",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "省建行朱雀路家属院两栋高层东南三角形绿化带",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "开化坊",
+    "interpretation": "《说文》曰：“开，张也。化，教行也。”开化者，以张教行也。南朝宋顾愿 《定命论》曰：“夫建极开化，树声贻则，典防之兴，由来尚矣。”",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "半以南，大荐福寺",
+        "ancient_type": "寺观",
+        "modern": "金泉小区2号楼至中贸广场一带",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西门之北，法寿尼寺，寺为隋开皇六年所立",
+        "ancient_type": "寺观",
+        "modern": "西安市第六中学分校 操场；振兴路、朱雀东坊、中贸街，三街围合部分",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门北壁第二板门王家",
+        "ancient_type": "宅第",
+        "modern": "朱雀东坊西区2—5号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西北角酒肆",
+        "ancient_type": "坊隅区位",
+        "modern": "朱雀东坊南区24号楼之东办事处新西里社区居委会",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "中贸街南郭路与长安北路十字交叉口靠东区域",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "四民巷(现名中贸街)西端，朱雀东坊西区2号楼之南",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "安仁坊",
+    "interpretation": "本名安民坊，高宗永徽元年(650)避太宗李世民讳更名安仁，后沿袭之。 《论语 ·里仁》曰：“仁者安仁，知者利仁。”是知该坊命名之义。仁德者安于 仁之道也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西北隅，荐福寺浮图院",
+        "ancient_type": "寺观",
+        "modern": "友谊西路小雁塔北门",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "东南隅，赠尚书左仆射刘延景宅",
+        "ancient_type": "宅第",
+        "modern": "长安北路之西高尔夫花园、太平 洋大厦、中工电子市场一带",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "坊西南，汝州刺史王昕宅",
+        "ancient_type": "宅第",
+        "modern": "荐福寺路以南，小雁塔苗圃家属楼 以北",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "长安北路91号富成大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西安博物院内湖边桥之东",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "光福坊",
+    "interpretation": "《说文》曰：“光，明也。福，佑也。”《诗经 ·齐风 ·南山有台》云：“邦 家之光。”故，光有荣昭之义。贾谊《道德说》云：“安利之谓福。”是光福有 荣昭其福义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，永寿公主庙，景云中赐姜皎为鞠场",
+        "ancient_type": "寺观",
+        "modern": "陕西省图书馆之南长 安路立交北边道路中央苗圃",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "庙北为姜皎宅",
+        "ancient_type": "宅第",
+        "modern": "今陕西省图书馆",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "隔街旧窦怀贞宅",
+        "ancient_type": "宅第",
+        "modern": "陕西省体育局",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "西南隅，李氏之庙",
+        "ancient_type": "寺观",
+        "modern": "陕西省政务大厅一体教公寓一带",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "长安北路陕西省文化和旅游厅",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "省体育场西北部，飞达体育场店",
+        "modern_type": "文体"
+      }
+    ]
+  },
+  {
+    "name": "靖善坊",
+    "interpretation": "隋时名遵善坊，《说文》曰：“遵，循也。善，吉也。”《国语 ·晋语》曰： “善，德之建也。”故遵善本义应为循吉也。又，《左传 · 昭公十二年》曰：“供  养三德为善。”三德者，《尚书》《周礼》各不相同，《尚书》为正直、刚克、柔克， 《周礼》为至德、敏德、孝德。而佛教亦有三德之说，《华严经疏》注为恩德、 断德、智德。结合此坊尽一坊之地为佛教遵善(兴善)寺来看，此处遵善应为  遵循供奉佛教三德之义。唐代更名为靖善坊，《广雅》曰：“靖，安也。”故靖  善之名有平安吉祥之义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "大兴善寺，尽一坊之地",
+        "ancient_type": "寺观",
+        "modern": "西安音乐学院；大兴善寺",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "长安中路西旅国际中心西北角",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "新加坡小区7号楼南、8号楼西之空地",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "兰陵坊",
+    "interpretation": "查诸书，此坊命名颇有意味，总其大义有两条，孰是孰非，权列于此以供   后考。其一，以坊中有萧氏池台而名，兰陵萧氏为天下名族，梁主萧岿受隋主   恩 遇 ，以其地望而名此坊。其二，《说文》曰：“兰，香草也。陵，大阜也。” 既言兰陵，因其坊所处地形所名欤?查1933年西安市地形图，兰陵坊之南区  为由北向南渐高之坡地。此坡地系由慈恩寺一带延伸而来，则兰陵之命名得如是乎?",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，天官尚书韦待价宅",
+        "ancient_type": "宅第",
+        "modern": "陕西省军区大门附近，小寨军人服务 社之北邻",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "宅西，工部尚书李珍宅",
+        "ancient_type": "宅第",
+        "modern": "陕西省军区院内大楼前广场",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "小寨天桥东南角",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "皇家公馆北面大楼前广场，近小寨西路处",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "开明坊",
+    "interpretation": "开明有通达事理之义，而又有国家社会清明之义。作通达事理义，语出 《史记 ·五帝本纪》:“尧曰：‘谁可顺此事?’放齐曰：‘嗣子丹朱开明。’”作 社会清明义，语出晋 ·张隐《文士传》:“今皇道开明，四海风靡。边鄙无诡随 之民，街巷无异口之议。”以此坊之名，似更与后者近焉。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "光明寺",
+        "ancient_type": "寺观",
+        "modern": "朱雀大街南段交大医学校区段；陕西省军区西邻交大社区",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "长安南路雁塔西路十字东南角偏南处",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "雁塔西路西安交大西二门西南至生物医学研究实验中心东北之间范围",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "保宁坊",
+    "interpretation": "《说文》曰：“保，养也。”又作保佑之义。《书 · 召诰》曰：“天地格保。” 《说文》曰：“宁，安也。”保宁之义，保佑平安也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "昊天观，尽一坊之地",
+        "ancient_type": "寺观",
+        "modern": "南北范围为健康东路以南，陕西广播电视台 大楼——中泰嘉苑4栋北端一线以北。东西范围为国家电炉质量监督检验中心 楼西端以东——中国策划研究院陕西策划中心所在楼以西，长安南路，昌明路 往北50米处四条路围合部分",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "青松路27号北方特种能源集团有限公司大楼",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "韦一街西安国际中心一期2段DK-4 北邻",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "安义坊",
+    "interpretation": "《尔雅》曰：“安，定也。”《说文》曰：“义，己之威仪也。又有正义、合 宜之德之意。安义者，盖安定正义也。”",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "坊址",
+        "ancient_type": "坊隅区位",
+        "modern": "西北政法大学北校区、无线电局家属院、长延堡购物广场一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "长安南路西安雅轩酒店",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "朱雀大街南段西北政法大学校内中楼书店",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "务本坊",
+    "interpretation": "《论语 ·学而》曰：“君子务本，本立而道生。”故可知务本之义。景龙三 年(709)曾更名玉楼，次年复旧。与西相邻之兴道坊同时更名，西瑶林、东 玉楼，颇为对仗。然兴道以武怀道之讳，此务本随之对仗更改，仅为对仗乎?  或为避武姓之谐音否?如是，则中宗时武氏依旧得势之情形，可想见也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "半以西，国子监",
+        "ancient_type": "官署",
+        "modern": "南稍门榴园，珠江时代广场，省人大综合楼；北至南稍门仁义路",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "南街之北，先天观",
+        "ancient_type": "寺观",
+        "modern": "文艺北路76号院，东越文艺路至陕西省戏曲 研究院家属院一带",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "省京剧院家属院-2栋",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "南门广场底下停车库入口",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "崇义坊",
+    "interpretation": "《说文》曰：“崇，嵬高也。义，己之威仪也。”《尔雅》曰：“崇，高也。 亦有以崇喻高贵之义。”《易经乾卦》曰：“利物足以和义。”又，《说卦传》曰： “立人之道，曰仁与义。”名崇义者，盖崇尚道义也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "坊内横街之北，招福寺",
+        "ancient_type": "寺观",
+        "modern": "南郭路；体育馆南路；体育馆东路；文艺 北路围合部分；陕西省商务厅家属院",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "西南隅，太子左庶子、驸马都尉苏勖宅",
+        "ancient_type": "宅第",
+        "modern": "长安北路；泛美大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "南街之北，博陵郡王崔元玮宅；宅西，秘书监马怀素宅",
+        "ancient_type": "宅第",
+        "modern": "西安市卫 生学校至泰华世纪新城一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西北电业职工大学家属院北区4号楼",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "南门小学",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "长兴坊",
+    "interpretation": "《广雅》曰：“长，久也。”《尔雅》曰：“兴，起也。”名长兴，寓长久兴盛 之义也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，侍中、驸马都尉杨师道宅",
+        "ancient_type": "宅第",
+        "modern": "文艺南路纺织品批发市场 东区",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "横街之南，中书令张嘉贞宅",
+        "ancient_type": "宅第",
+        "modern": "西南角，长安北路西安唐乐宫仿唐歌 舞剧院，景致雅居；西北角，长安北路89号中信大厦；东南角，文艺南路陕 西省测绘局家属院29栋；东北角，陕西省测绘局家属院9号楼",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "陕西省测绘局家属院",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "长安北路华尔国际大厦南邻院子",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "永乐坊",
+    "interpretation": "《说文》曰：“永，长也。”《论语 ·学而》曰：“有朋自远方来，不亦乐 乎?”陶渊明《桃花源记》曰：“怡然自乐。”永乐者，词如其义，永远安 乐也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，废明堂县廨",
+        "ancient_type": "官署",
+        "modern": "南二环东段1号长安立交东北角",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "县东，清都观；观东，永寿寺",
+        "ancient_type": "寺观",
+        "modern": "晨阳盛世广场至延炼大厦一带",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "横街之北，资敬尼寺",
+        "ancient_type": "寺观",
+        "modern": "草场坡8附近三五三八厂高层家属院",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东南隅，左丞相、燕国公张说宅",
+        "ancient_type": "宅第",
+        "modern": "文艺南路与南二环交叉路西北角 国家电网；西侧校本部北苑教学区学生公寓-10",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门之南，夏官尚书王璇宅",
+        "ancient_type": "宅第",
+        "modern": "长安大学材料表面强化研究所，文艺 南路知旧书店",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "长安大学校本部游泳池旁",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "长安北路陕西省特种设备协会后院停车场",
+        "modern_type": "交通"
+      }
+    ]
+  },
+  {
+    "name": "靖安坊",
+    "interpretation": "《广雅》云：“靖，安也。”《淮南子 ·精神》曰：“清靖而无私虑。”《尔雅》 曰：“安，定也。”《周书 ·谥法》曰：“好和不争曰安。”故靖安之义，安定也。 此坊有名之为静安者。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，崇敬尼寺",
+        "ancient_type": "寺观",
+        "modern": "陕西省西安市雁塔区兴善寺东街115号(育才 中学体育场)至育才住宅小区一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "乐府，在崇敬尼寺之东",
+        "ancient_type": "寺观",
+        "modern": "陕西学前师范学院雁塔校区",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "武元衡宅",
+        "ancient_type": "宅第",
+        "modern": "雅荷翠华小区2号楼之东侧空间，今似为停车场",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "雅荷翠华小区1号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "长安中路西旅国际中心停车场",
+        "modern_type": "交通"
+      }
+    ]
+  },
+  {
+    "name": "安善坊",
+    "interpretation": "《尔雅》曰：“安，定也。”《说文》曰：“善，吉也。”王羲之《快雪时晴帖》 曰：“佳想安善。”隋炀帝《赐书召释慧觉》曰：“法师安善，寒暑惟宜。”故安  善之义可明也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "教弩场，尽一坊之地",
+        "ancient_type": "官署",
+        "modern": "小寨长安大学校本部西苑南门；小寨白马眼 镜城；小寨雁塔区政府",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西北角",
+        "ancient_type": "坊隅区位",
+        "modern": "长安大学建筑学院",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "陕西历史博物馆对面，中国西安康辉国际旅行社北面",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "小寨十字西北角，西安国际贸易中心大楼东北角",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "大业坊",
+    "interpretation": "本名宏业，中宗神龙时，避孝敬皇帝李弘讳更名大业。宏业与大业之义 同。在隋本名弘业，唐神龙中为避孝敬皇帝李弘之讳而易名为大业。弘业、大 业皆相通也。《周易 ·系辞上》曰：“盛德大业至矣哉，富有之谓大业，日新之 谓盛德。”",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，太平女冠观",
+        "ancient_type": "寺观",
+        "modern": "雁塔西路12号电信十所家属院",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "观西：驸马杨慎交山池",
+        "ancient_type": "寺观",
+        "modern": "电信十所家属院23号楼至该家属院文体 活动中心一带",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "翠华路与雁塔西路十字西南角，速8酒店大雁塔店所在楼之 西、翠微园小区之北",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "纬二街十字东南角",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "昌乐坊",
+    "interpretation": "《尚书 ·仲虺之诰》曰：“邦乃其昌。”《史记 ·太史公自序》曰：“顺之者 昌，逆之者不死则亡。”《诗 ·魏风 ·硕鼠》曰：“逝将去女，适彼乐土。”昌乐 之义，兴旺且安乐也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "官园",
+        "ancient_type": "园林",
+        "modern": "西安邮电大学校园至西安市第九十九中学一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "雁南一路(长乐坊 · 玺岸)",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "纬一街与雁南一路十字东北角",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "安德坊",
+    "interpretation": "《左传 ·襄公十一年》曰：“失乐以安德。”《三国志 ·吴志 · 陆逊传》曰： “今观君气陵其上，意蔑乎下，非安德之基也。”",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "陕西师范大学家属区专家楼5号楼",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西安外国语大学家属院6栋",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "翊善坊",
+    "interpretation": "《说文》曰：“翊，飞貌。”翊与翼通，为辅佐之义，翊善为辅佐善行，该 坊北即大明宫，以翊善命名，显然为臣佐君意。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅",
+        "ancient_type": "坊隅区位",
+        "modern": "西安马应龙肛肠医院",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "西南隅",
+        "ancient_type": "坊隅区位",
+        "modern": "西安职业中专西墙",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西安市新城区东大院社区便民服务站",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "光宅坊",
+    "interpretation": "高宗龙朔时，大明宫建成，开辟丹凤门大街分翊善坊之西半而设置。《说 文》曰：“光，明也。”《释名 ·释天》曰：“光，晃也，晃晃然也。亦言广也， 所照广远也。”小徐本《说文》曰：“宅，所托居也。”光宅之名，以所居之明也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "光宅寺",
+        "ancient_type": "寺观",
+        "modern": "西安火车站及以北区域，向北达丹凤门广场西南部",
+        "modern_type": "交通"
+      }
+    ]
+  },
+  {
+    "name": "永昌坊",
+    "interpretation": "始皇帝得天下，其以和氏璧琢传国玉玺，《尚书 ·洪范》曰：“受命于天， 既寿永昌。”永昌之义，盖出于此，以祈国祚永昌也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "护国寺",
+        "ancient_type": "寺观",
+        "modern": "大地招待所、房地三分局家属院二号楼两座楼，向南至西 七路房地产管理局第三分局大楼一带",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西安市游泳运动管理中心之北洞天商务大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "龙翔宾馆与绿岛宾馆之间的地带",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "来庭坊",
+    "interpretation": "高宗龙朔时，大明宫建成，开辟丹凤门大街分永昌坊之东半而设置。《诗 经 ·大雅 ·常武》曰：“四方既平，徐方来庭。”来庭为朝觐天子之义，此坊近 宫阙，故名。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "庄宅司",
+        "ancient_type": "官署",
+        "modern": "东八路、尚俭路、东七路、尚勤路围合之区域内",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "永兴坊",
+    "interpretation": "《说文》曰：“兴，起也。”《中庸》曰：“国有道，其言足以兴。”故言永兴， 寓国之永久兴盛。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，左金吾卫",
+        "ancient_type": "官署",
+        "modern": "东大街碑林区西安市公安局碑林分局，碑林分 局后红十字会巷",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "十字街西之北，荷恩寺",
+        "ancient_type": "寺观",
+        "modern": "新城区尚德路85号中国太平洋保险大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门之北，太子太师、郑国公魏徵宅",
+        "ancient_type": "宅第",
+        "modern": "南至新城国际科技大厦、东 新街240号意达综合楼平安银行西安分行营业部一带；北越东新街至索菲特大 厦西楼(新城区东新街319号)",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "尚勤路中国工商银行西安支行家属院7栋",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "东新街，新城国际科技大厦西南角",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "东大街、大差市十字西北角",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西三路，新玛特南门",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "崇仁坊",
+    "interpretation": "《论语 ·八佾》曰：“人而不仁，如礼何?人而不仁，如乐何?”《论语 ·颜 渊篇》云：“子曰：克己复礼为仁，一日克己复礼，天下归仁焉。”仁为礼之 本，孔子援仁入礼，故得崇仁之名。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之西，礼会院",
+        "ancient_type": "坊门",
+        "modern": "和平门西之环城公园第一处马面之西至第二处 马面范围内，向北越城墙至今长乐村、下马陵社区一带",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门之东，宝刹寺",
+        "ancient_type": "寺观",
+        "modern": "阿房宫维景国际大酒店向南至和平路99号金 鑫国际、榕园公寓一带。寺址跨和平路，西包万达广场、和平银座、佳腾大厦 区域",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西南隅，玄真观、长宁公主宅",
+        "ancient_type": "宅第",
+        "modern": "在县仓巷5号市交通局家属院，南 越城墙至环城公园一带",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门之北，尚书左仆射、许国公苏瑰宅",
+        "ancient_type": "宅第",
+        "modern": "中铁一局建国路小区至雍 村饭店区域内",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "建国路，建国五巷6号院南楼西部的北面区域",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "县仓巷，西号巷十号楼北边建筑及停车场南部一带",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "护城河内，与和平门西第一马面相对，近护城河南岸处",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "大差市西南角万达广场大楼前",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "平康坊",
+    "interpretation": "《尚书 ·洪范》曰：“平康正直，强弗友刚克，燮友柔克。”言平康，寓平 安之意也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西北隅，隋太师、申国公李穆宅",
+        "ancient_type": "宅第",
+        "modern": "环城南路东段西安外贸大厦；西 安市第九十三中学",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门之南，尚书左仆射、河南郡公褚遂良宅",
+        "ancient_type": "宅第",
+        "modern": "省体育局家属院9栋； 陕西省西安市碑林区建西街21号省体育局家属院；和平门长胜街7号紫荆苑",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安市第十二中学",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西安市碑林区歌剧院家属院11号楼",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "环城南路与和平路十字西南角",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "宣阳坊",
+    "interpretation": "南朝建康城有宣阳门。《说文》曰：“宣，天子宣室也。”又云：“阳，高明 也。”帝京为天子之居，坊居于南，万年廨所在，以宣阳名此坊则意可知。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，万年县廨",
+        "ancient_type": "官署",
+        "modern": "友谊东路空军医院",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "西南隅，净域寺",
+        "ancient_type": "寺观",
+        "modern": "友谊西路西安市第七十一中学",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门之西，杞国公窦毅宅",
+        "ancient_type": "宅第",
+        "modern": "友谊西路西藏大厦；开元名都大酒店",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "十字街之西北，秋官尚书、谯国公李晦宅",
+        "ancient_type": "宅第",
+        "modern": "中煤科工西安院碑林 小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门之北，尚书左仆射、舒国公韦巨源宅",
+        "ancient_type": "宅第",
+        "modern": "西安市第八十六中学",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "十字街东之北，刑部尚书李乂宅",
+        "ancient_type": "宅第",
+        "modern": "铁一局李家村2号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "宅西，益州长史李衮、太子宾客郑惟忠宅",
+        "ancient_type": "宅第",
+        "modern": "铁一局李家村1号楼至雁 塔路",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东北隅，兵部尚书郭元振宅",
+        "ancient_type": "宅第",
+        "modern": "陕西省疾病预防控制中心",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "西门之南，右羽林军大将军高仙芝宅",
+        "ancient_type": "宅第",
+        "modern": "明盛路紫玉兰庭",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门之北，京兆尹李齐物宅",
+        "ancient_type": "宅第",
+        "modern": "空军医院后面紫润花园",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "太安街、安东街十字西南角",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "明胜路东口",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "友谊东路李家村十字西南角",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "中国邮政储蓄银行(西安市李家村营业所)",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "亲仁坊",
+    "interpretation": "《论语 ·学而》云：“子曰：‘弟子入则孝，出则悌，谨而信，泛爱众而亲 仁。行有余力，则以学文。’”则亲仁之名可知其意。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，咸宜女冠观",
+        "ancient_type": "寺观",
+        "modern": "建设西路新旅城",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西北隅，尚书右仆射、燕国公于志宁宅",
+        "ancient_type": "宅第",
+        "modern": "友谊东路省纪委监察厅家 属院；友谊东路国家电网陕西电力供电服务中心",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "十字街东之北，太子詹事韦琨宅",
+        "ancient_type": "宅第",
+        "modern": "西安建筑科技大学建材楼；材料 与矿物标本陈列馆；陕西省结构与抗震重点实验室",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "宅东，中书侍郎杨弘武宅、太仆卿王希隽宅",
+        "ancient_type": "宅第",
+        "modern": "西安建筑科技大学逸 夫楼、体育馆",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东南隅，回元观",
+        "ancient_type": "寺观",
+        "modern": "西安建筑科技大学雁塔校区北院图书馆一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门之东，驸马都尉郑万钧宅",
+        "ancient_type": "宅第",
+        "modern": "西安建筑科技大学华清广场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门之北，滕王元婴宅",
+        "ancient_type": "宅第",
+        "modern": "西安建筑科技大学体育馆",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安建筑科技大学后勤服务中心楼(校史馆之北)",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "测绘西路，西安碑林袁全才诊所(西夏宾馆之南，民俗村岐 山面斜对过)",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "建设西路与雁塔路十字西北角",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "友谊东路与雁塔路十字西南角电子工业岩土基础工程公司",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "永宁坊",
+    "interpretation": "《说文》曰：“永，水长也。”意长久，又云：“宁，安也。”《尚书 ·洪范》 云：“三曰康宁。”意安定之意。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，京兆府籍坊",
+        "ancient_type": "坊隅区位",
+        "modern": "南二环绿地乐和城西邻耐克工厂店",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "南门之西，礼部尚书裴行俭宅",
+        "ancient_type": "宅第",
+        "modern": "西安科技大学紧邻南二环操场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门之北，太尉、祁国公王仁皎宅",
+        "ancient_type": "宅第",
+        "modern": "西安建筑科技大学14号住宅 楼；西安建筑科技大学33号楼；西安建筑科技大学行政楼",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "铁一局后村小区2号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "长安大学塑胶田径场南部靠西",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "二环南路东段，雁塔路立交西边",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "建设西路百脑汇",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "永崇坊",
+    "interpretation": "《尔雅》曰：“崇，高也。”《白虎通》曰：“天子曰崇城，言崇高也。”既言 天子崇城，则永崇之名，或寓恒久为都之意。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，七太子庙",
+        "ancient_type": "寺观",
+        "modern": "后村小区1号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "庙西，灵应观",
+        "ancient_type": "寺观",
+        "modern": "省考古研究院家属区至国家煤炭质量监督检验中心 一带",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "十字街西之南，刑部尚书韦抗宅",
+        "ancient_type": "宅第",
+        "modern": "省委南门至长安大学雁塔校区春 花园一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "后村西路陕西省委院内",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "翠华路，翠华路小学工商银行",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "育才路长安大学校本部东院教学区操场中心位置",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "省委办公大楼",
+        "modern_type": "机关"
+      }
+    ]
+  },
+  {
+    "name": "昭国坊",
+    "interpretation": "《说文》曰：“昭，日明也。”《周礼 ·考工记》曰：“匠人营国。”昭为明， 国为都，亦言京城为彰明之城也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，崇济寺",
+        "ancient_type": "寺观",
+        "modern": "大雁塔小学操场及小学家属院3号楼",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门内，太子太傅致仕郑纲宅(此处诸文献未载详细地址，究竟是南门之 西还是南门之东，未知)",
+        "ancient_type": "宅第",
+        "modern": "大雁塔北广场西侧唐宗隆酒店建筑及其西绿化景 观园一带",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西影路市委党校西影路新村第二排2栋楼东面停车场",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "小寨东路与翠华路十字东南角大唐商务大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "大雁塔北广场西侧德克士、雁月百货商行所在建筑",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "育才路长安大学校本部东院教学区操场南跑道",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "晋昌坊",
+    "interpretation": "《说文》曰：“晋，进也。日出，万物进。”《周易 ·序卦》曰：“晋者，进 也。”《尚书 ·仲虺之诰》曰：“邦乃其昌。”名曰晋昌，意兴旺也。此坊亦作进 昌坊，同也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "半以东，大慈恩寺",
+        "ancient_type": "寺观",
+        "modern": "今大慈恩寺及大雁塔南广场、大唐博相府酒店、大慈恩寺遗址公园、慈恩东路兰桂坊建筑群一带",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "寺西院，浮图六级，崇三百尺",
+        "ancient_type": "寺观",
+        "modern": "今大慈恩寺即唐之寺西院",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西南隅，楚国寺",
+        "ancient_type": "寺观",
+        "modern": "西安交大财经社区南家属院11号楼及其附近 范围",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街之西北，净住寺",
+        "ancient_type": "寺观",
+        "modern": "雁塔西路东口之东民俗大观园范围",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "十字街北之东，尚书左仆射、郇国公韦安石宅",
+        "ancient_type": "宅第",
+        "modern": "慈恩寺西墙外步行 街曲江旅游度假区一带",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "芙蓉东路慈恩寺公园内名豪茶舍一线之东侧外别墅区边缘。 西门，今 址 ：翠华路旭光数码摄影",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "威斯汀酒店大堂吧",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "大雁塔北广场西侧德克士、雁月百货商行所在建筑南面绿化 带(含建筑)",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "通善坊",
+    "interpretation": "《说文》曰：“通，达也。”又云：“善，吉也。”言通善，寓以吉。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "雁南一路芙蓉阁酒店",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "翠华路通泰 · 曲江左岸大楼之北区域内",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "贞观北街西段南部空地(陕西大剧院)",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西安曲江艺术博物馆天井内",
+        "modern_type": "文体"
+      }
+    ]
+  },
+  {
+    "name": "通济坊",
+    "interpretation": "《诗经 ·齐风 ·载驱》云：“四骊济济。”意美好也。济从水旁，而有众 多之意，既言通济，寓达于美好之期。坊近曲江池水面，此处名通济以表其 状乎?",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "曲江公馆B 区北2门",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "慈恩西路陕西省植物研究所(宗江金桌宴酒楼)",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "雁南二路新艺术中心",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "贞观北街西段南部空地",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "长乐坊",
+    "interpretation": "长乐之名，寓长久快乐意，乃吉语。《韩非子 ·功名》曰：“以尊主御忠臣， 则长乐生而功名成。”汉高祖建长乐宫，汉瓦又有长乐未央，莫不为吉。此坊 入唐后曾更名延政，因坊北临大明宫延政门之故。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "大半以东，大安国寺",
+        "ancient_type": "寺观",
+        "modern": "寺址南部在长缨西路462号多彩城品牌时装 大世界，向北至大华中学范围内",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西南隅，兴唐观",
+        "ancient_type": "寺观",
+        "modern": "东北城角内皇城坊住宅小区一带。皇城坊之南东 八路即在长乐坊、大宁坊之间，与两坊之间大街重合",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "华清西路118号兰州正宗拉面馆",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西安机务段东南空场地",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "电业新村小区25栋",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "欣主赐教堂一带",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "大宁坊",
+    "interpretation": "《说文》曰：“宁，安也。”取大宁，意大安。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，兴唐寺",
+        "ancient_type": "寺观",
+        "modern": "新城区长乐西路187号澳龙服装批发商城至华东 国际商贸中心一带，跨长乐西路，澳龙服装城之南丁字路",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西南隅，太清宫",
+        "ancient_type": "坊隅区位",
+        "modern": "东五路之南，东四路之北，西安市供电局城区分 局市区保电站",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门之南，左侍极、兼右相陆敦信宅",
+        "ancient_type": "宅第",
+        "modern": "尚爱路与东六路交叉东南角 之青海大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "次南，大理卿孙伏伽宅",
+        "ancient_type": "宅第",
+        "modern": "今东五路以北至兄弟烤肉坊南坊巷拐角处 范围",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门之东，户部尚书许圉师宅",
+        "ancient_type": "宅第",
+        "modern": "长乐西路408号西安人民搪瓷厂小 区、西部商贸中心",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "第四军医大学校内继教楼之东",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "尚爱路55号青海大厦斜对面马家肉丸胡辣汤店",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "环城东路与长乐路交汇处东南角，朝阳国际广场东南角",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "搪瓷北巷电业新村22栋与15号楼之间",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "安兴坊",
+    "interpretation": "《尔雅》云：“安，定也。”《说文》云：“兴，起也。”安兴之义，安定而后 兴起。此后改名广化，《唐会要》卷八六《城郭》载：“至德二(三)载正月  二十七日，改丹凤门为明凤门，安化门为达礼门，安上门为先天门，及坊名有  ‘安’者悉改之，寻并却如故。”则《唐会要》所记易坊名有安者，安兴更名  广化亦应在此时。所不同者，其他易名后均复原名，以致今不知其当时更改状  况。独广化一坊得以保留延续。广化者，析其义有二，一出《素问 ·五常政大  论》:“敦阜之纪，是谓广化。”所谓敦阜者，五运主岁之中，土运太过之名也。 一出释教，意为以广大之佛法度化众生也。辛德勇《隋大兴城坊考稿》“安兴  坊”条中对更名之情况亦有详考。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之东，申王宅，宅东岐山范宅",
+        "ancient_type": "宅第",
+        "modern": "东关正街东方星苑、更新小区、 柿园新村、公安碑林分局家属院范围内",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "西门之北，户部尚陆象先宅，次北开府仪同三司宋璟宅",
+        "ancient_type": "宅第",
+        "modern": "中山门小区 北门",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街之西北，净住寺",
+        "ancient_type": "寺观",
+        "modern": "加丽连锁酒店、电力公司小东门社区1栋范 围内",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "长乐坊197号",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "东新街80号",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "东关正街109号",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "永乐路西安二染厂招待所",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "胜业坊",
+    "interpretation": "朱雀门街东第四街，南北尽二坊之地，市内有东市局",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，胜业寺",
+        "ancient_type": "寺观",
+        "modern": "东南城角角楼之西第一座马面墙、城墙内建国门 综合市场，向南跨护城河",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "十字街北之西，修慈尼寺",
+        "ancient_type": "寺观",
+        "modern": "古迹岭小区18A 、18D 号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "寺西，甘露尼寺",
+        "ancient_type": "寺观",
+        "modern": "自前地址向西，今为环城东路与护城河也，东门 城楼之南第四马面墙及以北范围",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西北隅，薛王业宅",
+        "ancient_type": "宅第",
+        "modern": "碑林区东大街社区，建国一巷、二巷、三巷区 域内",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东北隅，宁王宪山池院",
+        "ancient_type": "宅第",
+        "modern": "碑林区柿园路248号东关小学、碑林区语 言文字工作委员会，南至大新巷",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东南隅，宁王宪宅",
+        "ancient_type": "宅第",
+        "modern": "就业局家属院至卧龙巷干休所一带",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街北之东，银青光禄大夫薛绘宅",
+        "ancient_type": "宅第",
+        "modern": "由南向北为古迹岭小区24 号楼、枣园巷、邮电局家属院、南牌楼巷一带",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "狗脊岭(古迹岭)",
+        "ancient_type": "遗址",
+        "modern": "碑林区老年大学至兴庆熙园小区一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "东关南街蔡家巷2号石榴小院东边家属楼",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "建国五巷之南信义巷55号院西端",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "咸宁西路41号鑫达广告后院7天酒店",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "东关正街如家快捷酒店(西安东门店)",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "东北十字街，今址 ：东市路与乐居场路十字之东(乐居场小区1号楼之北)。 东南十字街",
+        "ancient_type": "街路",
+        "modern": "乐居场秦晋商务大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西北十字街",
+        "ancient_type": "街路",
+        "modern": "太乙路与东市路十字之东",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西南十字街",
+        "ancient_type": "街路",
+        "modern": "太乙路207号",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "安邑坊",
+    "interpretation": "夏都之一名曰安邑，《说文》曰：“邑，国也。”邑为国都京城之谓，安邑 之名，取京城安定之意。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，左卫大将军、范阳公张延师宅",
+        "ancient_type": "宅第",
+        "modern": "西安建筑科技大学建筑东楼、西安市建科大派出所后停车场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "次东，金吾大将军杨执一宅",
+        "ancient_type": "宅第",
+        "modern": "省人社机关服务中心大楼",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "奉诚园",
+        "ancient_type": "园林",
+        "modern": "建设东路与太乙路交叉口以东范围铁一局祭台村家属院",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东南隅，李德裕宅(李吉甫宅)",
+        "ancient_type": "宅第",
+        "modern": "经九路、 南二环交叉口之西北，现为西安市第九医院住院二部之楼",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "经九路3A",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西安建筑科技大学后勤服务中心后院",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "铁五第二小学隔壁，铁一局祭台村小区",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "友谊东路铁一中年前广场",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "宣平坊",
+    "interpretation": "《诗经 ·小雅 ·黍苗》曰：“土治曰平。”《广韵》云：“平，正也。”宣平之义，寓国之政治平也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，旧诸王府",
+        "ancient_type": "宅第",
+        "modern": "青龙路祭台新苑",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西南隅，法云尼寺",
+        "ancient_type": "寺观",
+        "modern": "后村北路东小区社区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "寺东，义阳府",
+        "ancient_type": "寺观",
+        "modern": "省委机关联建小区",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "十字街南之西，鼓吹局，教坊",
+        "ancient_type": "街路",
+        "modern": "曼城国际",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "铁路新村126栋",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "铁一局后村小区4号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西延路生活小区旁(西安科技大学东院西)祭台村城中村前广场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "二环南路太乙路立交东北角",
+        "modern_type": "交通"
+      }
+    ]
+  },
+  {
+    "name": "升平坊",
+    "interpretation": "升平，太平也。《汉书 ·梅福传》云：“使孝武帝听用其计，升平可致。” 颜师古注引张晏曰：“民有三年之储曰升平。”",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，汉乐游庙",
+        "ancient_type": "寺观",
+        "modern": "乐游园高尔夫俱乐部",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "西北隅，东宫药园",
+        "ancient_type": "坊隅区位",
+        "modern": "绿地海珀紫庭3、4栋",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门，鬻饼舍",
+        "ancient_type": "旅舍",
+        "modern": "西延路生活小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安雁塔区观音庙老村1排",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "后村北路与后村西路西北角省委大院内建筑",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西延路石油家属院",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西延路生活小区内",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "修行坊",
+    "interpretation": "本名修华，武后时避讳更名修行。查修华一名在南朝及隋为皇帝所设妃嫔 之名，此处义固不合。《说文》曰：“修，饰也。”又曰：“华，荣也。”故知修 华者，言兴造使其华丽也。《庄子 ·大宗师》曰：“彼何人者邪?修行无有，而 外其形骸。”唐成玄英注：“彼二人情事难识，修己德行，无有礼仪，而忘外形 骸。”修行为修己德行。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "曲江路189号足球场",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "中共西安市委党校图书馆之西北树林草坪内",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "雁塔区太阳食品集团家属院11栋",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西延路西影社区15栋",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "修政坊",
+    "interpretation": "《管子 ·大匡》曰：“公内修政而劝民，可以信于诸侯矣。”《史记 ·孙子吴 起列传》曰：“修政不仁。”修政，修明政教也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "雁塔区北池头一路中海铂宫中海峰墅-125号楼",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "芙蓉东路",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "芙蓉西路99号大唐芙蓉园内赏雪亭",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "雁塔区中海峰墅(大唐芙蓉园北190米)",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "青龙坊",
+    "interpretation": "《淮南子》卷三曰：“天神之贵者，莫贵于青龙。故而青龙或为四象之首。” 青龙为勾芒之精，为东方之神，《旧唐书》卷二十四《礼仪志》曰：“祀青帝， 以勾芒配。”勾芒坛在东南。此坊踞郭城东南，故以青龙名之。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，废普耀寺",
+        "ancient_type": "寺观",
+        "modern": "雁塔区曲江新区芙蓉西路99号大唐芙蓉园内 释迦牟尼佛手印——安慰印",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西南隅，废日严寺",
+        "ancient_type": "寺观",
+        "modern": "芙蓉西路90号芙蓉坊内大唐芙蓉园西门对面 老店铺泡馍馆",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "曲江分局宿舍18栋",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "曲江皇家花园小区K25 栋",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "芙蓉西路99号大唐芙蓉园内凤鸣九天剧院",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "大唐芙蓉园湖中",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "曲池坊",
+    "interpretation": "此坊原名永福，《说文》曰：“福，祐也。”贾谊《道德说》云，福为安利 之义。永福之名，取其吉语。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，废建福寺",
+        "ancient_type": "寺观",
+        "modern": "曲江书城",
+        "modern_type": "文体"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安盛美利亚酒店商务中心东南曲江池西路范围。 西门，今址：雁塔区金地 · 芙蓉世家48栋",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "雁南二路与芙蓉西路十字西南角",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "雁塔区芙蓉南路大唐芙蓉园南门",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "尽坊之地筑入苑，十六宅",
+        "ancient_type": "宅第",
+        "modern": "胡家庙锦绣商贸城西区，新城区华清西 路36号",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "长缨西路99号中国民生银行24小时自助银行(西安胡家庙 小微企业专营支行)之北",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "新城区宏伟金鑫物流有限公司南部",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "新城区四合窑西筑机械厂家属院23栋之南西安组织工程技 术研发中心",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "兴宁坊",
+    "interpretation": "《说文》曰：“兴，起也。宁，安也。”兴宁之义，取求于安定也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之东，清禅寺",
+        "ancient_type": "寺观",
+        "modern": "新城区长乐西路与兴庆路丁字路口、长乐西路 127号西京医院、榆林商场一带",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "东南隅，左卫大将军泉男生宅",
+        "ancient_type": "宅第",
+        "modern": "长乐西路电建社区36号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西南隅，姚崇宅",
+        "ancient_type": "宅第",
+        "modern": "康复路金德大厦至东方亿象城北门、安仁坊小区 12栋一带",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "次东，太平公主宅",
+        "ancient_type": "宅第",
+        "modern": "交广商城至康复路、长乐西路十字一带",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西北电建社区14号楼北面停车场",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "第四军医大学院内",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "长乐西路180号瑞客季景酒店",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "陕建机四社区3栋之西红瓦顶老家属楼西南(今为一新建大 楼前空间东北角)",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "永嘉坊",
+    "interpretation": "《说文》曰：“隆，丰大也。”《尔雅 ·释山》曰：“宛中隆。”《广雅 ·释言》 曰：“庆，贺也。”隆庆之名，庆贺其盛大也。后明皇即位，以隆与御名相讳， 易隆为兴，《说文》曰：“兴，起也。”兴庆之义，以吉语贺三郎之起也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，太子少师李纲宅",
+        "ancient_type": "宅第",
+        "modern": "兴庆路西安市体育运动学校；兴庆路西 窑坊小区5栋、6栋、7栋",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门之南，侍中张文璀宅，此宅后并入兴庆宫",
+        "ancient_type": "宅第",
+        "modern": "陕西电力公司兴庆 路社区4栋",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "宅东，兖州都督韦元琰宅",
+        "ancient_type": "宅第",
+        "modern": "金花坊1号楼、太液坊便民综合市场。 西南隅，申王  宅 ，今址：碑林区索罗巷小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "宅南，赠礼部尚书、永兴公虞世南庙",
+        "ancient_type": "宅第",
+        "modern": "陕西省五矿进出口公司家 属院",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "南门之东，蔡国公主宅",
+        "ancient_type": "宅第",
+        "modern": "兴庆路水利厅小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西北隅，凉国公主宅",
+        "ancient_type": "宅第",
+        "modern": "永乐小区、长乐村小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "伞塔路48号",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "北火巷与永乐路交叉口东北角",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "柿园路1号中铁十五局集团西北工程公司大门内东侧第二 座楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "永乐路19-7号西安电力高等专科学校南门东7号",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "坊东南角：",
+        "ancient_type": "坊隅区位",
+        "modern": "西安理工大学金花校区学生2食堂建筑中部北侧道路",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "坊东北角：",
+        "ancient_type": "坊隅区位",
+        "modern": "兴庆医院家属院西门",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "坊西北角：",
+        "ancient_type": "坊隅区位",
+        "modern": "柿园路东方星座A座之北",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "坊西南角：",
+        "ancient_type": "坊隅区位",
+        "modern": "兴庆公园西南角(与西安交通大学北门西侧建筑相直)之土山绿地",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "道政坊",
+    "interpretation": "《论语 ·为政》曰“道之以政，齐之以刑，民免而无耻。”以政令而管理国 家之义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "北门之西，吏部尚书侯君集宅",
+        "ancient_type": "宅第",
+        "modern": "咸宁西路28号西安交通大学现代 设计与制造网上合作研究中心",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门之西，尚书左仆射张成行宅",
+        "ancient_type": "宅第",
+        "modern": "交大逸夫科学馆国际会议中心、 交大图书馆、航天航空学院",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门之北，工部尚书刘知柔宅",
+        "ancient_type": "宅第",
+        "modern": "交大一村高层、交大幼儿园",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "交大商场街16号",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "咸宁西路28号西安交通大学教钳车间前",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "咸宁西路28号西安交通大学体育中心旁操场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "咸宁西路28号西安交通大学内西安交通大学-电工电子教学 实验中心北边",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "常乐坊",
+    "interpretation": "常，恒久不变也。《广雅》曰：“常，质也。”《周易 ·象传》曰：“未变常也。”乐， 《诗经 ·魏风 ·硕鼠》云：“适彼乐土。”言常乐者，恒久之乐也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之西，灵花寺(云花寺)",
+        "ancient_type": "寺观",
+        "modern": "西安交通大学博士后公寓",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "十字街南之东，中书令来济宅",
+        "ancient_type": "宅第",
+        "modern": "西安交通大学学生区东14学生宿舍一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安交通大学东南门交大街9号",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西安交通大学篮球场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西安交通大学东20宿舍之南",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西安交通大学体育中心旁操场",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "靖恭坊",
+    "interpretation": "靖恭者，恭谨供奉也。《诗经 ·小雅 ·小明》曰：“靖共尔位，正直是与。” 高亨注：“靖，犹敬也。共，奉也。”",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "十字街南之西，袄祠",
+        "ancient_type": "寺观",
+        "modern": "南二环东段武警陕西省总队医院",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "西北隅，驸马都尉杨慎交宅",
+        "ancient_type": "宅第",
+        "modern": "友谊东路海联物业友谊东路小区、金 水路42号院",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "二环南路东段38号雁塔区监狱后院",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "经九路3号西安润佳连锁酒店西边",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "雁塔区青龙路西安铁一中分校1号教学楼前建筑",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "友谊东路8新兴名园北1门",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "新昌坊",
+    "interpretation": "昌，兴旺发达、光明、壮美之义。《尚书 ·仲虺之诰》曰：“邦乃其昌。”《诗 经》:“东方昌昌。”此坊居郭城之东，地势又为最高，盖每晨见日之初升，先见光明之义，故以新昌而名，然或以新昌喻国家之兴旺也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之东，青龙寺",
+        "ancient_type": "寺观",
+        "modern": "青龙寺乐游原",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西影路与雁翔路十字向北350米处附近",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "铁路新村130栋",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西影路211号附近",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "雁塔区青龙路西安铁一中分校",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "升道坊",
+    "interpretation": "升通昇。《周易 ·序卦》曰：“聚而上者谓之升。”《诗经 ·小雅 ·天保》曰： “如日之升。”《说文通训定声》云：升假借为“登”,字亦作昇，作陛。道者有二义，其一，《说文》云：“道，所行道也。”其二，《孟子 ·公孙丑下》云：“得道多助，失道寡助。”《世说新语 · 赏誉》曰：“阿兄形似道，而神锋太俊。”所 谓升道者，本有两含义， 一为聚升大道也， 一为得升仙道，有羽化而登仙之义，结合该坊地形来看，升道当为得升仙道，羽化登仙之义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西北隅，龙华尼寺",
+        "ancient_type": "寺观",
+        "modern": "雁塔区西影路46号西勘综合市场",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西影路116号陕西省理工学校3号公寓楼东边",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "雁塔区观音庙老村1排",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西影路260号西邻园内",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西影路王家村西排44号附近",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "立政坊",
+    "interpretation": "《尚书》有立政篇，言周公作《立政》也。西汉扬雄《扬子法言 · 先知》 云：“或问：‘何以治国?’曰：‘立政。’”立政者，立为政之道也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "让皇帝庙，北门",
+        "ancient_type": "寺观",
+        "modern": "西影路260号西邻园内",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安理工大学曲江校区5号学生公寓",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "曲江路189号足球场",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "曲江大道北池头二路北池头社区",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "敦化坊",
+    "interpretation": "敦化者，语出《中庸》:“小德川流，大德敦化，此天地之所以为大也。” 本其义，敦厚而化育万物之义也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "北池头二路101号大丰曲江真境",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "芙蓉东路89号铂罗尼亚",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "北池头二路中海 · 东郡21栋西邻",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "曲江大道北池头二路北池头社区",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "善和坊",
+    "interpretation": "《说文》曰：“善，吉也。”《吕氏春秋 ·长攻》曰：“所以善代者乃万故。” 此处意为好。和《说文》以相应意也。《广雅》以谐解。名善和者，吉利和谐之意也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安市碑林区朱雀门外朱雀大街北段150号",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "陕西青年职业学院、陕西省团校",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "通化坊",
+    "interpretation": "《说文》曰：“通，达也。”《周易》曰：“化而裁之谓之变，推而行之谓之 通。”《说文》曰：“化，教行也。”通化者，推行教化也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门之北，都亭驿",
+        "ancient_type": "官署",
+        "modern": "豪盛大厦C 座",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街之北，净影寺",
+        "ancient_type": "寺观",
+        "modern": "陕西建设技师学院",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东南隅，行台左仆射、郧国公殷开山宅",
+        "ancient_type": "宅第",
+        "modern": "陕西省上海商会",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "西门之北，秘书监颜师古宅",
+        "ancient_type": "宅第",
+        "modern": "中国邮政储蓄银行(含光路支行)",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "丰乐坊",
+    "interpretation": "《广韵》曰：“丰，茂也，盛也。”故言丰者，茂盛也。《周易 ·丰卦》云： \"丰，大也。”言乐者，欢乐之意也。又，《诗经 ·魏风 ·硕鼠》曰：“逝将去女， 适彼乐土。”《诗 ·大雅 ·旱麓》曰：“瞻彼旱麓，榛梏济济。”东汉郑玄笺：“喻  周邦之民独丰乐者，被其君德教。”东晋法显《佛国记》曰：“得到于阗，其国 丰乐，人民殷盛。”名丰乐者，民因丰盛欢乐也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，法界尼寺",
+        "ancient_type": "寺观",
+        "modern": "西安体育学院学生餐厅",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "横街之北，大开业寺",
+        "ancient_type": "寺观",
+        "modern": "西安市公安局友谊西路家属院",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "安业坊",
+    "interpretation": "《尔雅》曰：“安，定也。”《周易 ·系辞》曰：“举而措之天下之民，谓之事业。” 西汉桓宽《盐铁论 ·备胡》曰：“是以行者劝务，而止者安业。”《后汉书 ·列女传》 曰：“复不终业。”名安业者，安定于事业也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，资善尼寺",
+        "ancient_type": "寺观",
+        "modern": "煤炭学院能源家属院",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东南隅，济度尼寺",
+        "ancient_type": "寺观",
+        "modern": "华融国际商务大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "横街之北，郎国公主宅、次南，唐昌观",
+        "ancient_type": "宅第",
+        "modern": "解放军政治学院操场向西 50米",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "崇业坊",
+    "interpretation": "《尔雅》曰：“崇，高也。”《说文》曰：“崇，嵬高也。”《白虎通》曰：“天\t 子曰崇城，言崇高也。”张衡《东京赋》曰：“建明德而崇业。”注：“犹兴也。” 坊名崇业，当时据张衡之文而生。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "朱雀七星国际公寓",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "崇业路与含光路十字向东130米",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "永达坊",
+    "interpretation": "《说文》曰：“永，水长也。象水至理之长。”《广雅》曰：“达，通也。”诸 葛亮《出师表》有“不求闻达于诸侯”之句，此处是为显达。 是故永达之意， 在标明所居者永远显达富贵也，其不外乎寄托规划者美好之祈盼。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "小寨西路与朱雀路十字",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "小寨西路与含光路十字向东130米",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "道德坊",
+    "interpretation": "《道德经》曰：“道生之，德畜之，物形之，势成之。是以万物莫不尊道而贵德。道之尊，德之贵，夫莫之命而常自然。”《荀子 ·劝学》曰：“故学至乎礼而止矣，夫是之谓道德之极。”则道德之义可明。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "朱雀大街青松路口(招呼站/公交站)",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "名仕花园4号楼",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "光行坊",
+    "interpretation": "《说文》曰：“光，明也。”又曰：“行，道也。”光行者，明其道，光大其道也。武周长安中，曾更名光仁，后复名如旧。《论语 ·颜渊篇》云：“子曰：克己复礼为仁，一日克己复礼，天下归仁焉。”名光仁者，光大圣人之仁也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，华州刺史文经野宅",
+        "ancient_type": "宅第",
+        "modern": "融尚地产，青松路近朱雀大街融尚中 央住区1号楼2单元3楼(雅兰花园向西20米)",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "延祚坊",
+    "interpretation": "《说文》曰：“延，长行也。”亦与“蜒”通，言延续之形也。《尚书 · 召诰》曰： “不其延。”东晋陆机《长歌行》有“寿不得延”之语，亦为延续之义。《左传》 云：“天祚明德。”《国语》云：“皇天嘉之，祚以天下。”祚者，赐福运也。延祚，延其国祚福运之义也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "铁锋 ·金水大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西安烈士陵园停车场向北40米",
+        "modern_type": "交通"
+      }
+    ]
+  },
+  {
+    "name": "太平坊",
+    "interpretation": "《吕氏春秋 ·大乐》曰：“天下太平，万物安宁。”《史记 ·夏本纪》曰：“天 下于是太平治。”名太平者，言盛世之治也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，温国寺",
+        "ancient_type": "寺观",
+        "modern": "西北大学太白校区图书馆",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门之北，定水寺",
+        "ancient_type": "寺观",
+        "modern": "西北大学太白校区教学三号楼",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东南隅，舒王元名宅",
+        "ancient_type": "宅第",
+        "modern": "西安市含光中学家属院",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "通义坊",
+    "interpretation": "《孟子 ·滕文公上》曰：“治于人者食人，治人者食于人，天下之通义也。” 《汉书 ·张汤传》曰：“夫褒有德，赏有功，古今之通义也。”故曰通义者，在   言公理也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，兴圣尼寺",
+        "ancient_type": "寺观",
+        "modern": "陕西建工第八建设集团有限公司大楼及以南停 车场、太白馨苑小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西北隅，右羽林大将军、邢国公李思训宅",
+        "ancient_type": "宅第",
+        "modern": "陕西建工集团材料设备 物流公司家属院",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "兴化坊",
+    "interpretation": "《说文》曰：“兴，起也。”《周易 ·系辞上》曰：“化而裁之谓之变，推而 行之谓之通。”《说文》曰：“化，教行也。”兴化者，兴起教化也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，空观寺、寺东，上述右仆射、密国公封德彝宅",
+        "ancient_type": "宅第",
+        "modern": "优座 华城",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门之北，邠王守礼宅，宅南隔街有邠王府",
+        "ancient_type": "宅第",
+        "modern": "西北有色地质勘查局 物化探总队",
+        "modern_type": "机关"
+      },
+      {
+        "ancient": "东门之南，京兆尹孟温礼宅",
+        "ancient_type": "宅第",
+        "modern": "西安医学院含光校区图书馆",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "崇德坊",
+    "interpretation": "本名宏德，中宗神龙初避孝敬皇帝李弘讳更名崇德。宏德者，宏扬德行也。《礼 记 ·祭统》曰：“崇事宗庙社稷。”意推崇也。《说文》曰：“德，升也。”郑玄注《周礼 ·地官 ·师氏》曰：“德行，内外之称，在心为德，施之为行。”《周易 ·系辞下》 曰：“尺蠖之屈，以求信也；龙蛇之蛰，以存身也。精义入神，以致用也；利用  安身，以崇德也。\"",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，崇圣寺",
+        "ancient_type": "寺观",
+        "modern": "金叶家园",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东北隅，证果尼寺",
+        "ancient_type": "寺观",
+        "modern": "友谊西路与含光南路十字",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西北隅，废报恩寺",
+        "ancient_type": "寺观",
+        "modern": "友谊西路西口",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "怀真(贞)坊",
+    "interpretation": "此坊有两名，一为怀真、一为怀贞，怀贞之名首见于宋，而目前所见唐及 五代文献中称呼皆为怀真，而怀真、怀贞就其字义却相同也。《说文》云：“怀，思念也。”又，《楚辞 ·九章 ·怀沙》曰：“怀瑾握瑜兮。”《贾子道术》云：“言行抱一谓之贞。”战国宋玉《神女赋》曰：“怀贞亮之清兮，卒与我兮相难。” 名怀贞者，言人之怀持志节也。《说文》云：“真，仙人变形而登天也。”《庄   子 ·秋水》曰：“谨守而勿失，是谓反其真。”武后时避其母太贞夫人音讳更名  怀贤，中宗神龙元年(705)复名如旧。名怀贤者，求贤之意也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，废乾封县廨",
+        "ancient_type": "官署",
+        "modern": "平安银行西安含光路支行",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西南隅，介公庙",
+        "ancient_type": "寺观",
+        "modern": "光华路与永松路丁字口",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "横街之北，尚书右仆射唐休璟宅",
+        "ancient_type": "宅第",
+        "modern": "二一二所家属院214号楼",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "宣义坊",
+    "interpretation": "《尚书 ·皋谟》云：“日宣三德。”此言宣者，为传布之义也。《国语 ·晋语》云：“宣其德行。”此言传扬也。《墨子 ·公输》云：“义固不杀人。”《孟子 ·告 子上》云：“生，亦我所欲也，义，亦我所欲也，二者不可得兼，舍生而取义 者也。”言义理、正义。故宣义之名可知也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门之北，燕国公张说宅",
+        "ancient_type": "宅第",
+        "modern": "西安秋林吉祥商厦",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "丰安坊",
+    "interpretation": "《广韵》曰：“丰，茂也，盛也。”故言丰者，茂盛也。《周易 ·丰卦》云： “丰，大也。”《尔雅》曰：“安，定也。”丰安者，言盛世安定之义也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安美术学院东门人行天桥",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "馨园壹号D 座",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "昌明坊",
+    "interpretation": "《尚书 ·仲虺之诰》云：“邦乃其昌。”言其邦兴旺也。《诗经 ·齐风 ·鸡鸣》曰： “东方明矣。”《左传 · 昭公二十八年》曰：“照临四方曰明。”而昌明之本义为日始  明，《世说新语 · 言语》刘孝标注引南朝 ·宋明帝《文章志》曰：“孝武皇帝讳昌明， 简文第三子……及帝诞育，东方始明，故因生时以为讳。”以之名坊，引申为昌盛  文明之义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "名仕花园西1门",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "石油大学体育馆",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "安乐坊",
+    "interpretation": "《诗经 ·魏风 ·硕鼠》曰：“逝将去女，适彼乐土。”《论语 ·学而》曰：“有朋自远方来，不亦乐乎。”名安乐者，安定快乐也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅王铁旧宅",
+        "ancient_type": "宅第",
+        "modern": "城南美筑2号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安烈士陵园停车场向西北30米",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "陕西省计量科学研究院院内250米",
+        "modern_type": "机构"
+      }
+    ]
+  },
+  {
+    "name": "修德坊",
+    "interpretation": "《左传 ·庄公八年》云：\"《夏书》曰：‘皋陶迈种德，德，乃降。’姑务修 德，以待时乎!”《史记 ·五帝本纪》曰：“轩辕乃修德振兵。”故知修德之义 为修养德行也。该坊曾名真安，武后时更名为修德。观真安之名，恐为道教含 义。真，《说文》曰：“仙人变形而登天也。”安，《尔雅》曰：“安，定也。”联 系到宫城之西与该坊同一排之修真坊之含义，其道教命名恐为虚测。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西北隅，兴福寺",
+        "ancient_type": "寺观",
+        "modern": "蔚蓝天郎西子湖小区1栋",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安市政道桥建设公司第六分公司星火路11号",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "环建新村小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西安西站，十字街中心：丰禾小区14号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "蔚蓝花城小区6栋",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "辅兴坊",
+    "interpretation": "《吕氏春秋 ·权勋》曰：“若车之有辅。”《孙子兵法 ·谋攻》曰：“夫将者， 国之辅也。”《说文》曰：“兴，起也。”《国语 ·楚语上》曰：“教备而不从者， 非人也。其可兴乎!”此坊紧邻宫城，故知辅兴之名， 喻以良臣辅佐而使王朝  兴盛也。坊名之得，与其位置相对应也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，金仙女冠观",
+        "ancient_type": "寺观",
+        "modern": "玉祥门环岛",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "西南隅，玉真女冠观",
+        "ancient_type": "寺观",
+        "modern": "西安市公交一公司",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "东 门",
+        "ancient_type": "坊门",
+        "modern": "环城西苑广场",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "劳动北路61号城市人家西门",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "潘家村公交站",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "北 门",
+        "ancient_type": "坊门",
+        "modern": "西安西站",
+        "modern_type": "交通"
+      }
+    ]
+  },
+  {
+    "name": "颁政坊",
+    "interpretation": "《周礼 ·大宰》曰：“匪颁之式。”司农注“谓班赐也”。《周礼 ·小宗伯》 曰：“遂颁禽。”注：“谓以予群臣。”《诗 ·大雅 ·皇矣》曰：“其政不获。”释  文：“政，政教也。”《周礼 ·夏官》曰：“使帅其属而掌邦政。”颁政者，颁政  教政令予群臣也。此坊与辅兴同一含义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之东，龙兴寺",
+        "ancient_type": "寺观",
+        "modern": "陕西省出版社家属院",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街东之北，建法尼寺",
+        "ancient_type": "寺观",
+        "modern": "市一中家属院",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街北之东，证空尼寺",
+        "ancient_type": "寺观",
+        "modern": "西安益新中学",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西北隅，昭成观",
+        "ancient_type": "寺观",
+        "modern": "西仪社区，西仪集团有限责任公司103住宅小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西南隅，尚书左仆射、芮国公豆卢钦望宅",
+        "ancient_type": "宅第",
+        "modern": "西关村民住宅楼，西关 正街西新民巷26号",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东南隅，右散骑常侍徐坚宅",
+        "ancient_type": "宅第",
+        "modern": "辰宫广场， 西安市莲湖区西关正街 95 号",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "环城西苑公园北段养护管理所向南50米",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西仪102小区14号楼东北角",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西关正街137号",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "潘家村公交站",
+        "modern_type": "交通"
+      }
+    ]
+  },
+  {
+    "name": "布政坊",
+    "interpretation": "本名隆政，避玄宗讳更名布政。隆，《史记 ·刘敬叔孙通列传》云：“陛下 都洛阳，岂欲与周室比隆哉?”三国 ·诸葛亮《出师表》云：“汉室之隆。”故 知隆政者，言其政治之兴隆也。《韩非子难三》云：“法者……设之于官府，而 布之于百姓者也。”是知名布政者，言对百姓之公布政令也。足见此坊之名含 义，与颁政互为关系也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，右金吾卫",
+        "ancient_type": "官署",
+        "modern": "东光大厦，环城西路南段78号",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西南隅，胡袄祠",
+        "ancient_type": "寺观",
+        "modern": "米拉公寓西安市莲湖区草阳小区7号楼",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东南隅，废镇国大波若寺",
+        "ancient_type": "寺观",
+        "modern": "瑞丰 · 丰庆路食品批发商城， 丰庆路 13 号",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "西门之南，法海寺",
+        "ancient_type": "寺观",
+        "modern": "萃园小区，西安市莲湖区草阳村甲字3号",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门之东，济法寺",
+        "ancient_type": "寺观",
+        "modern": "陕西省中西医结合医院，莲湖区西关正街112 号(第五医院)",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "十字街东之北，明觉尼寺",
+        "ancient_type": "寺观",
+        "modern": "八佳花园，陕西省西安市莲湖区八佳路 2号",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东门之北，侍中魏知古宅",
+        "ancient_type": "宅第",
+        "modern": "西安市自来水公司家属楼，环城西路南 段8号",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西安莲湖区环城西路南段1号环城西苑公园内",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "旭景名园，陕西省西安市莲湖区劳动南路128号",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "御溪望城，丰庆路39号(水司什字向西100米路北)",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西安市第五医院，西安市莲湖区西关正街112号",
+        "modern_type": "医疗"
+      }
+    ]
+  },
+  {
+    "name": "延寿坊",
+    "interpretation": "《说文》云：“寿，久也。”《韩非子 ·显学》云：“寿命也。”《诗 ·小雅 ·天 保》云：“如南山之寿。”名延寿者，祈愿长寿之义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之西，懿德寺",
+        "ancient_type": "寺观",
+        "modern": "西北大学青年教师公寓",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东南隅，驸马都尉裴巽宅",
+        "ancient_type": "宅第",
+        "modern": "西安市边家村轩雨公寓",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西北大学丝绸之路研究院",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "御溪书院莲湖区丰庆路39号",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西北工业大学综合训练馆",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "御溪望城，丰庆路39号(水司什字向西100米路北)",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "光德坊",
+    "interpretation": "《说文》曰：“光，明也。”《诗经 ·齐风 ·南山有台》曰：“邦家之光。”故  光有荣昭之义。《周礼 ·地官》注云：“德行，内外之称，在心为德，施之为 行。”《孟子 ·梁惠王上》曰：“德何如可以王矣?”故光德之义，荣昭德行也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，京兆府廨",
+        "ancient_type": "官署",
+        "modern": "中科尚诚幼儿园",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西南隅，胜光寺",
+        "ancient_type": "寺观",
+        "modern": "西北工业大学(友谊西路校区)公字楼",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "十字街东之北，慈悲寺",
+        "ancient_type": "寺观",
+        "modern": "西北工业大学篮球场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门之东，尚书左仆射刘仁轨宅",
+        "ancient_type": "宅第",
+        "modern": "西工大附中",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "边家村十字向北300米路东",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西北工业大学材料学院",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西北工业大学附属中学",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西北工业大学体育场馆管理中心",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "延康坊",
+    "interpretation": "《礼记 ·乐记》曰：“民康乐。”《诗经 ·唐风 ·蟋蟀》曰：“无己大康，职 思其居。”《汉书 ·宣帝纪》曰：“上下和洽，海内康平。”名延康者，延续康乐 之义也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，西明寺",
+        "ancient_type": "寺观",
+        "modern": "白庙村公交站",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "东南隅，静法寺",
+        "ancient_type": "寺观",
+        "modern": "西荷丰润公寓",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门之西，中书令阎立本宅",
+        "ancient_type": "宅第",
+        "modern": "西北工业大学南门",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "边家村十字向南240米路东",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "西北工业大学材料学院",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西北工业大学南苑南门",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西北工业大学附属中学",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "崇贤坊",
+    "interpretation": "《礼记 ·祭统》曰：“崇事宗庙社稷。”《说文》曰：“贤，多才也。”《周 礼 ·太宰》云：“三曰进贤。”注：“有善行也。”崇贤者，崇尚贤才也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之西，海觉寺",
+        "ancient_type": "寺观",
+        "modern": "西安电子科技大学逸夫图书馆",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "十字街北之西，大觉寺",
+        "ancient_type": "寺观",
+        "modern": "西安电子科技大学电子机械系楼",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "西门之南，法明尼寺",
+        "ancient_type": "寺观",
+        "modern": "白沙路与光华路十字向北100米",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "十字街东之南，崇业尼寺",
+        "ancient_type": "寺观",
+        "modern": "西安电子科技大学体育场",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "延福坊",
+    "interpretation": "贾谊《道德说》云：“安利之谓福。”《诗经 ·小雅 ·桑扈》云：“万福来求。”《韩非子 ·解老》云：“全寿富贵之谓福。”延福者，延其富贵全寿也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "十字街东之北，宣平府",
+        "ancient_type": "官署",
+        "modern": "太白南路与光华路十字",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西南隅，纪国寺",
+        "ancient_type": "寺观",
+        "modern": "太白花园3号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东南隅，玉芝观",
+        "ancient_type": "寺观",
+        "modern": "西安市雁塔区太白小区北区4号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西北隅，琼山县主宅",
+        "ancient_type": "宅第",
+        "modern": "西安电子科技大学社区23号楼",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "永安坊",
+    "interpretation": "《说文》曰：“永，水长也。象水理之长。”永安者，永远安定之义也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "永松路与吉祥路十字",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "科创路与融鑫路交叉口",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西安市雁塔区白家村附45号",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "中天国际公寓",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "敦义坊",
+    "interpretation": "《韩非子 ·难言》曰：“敦祗恭厚。”《左传 ·僖公二十七年》曰：“说礼乐而敦诗 书。”言敦者，崇尚、推崇之义也。《墨子 ·公输》曰：“吾义固不杀人。”《孟子 ·告子 上》曰：“生，亦我所欲也，义，亦我所欲也，二者不可得兼，舍生而取义者也。”言 义理、正义。敦义者，崇尚正义也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，废福田寺",
+        "ancient_type": "寺观",
+        "modern": "中交第二公路工程局有限公司技工学校",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "东南隅，废法觉尼寺",
+        "ancient_type": "寺观",
+        "modern": "西安市航空六一八中学",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "大通坊",
+    "interpretation": "《说文》曰：“通，达也。”《周易 ·系辞》云：“往来不穷谓之通。”其书 《说卦》又云：“推而行之谓之通。”坎为通。名大通者，言其道途往来不行， 通畅发达也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，左羽林将军窦连山宅",
+        "ancient_type": "宅第",
+        "modern": "西安市雁塔区电子城街道电子东街 南段1号",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "大安坊",
+    "interpretation": "《尔雅》曰：“安，定也。”名大安者，言其安定之程度也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "电子东街南口",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西 门",
+        "ancient_type": "坊门",
+        "modern": "西京电器总公司东门",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "电子四路与电子正街十字向西150米",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西京社区西区43号楼",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "安定坊",
+    "interpretation": "《尚书 ·盘庚中》曰：“今予将试以汝迁，安定厥邦。”《史记 · 留侯世家》 曰：“诸侯安定，河渭漕挽天下，西给京师；诸侯有变，顺流而下，足以委  输。”安定之名，或为道教含义。《道德经》曰：“执大象，天下往。往而不害， 安平太。乐与饵，过客止。”修道者需安定之相。联系到宫城之西与该坊左右  相邻之修真坊、真安坊(修德坊)之含义，则可明矣。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，千福寺",
+        "ancient_type": "寺观",
+        "modern": "西安西站变轨扳道房",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "西南隅，福林寺",
+        "ancient_type": "寺观",
+        "modern": "恒天国际城西安市莲湖区桃园路-西斜路口东北 200 米",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东北隅，五通观",
+        "ancient_type": "寺观",
+        "modern": "西安市莲湖区丰禾路与大丰路交叉口西北50米",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "休祥坊",
+    "interpretation": "《周易 ·大有》云：“顺天休命。”郑玄注云：“休，美也。”《诗经 · 豳风》 云：“亦孔之休。”亦云美义也。《国语 ·周语》曰：“袭于休祥。”韦昭注云： “祥者，福之先见者也。”故休祥之义见矣。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，崇福寺",
+        "ancient_type": "寺观",
+        "modern": "西斜路3号东侧马建国汽车快修店",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "东南隅，万善尼寺",
+        "ancient_type": "寺观",
+        "modern": "劳动路地铁站C2 东南口",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "寺西，昭成尼寺",
+        "ancient_type": "寺观",
+        "modern": "劳动路(地铁站)至西电西容劳动路小区一带",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "南门之西，武三思宅",
+        "ancient_type": "宅第",
+        "modern": "西安市莲湖区大庆路与新园路交叉口西北 50 米",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "万善道场李静训墓",
+        "ancient_type": "寺观",
+        "modern": "都市绿洲花园内",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "金城坊",
+    "interpretation": "《新记》载：“本汉博望苑之地。初移都，割以为坊，百姓分地板筑，土中  见金，欲取便。以事上闻，隋文曰：‘此朕之金城之化。’因以金城为坊名。” 又，金者，作坚固之义。《说文》云：“城，所以盛民也。”所谓金城者，以之喻盛民之地固若金汤也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，匡道府，即汉思后园",
+        "ancient_type": "坊隅区位",
+        "modern": "城西丰镐东路143号",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门，汉戾园；园东南，汉博望苑",
+        "ancient_type": "园林",
+        "modern": "西材新园小区停车场；西安电 力电容器厂宿舍",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "东南隅，开善尼寺，寺北，废太清观",
+        "ancient_type": "寺观",
+        "modern": "西稍门大酒店，劳动路1号； 首秀小区二期，西安市莲湖区劳动路23号",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西南隅，会昌寺",
+        "ancient_type": "寺观",
+        "modern": "汉庭酒店，西安市莲湖区桃园中路1号",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "十字街南之东，乐善尼寺",
+        "ancient_type": "寺观",
+        "modern": "空军工程大学信息与导航学院篮球场",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "醴泉坊",
+    "interpretation": "无",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，三洞女冠观，观北：妙胜尼寺",
+        "ancient_type": "寺观",
+        "modern": "中国民用航空西北地区管 理局；锦园小区3号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街北之西，醴泉寺",
+        "ancient_type": "寺观",
+        "modern": "西安市洒水车队4号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街南之东，旧波斯胡寺",
+        "ancient_type": "寺观",
+        "modern": "民航基地大院9313、402号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西门之南，袄祠",
+        "ancient_type": "寺观",
+        "modern": "西安市莲湖区丰登东路与桃园南路交叉口北 50 米",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东南隅，太平公主宅",
+        "ancient_type": "宅第",
+        "modern": "锦绣华庭(北门)",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门之东，中书令宗楚客宅",
+        "ancient_type": "宅第",
+        "modern": "民航社区720号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南北尽两坊之地，市内有西市局，东北十字街",
+        "ancient_type": "街路",
+        "modern": "大唐西市博物馆十 字街遗址展示区",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "东南十字街",
+        "ancient_type": "街路",
+        "modern": "西市城",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西北十字街",
+        "ancient_type": "街路",
+        "modern": "西安市莲湖区劳动南路1号西市佳园2栋",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西南十字街",
+        "ancient_type": "街路",
+        "modern": "多肉植物馆，西安市莲湖区西市南路西市佳园14 号楼",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "怀远坊",
+    "interpretation": "《说文》云：“怀，思念也。”以此本义而衍申有招徕、安抚之义。《韩非 子 ·五蠹》云：“而怀西戎。”西汉桓宽《盐铁论》曰：“广德行以怀之。”《左 传 ·僖公七年》曰：“招携以礼，怀远以德。”故知怀远之义，招徕、安抚边 远也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，大云经寺",
+        "ancient_type": "寺观",
+        "modern": "西安医学院高新校区体育场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "十字街东之北，功德尼寺",
+        "ancient_type": "寺观",
+        "modern": "桃园立交",
+        "modern_type": "交通"
+      }
+    ]
+  },
+  {
+    "name": "长寿坊",
+    "interpretation": "本名广恩，避隋炀帝杨广讳更名长寿。《玉篇》云：“广，大也。”《说文》 云：“恩，惠也。”广恩者，广布其惠也。广恩之名，却与更名长寿之义相差颇  大。《尚书 ·洪范》云：“五福：一曰寿。”《左传 ·僖公三十二年》云：“尔何  知!中寿，尔墓之木拱矣。”孔颖达《正义》云：“上寿百二十岁，中寿百岁， 下寿八十。”以名长寿者，言国、民寿命之长也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，长安县廨",
+        "ancient_type": "官署",
+        "modern": "邮政小区(枫叶北路)",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门之东，永泰寺",
+        "ancient_type": "寺观",
+        "modern": "燎原小学体育场",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门之东，大法寺",
+        "ancient_type": "寺观",
+        "modern": "光华路公交站",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "十字街西之北，崇义寺",
+        "ancient_type": "寺观",
+        "modern": "高新一路光德路十字",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "十字街北之西， 国公杨温宅",
+        "ancient_type": "宅第",
+        "modern": "火炬大厦",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "嘉会坊",
+    "interpretation": "《易经 ·乾卦》曰：“亨者，嘉之会也……嘉会足以合礼。”孔颖达注疏云： “言君子能使万物嘉美集会，足以配合于礼，谓法天之亨也。”故知嘉会者，万  物嘉美以合于礼也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，褒义寺",
+        "ancient_type": "寺观",
+        "modern": "高新国税大厦",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "十字街西之北，灵安寺",
+        "ancient_type": "寺观",
+        "modern": "尚中心",
+        "modern_type": "机构"
+      }
+    ]
+  },
+  {
+    "name": "永平坊",
+    "interpretation": "本名永隆，避玄宗讳更名永平。隆，《史记 ·刘敬叔孙通列传》曰：“陛下  都洛阳，岂欲与周室比隆哉?”三国 ·诸葛亮《出师表》曰：“汉室之隆。”故  知永隆者，永远兴隆也。《方言一》曰：“施于众长谓之永。”《诗经 ·唐风》曰： “且以永日。”《诗经 · 商颂》曰：“既和且平。”可知永平者，祈愿永远太平 之义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门之北，宣化尼寺",
+        "ancient_type": "寺观",
+        "modern": "老百姓大药房(科创路)",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "东南隅，宣城公主宅",
+        "ancient_type": "宅第",
+        "modern": "沙井姑娘馨苑",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西南隅，日者寇鄘宅",
+        "ancient_type": "宅第",
+        "modern": "科技二路与博文路西南角(名城天下东北 区域)",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "东北隅，天平军节度使殷侑家庙",
+        "ancient_type": "寺观",
+        "modern": "西安培华学院东区5号楼",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "通轨坊",
+    "interpretation": "梁萧统《昭明文选》录颜延之《直东宫答郑尚书诗》曰：“两闱阻通轨， 对禁限清风。”南齐谢脁《齐敬皇后哀策文》曰：“继池  于通轨兮，接龙帷于造舟。”故知通轨者，表该坊四围交通为畅达之街衢大道也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "科技二路与太白南路十字向西50米",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "甘家寨东3排22号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "西安文理学院田径场向南80米",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "科技二路与白沙路十字",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "归义坊",
+    "interpretation": "《史记 ·滑稽列传》云：“远方当来归义，而驺牙先见。”《汉书 ·匈奴传》 云：“今单于归义，怀款诚之心。”故知归义者，喻四方归附于中央王朝也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "全一坊隋蜀王秀宅，东门",
+        "ancient_type": "宅第",
+        "modern": "春田篮球公园",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "天地源 · 枫林绿洲C15 号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "太白南路与科技六路十字向西南200米",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "西安文理学院田径场向南110米",
+        "modern_type": "学校"
+      }
+    ]
+  },
+  {
+    "name": "昭行坊",
+    "interpretation": "本名显行，因避中宗李显讳，长安年间更名昭行。《说文》曰：“显，头明 饰也。”《诗经 ·周颂 ·敬之》曰：“天维显思。”《韩非子 ·难三》曰：“故法莫如显，而术不欲见。”显行之名，与所更之昭行同义。《说文》曰：“昭，日明  也。”《诗 ·大雅 ·云汉》曰：“倬彼云汉，昭回于天。”《说文》曰：“行，道也。” 昭行者，以彰其道也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "十字街之南，汝州刺史王昕园",
+        "ancient_type": "街路",
+        "modern": "兰乔圣菲3号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门",
+        "ancient_type": "坊门",
+        "modern": "西京电气总公司(东门)院内50米",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "太白里9号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "太白南路与电子四路十字向东400米",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "太白南路与科技六路十字向西南250米",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "修真坊",
+    "interpretation": "修真，道家修行之别称，即通过修行成为所谓真人、真仙。此坊范围内有 汉代灵台遗址，灵台为通神之所，则坊之命名与灵台之功能相印可明矣。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "汉灵台遗址，东门",
+        "ancient_type": "遗址",
+        "modern": "西安云泽食品有限公司(陕西省西安市莲湖区 丰禾路军民共建路1号)向西100米",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西门",
+        "ancient_type": "坊门",
+        "modern": "雅逸新城停车场",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "南 门",
+        "ancient_type": "坊门",
+        "modern": "华府御城西区(陕西省西安市莲湖区西斜路南100米)",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "太奥广场(西安市莲湖区丰禾路275号)向西100米",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "普宁坊",
+    "interpretation": "《诗经 ·小雅 ·北山》曰：“普天之下。”《三国志》卷四十七《吴主传》曰： “普天一统，于是定矣。”《说文》曰：“宁，安也。”《尚书 ·洪范》曰：“三日康宁。”故知普宁之义为普天下安宁也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "坊西街有汉太学余址，十字街东之北，灵化寺",
+        "ancient_type": "寺观",
+        "modern": "中国西电西安西电变压器有限责任公司北部区域",
+        "modern_type": "机构"
+      },
+      {
+        "ancient": "东南隅，东明观",
+        "ancient_type": "寺观",
+        "modern": "大庆路桃园路口北侧公交站",
+        "modern_type": "交通"
+      },
+      {
+        "ancient": "西南隅，太尉、英国公李劫宅",
+        "ancient_type": "宅第",
+        "modern": "西开公司清真食堂",
+        "modern_type": "商服"
+      },
+      {
+        "ancient": "北门之西，司农卿韦机宅",
+        "ancient_type": "宅第",
+        "modern": "中国石油加油站(沣惠路北段)向西 260米，西安西电变压器配套设备有限责任公司院内",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "西北隅，袄祠",
+        "ancient_type": "寺观",
+        "modern": "西安电力电容器研究所",
+        "modern_type": "机构"
+      }
+    ]
+  },
+  {
+    "name": "义宁坊",
+    "interpretation": "本名熙光，隋义宁元年(617)更名义宁。《尚书 ·尧典》曰：“允厘百工， 庶绩咸熙。”言兴起兴旺。《三国志 ·吴志 ·华敷传》曰：“熙光紫闼，青巢是  凭。毖挹清露，沐浴凯风。”《说文》曰：“光，明也。”故知熙光者，大起光明 也。《说文》曰：“义，己之威仪也。”《墨子 ·公输》曰：“义固不杀人。”《贾  子道德》曰：“说有义德之美也。”《说文》曰：“宁，安也。”《尚书 ·洪范》曰： “三日康宁。”义宁者，引申为正义而使安宁也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南门之东，化度寺",
+        "ancient_type": "寺观",
+        "modern": "世纪春天A 座",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西北隅，积善尼寺",
+        "ancient_type": "寺观",
+        "modern": "橡树国际小区",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街东之北，波斯胡寺",
+        "ancient_type": "寺观",
+        "modern": "西电集团医院住院部",
+        "modern_type": "医疗"
+      },
+      {
+        "ancient": "东南隅，尚书右仆射戴至德宅",
+        "ancient_type": "宅第",
+        "modern": "蓝天小区入口，丰镐东路219号",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "居德坊",
+    "interpretation": "《说文》曰：“居，蹲也。从尸，古者居从古，俗居从足。”《易 ·系辞下》曰： “则居可知矣。”《穀梁传 ·僖公二十四年》曰：“居者，居其所也。”",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东南隅，先天寺",
+        "ancient_type": "寺观",
+        "modern": "丰园小区2号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "西北隅，普集寺",
+        "ancient_type": "寺观",
+        "modern": "开远半岛广场",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "南门之西，奉恩寺",
+        "ancient_type": "寺观",
+        "modern": "丰庆路与丰登南路十字向西70米",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "南门之东，司礼太常伯刘祥道宅",
+        "ancient_type": "宅第",
+        "modern": "丰登小区(西门)",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "群贤坊",
+    "interpretation": "《白虎通 ·谏诤》曰：“虽无道不失天下，仗群贤也。”《说文》曰：“贤， 多才也。”群贤者，众多德才兼备者也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门之南，真心尼寺",
+        "ancient_type": "寺观",
+        "modern": "丰庆公园吉祥湖东北角(金湖茗轩)",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "十字街东之北，真化尼寺",
+        "ancient_type": "寺观",
+        "modern": "建大洋房小区西门",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东南隅，中宗昭容上官氏宅",
+        "ancient_type": "宅第",
+        "modern": "丰庆公园东门向西100米",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "群贤坊",
+    "interpretation": "无",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "西南隅，罗汉寺",
+        "ancient_type": "寺观",
+        "modern": "民生银行(西安群贤庄社区支行)向西100米",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "十字街西之北，辨才寺",
+        "ancient_type": "寺观",
+        "modern": "中海华庭9号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "东门之北，慧日寺",
+        "ancient_type": "寺观",
+        "modern": "丰庆公园南门",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "崇化坊",
+    "interpretation": "本名弘化，避孝敬皇帝李弘讳更名崇化。《说文》曰：“弘，弓声也。”言弓箭 发射之声也。《论语 ·卫灵公》曰：“人能弘道，非道弘人。”既云弓发为弘，言教 化施行如弓发广远乎?故知弘化者，弘扬广布教化也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东门之北，经行寺",
+        "ancient_type": "寺观",
+        "modern": "美豪丽质酒店(西安雁塔区高新四路西大新区 对面高新九号广场北侧)",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "西南隅，静乐尼寺",
+        "ancient_type": "寺观",
+        "modern": "科技路与唐延路十字",
+        "modern_type": "道路"
+      },
+      {
+        "ancient": "东南隅，龙兴观",
+        "ancient_type": "寺观",
+        "modern": "光夏路与高新三路十字",
+        "modern_type": "道路"
+      }
+    ]
+  },
+  {
+    "name": "丰邑坊",
+    "interpretation": "《广韵》曰：“丰，茂也，盛也。”《易 ·丰卦》曰：“丰，大也。”丰邑者， 都邑兴旺繁荣也。然丰邑又有两别义， 一为西周之都，二为汉高祖之乡丰邑。 考隋唐长安之丰邑坊命名，坊内皆无相关者，故其命名与此二地皆无关。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，清虚观",
+        "ancient_type": "寺观",
+        "modern": "西安回天血液制品有限责任公司",
+        "modern_type": "机构"
+      }
+    ]
+  },
+  {
+    "name": "待贤坊",
+    "interpretation": "待贤者，等待贤达之义。《晋书 ·段灼传》曰：“自穆公于始皇，皆能留心 待贤，远求异士。”《永明九年策秀才文》曰：“或扬旌求士，或设箧待贤。”《隋 书 ·李德林传》曰：“李徵曰：‘德林久滞绛衣，我常恨彦深待贤未足。’”查《长安志》云，因坊内在隋初曾设天下诸州朝集使邸，故名此坊曰待贤也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，天长观",
+        "ancient_type": "寺观",
+        "modern": "枫林别墅苑西门及以东区域",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门之东",
+        "ancient_type": "坊门",
+        "modern": "新纪元公园西门及以内景观带",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "南门",
+        "ancient_type": "坊门",
+        "modern": "高新二路与科技二路转角北广场(庆安颐秀园12栋)",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "中华联合财产保险股份有限公司陕西分公司北楼",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "永和坊",
+    "interpretation": "本坊原名淳和，元和初避宪宗讳，更名永和。淳和者，出《后汉书》卷 五十六，其文曰：“伏见故处士种岱，淳和达理，耽悦《诗书》,富贵不能回其 虑，万物不能扰其心。”永，永久也；《广雅》曰：“和，谐也。”《说文》曰： “和，相应也。”永和者，期望家国永久和谐之义。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，隐太子庙",
+        "ancient_type": "寺观",
+        "modern": "高新路辅路与科技二路十字西北角至环亚花园 19号楼",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "科技二路与高新二路西南角景观带",
+        "modern_type": "公园"
+      }
+    ]
+  },
+  {
+    "name": "常安坊",
+    "interpretation": "常安之名，始于王莽，时西汉初始元年(8)十二月，莽代汉自立，更长  安为常安。长常两字，音同而意稍殊，言长者，长久也，名常者，按《广雅》 《周易》所述，为恒长之义，然《列子》述“常生常化”,意又为常常之义，故  名常安者，其义广于长安。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "东北隅，章怀太子庙",
+        "ancient_type": "寺观",
+        "modern": "甘家寨社区11号楼与高新区第三初级中学 博知楼一带",
+        "modern_type": "学校"
+      },
+      {
+        "ancient": "北门",
+        "ancient_type": "坊门",
+        "modern": "万科金域国际B 座楼",
+        "modern_type": "住宅区"
+      }
+    ]
+  },
+  {
+    "name": "和平坊",
+    "interpretation": "《焦氏易林 · 蒙之小畜》云：“阴阳顺叙，以成和平。”《周易 ·咸卦》曰： “圣人感人心而天下和平。”《史记 ·秦始皇本纪》云：“今皇帝并一海内，以为  郡县，天下和平。”故知和平之义，祈愿政通人和、和睦平安也。",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "南北街之东，筑入庄严寺",
+        "ancient_type": "寺观",
+        "modern": "天地源 ·枫林绿洲",
+        "modern_type": "住宅区"
+      },
+      {
+        "ancient": "南北街之西，筑入总持寺",
+        "ancient_type": "寺观",
+        "modern": "尚品国际",
+        "modern_type": "商服"
+      }
+    ]
+  },
+  {
+    "name": "永阳坊",
+    "interpretation": "《说文》曰：“阳，高明也。”",
+    "type": "坊的类型",
+    "Addresses": [
+      {
+        "ancient": "半以东，大庄严寺",
+        "ancient_type": "寺观",
+        "modern": "木塔寺遗址公园",
+        "modern_type": "公园"
+      },
+      {
+        "ancient": "半以西，大总持寺",
+        "ancient_type": "寺观",
+        "modern": "高新万达广场",
+        "modern_type": "公园"
+      }
+    ]
+  }
+]

@@ -1,0 +1,537 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "开远门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.876181,
+          34.269177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "广连门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.925691,
+          34.269917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "含光门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.925969,
+          34.252847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "朱雀门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.933896,
+          34.252847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安上门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.941962,
+          34.252847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "嘉𨠫门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.926038,
+          34.276628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玄武门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.927777,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玄武门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.959624,
+          34.30839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "银汉门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.964213,
+          34.30839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "青霄门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.955313,
+          34.30839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "重玄门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.959624,
+          34.309975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "玄福门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.947247,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "建福门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.954895,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "丹凤门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.959554,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "望仙门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.964005,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "延政门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.967899,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "兴安门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.951141,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "芳林门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.916721,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "景曜门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.903857,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "光化门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.890923,
+          34.282812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "长乐门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.941267,
+          34.269917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "嘉福门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.94669,
+          34.269917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "承天门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.933896,
+          34.269917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "顺义门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.917694,
+          34.260404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "景风门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.950515,
+          34.260404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "延禧门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.950515,
+          34.269177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安福门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.917694,
+          34.269177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "金光门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.876181,
+          34.252266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "延平门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.876181,
+          34.230915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "明德门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.934036,
+          34.205019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "启夏门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.951141,
+          34.20502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "延兴门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.991471,
+          34.231338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "春明门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.99161,
+          34.25216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "通化门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.99161,
+          34.269177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "九仙门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.952045,
+          34.304109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "右银台门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.951975,
+          34.298772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "左银台门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.96922,
+          34.300463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "安化门",
+        "layer": "城门"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.91679,
+          34.20502
+        ]
+      }
+    }
+  ]
+}

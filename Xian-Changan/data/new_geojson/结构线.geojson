@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "outer-wall"
+        ],
+        "description": "外郭城墙：南墙在芙蓉园范围内断开，止于园区东西两侧。",
+        "_elementType": "path"
+      },
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              108.88308,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.282591
+            ],
+            [
+              108.989968,
+              34.206292
+            ],
+            [
+              108.987813,
+              34.206292
+            ]
+          ],
+          [
+            [
+              108.974379,
+              34.206292
+            ],
+            [
+              108.88308,
+              34.206292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-outline"
+        ],
+        "description": "皇城",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.269764
+            ],
+            [
+              108.950448,
+              34.269764
+            ],
+            [
+              108.950448,
+              34.253677
+            ],
+            [
+              108.920402,
+              34.253677
+            ],
+            [
+              108.920402,
+              34.269764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-outline"
+        ],
+        "description": "宫城",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.950448,
+              34.280824
+            ],
+            [
+              108.950448,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-outline"
+        ],
+        "description": "兴庆宫",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.263395
+            ],
+            [
+              108.987813,
+              34.263395
+            ],
+            [
+              108.987813,
+              34.253677
+            ],
+            [
+              108.975796,
+              34.253677
+            ],
+            [
+              108.975796,
+              34.263395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "separator-wall"
+        ],
+        "name": "北侧夹城隔墙",
+        "description": "北侧夹城隔墙",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.281442
+            ],
+            [
+              108.989968,
+              34.281442
+            ],
+            [
+              108.989968,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.281442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "separator-wall"
+        ],
+        "name": "东侧夹城隔墙",
+        "description": "东侧夹城隔墙",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.988459,
+              34.282591
+            ],
+            [
+              108.988567,
+              34.282591
+            ],
+            [
+              108.988567,
+              34.212034
+            ],
+            [
+              108.988459,
+              34.212034
+            ],
+            [
+              108.988459,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

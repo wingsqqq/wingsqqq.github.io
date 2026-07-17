@@ -1,0 +1,5071 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-market"
+        ],
+        "name": "西市",
+        "description": "西市 | market | 市场作为整块目的地；内部街道不展开为导航路网。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.896918,
+              34.25191
+            ],
+            [
+              108.906812,
+              34.25191
+            ],
+            [
+              108.906812,
+              34.24366
+            ],
+            [
+              108.896918,
+              34.24366
+            ],
+            [
+              108.896918,
+              34.25191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-market"
+        ],
+        "name": "东市",
+        "description": "东市 | market | 市场作为整块目的地；内部街道不展开为导航路网。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.964394,
+              34.25191
+            ],
+            [
+              108.974309,
+              34.25191
+            ],
+            [
+              108.974309,
+              34.24366
+            ],
+            [
+              108.964394,
+              34.24366
+            ],
+            [
+              108.964394,
+              34.25191
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-palace",
+          "restricted-zone"
+        ],
+        "name": "兴庆宫",
+        "description": "兴庆宫 | 可选目的地；路线可由兴庆门或金明门抵达。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.975796,
+              34.263395
+            ],
+            [
+              108.987813,
+              34.263395
+            ],
+            [
+              108.987813,
+              34.253677
+            ],
+            [
+              108.975796,
+              34.253677
+            ],
+            [
+              108.975796,
+              34.263395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-palace",
+          "restricted-zone"
+        ],
+        "name": "皇城",
+        "description": "皇城 | 百官官署区；各官署可单独作为路线起终点。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.269764
+            ],
+            [
+              108.950448,
+              34.269764
+            ],
+            [
+              108.950448,
+              34.253677
+            ],
+            [
+              108.920402,
+              34.253677
+            ],
+            [
+              108.920402,
+              34.269764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-palace",
+          "restricted-zone"
+        ],
+        "name": "宫城",
+        "description": "宫城 | 分为掖庭宫、太极宫、东宫；均为禁内，不可作为路线起终点。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.950448,
+              34.280824
+            ],
+            [
+              108.950448,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-palace",
+          "restricted-zone"
+        ],
+        "name": "大明宫",
+        "description": "大明宫 | 唐代三大内之一，禁内，不可作为路线起终点。",
+        "_elementType": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.917694,
+              34.282759
+            ],
+            [
+              108.975269,
+              34.282759
+            ],
+            [
+              108.975269,
+              34.294221
+            ],
+            [
+              108.97068,
+              34.294221
+            ],
+            [
+              108.967273,
+              34.309975
+            ],
+            [
+              108.952045,
+              34.309975
+            ],
+            [
+              108.952045,
+              34.290158
+            ],
+            [
+              108.917694,
+              34.290158
+            ],
+            [
+              108.917694,
+              34.282759
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-subzone",
+          "yeting",
+          "feature-palace"
+        ],
+        "name": "掖庭宫",
+        "description": "掖庭宫 | 宫城禁内，不可设为路线起点或终点。",
+        "_elementType": "rect",
+        "_group": "palace-subdivision-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.280824
+            ],
+            [
+              108.928102,
+              34.280824
+            ],
+            [
+              108.928102,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.269764
+            ],
+            [
+              108.920402,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-zone-label"
+        ],
+        "name": "掖庭宫",
+        "_elementType": "text",
+        "_group": "palace-subdivision-layer",
+        "text": "掖庭宫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924252,
+          34.275877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-note"
+        ],
+        "_elementType": "text",
+        "_group": "palace-subdivision-layer",
+        "text": "禁内 · 不可选"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924252,
+          34.274817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-subzone",
+          "taiji",
+          "feature-palace"
+        ],
+        "name": "太极宫",
+        "description": "太极宫 | 宫城禁内，不可设为路线起点或终点。",
+        "_elementType": "rect",
+        "_group": "palace-subdivision-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928102,
+              34.280824
+            ],
+            [
+              108.942543,
+              34.280824
+            ],
+            [
+              108.942543,
+              34.269764
+            ],
+            [
+              108.928102,
+              34.269764
+            ],
+            [
+              108.928102,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-zone-label"
+        ],
+        "name": "太极宫",
+        "_elementType": "text",
+        "_group": "palace-subdivision-layer",
+        "text": "太极宫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.935323,
+          34.275877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-note"
+        ],
+        "_elementType": "text",
+        "_group": "palace-subdivision-layer",
+        "text": "禁内 · 不可选"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.935323,
+          34.274817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-subzone",
+          "east-palace",
+          "feature-palace"
+        ],
+        "name": "东宫",
+        "description": "东宫 | 宫城禁内，不可设为路线起点或终点。",
+        "_elementType": "rect",
+        "_group": "palace-subdivision-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942543,
+              34.280824
+            ],
+            [
+              108.950448,
+              34.280824
+            ],
+            [
+              108.950448,
+              34.269764
+            ],
+            [
+              108.942543,
+              34.269764
+            ],
+            [
+              108.942543,
+              34.280824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-zone-label"
+        ],
+        "name": "东宫",
+        "_elementType": "text",
+        "_group": "palace-subdivision-layer",
+        "text": "东宫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946496,
+          34.275877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "palace-note"
+        ],
+        "_elementType": "text",
+        "_group": "palace-subdivision-layer",
+        "text": "禁内 · 不可选"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946496,
+          34.274817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城内街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.928102,
+            34.269764
+          ],
+          [
+            108.928102,
+            34.253677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城内街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.93529,
+            34.269764
+          ],
+          [
+            108.93529,
+            34.253677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城内街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.942543,
+            34.269764
+          ],
+          [
+            108.942543,
+            34.253677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城横街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.920402,
+            34.269093
+          ],
+          [
+            108.950448,
+            34.269093
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城横街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.920402,
+            34.266248
+          ],
+          [
+            108.950448,
+            34.266248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城横街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.920402,
+            34.263774
+          ],
+          [
+            108.950448,
+            34.263774
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城横街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.920402,
+            34.261416
+          ],
+          [
+            108.950448,
+            34.261416
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城横街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.920402,
+            34.258827
+          ],
+          [
+            108.950448,
+            34.258827
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城横街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.920402,
+            34.256266
+          ],
+          [
+            108.950448,
+            34.256266
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "imperial-road"
+        ],
+        "name": "皇城横街",
+        "_elementType": "line",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            108.920402,
+            34.253677
+          ],
+          [
+            108.950448,
+            34.253677
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "将作监",
+        "description": "将作监 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920693,
+              34.268854
+            ],
+            [
+              108.927752,
+              34.268854
+            ],
+            [
+              108.927752,
+              34.265585
+            ],
+            [
+              108.920693,
+              34.265585
+            ],
+            [
+              108.920693,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "将作监",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "将作监"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924222,
+          34.26722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "大理寺",
+        "description": "大理寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920693,
+              34.265497
+            ],
+            [
+              108.922393,
+              34.265497
+            ],
+            [
+              108.922393,
+              34.263995
+            ],
+            [
+              108.920693,
+              34.263995
+            ],
+            [
+              108.920693,
+              34.265497
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "大理寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "大理寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.921543,
+          34.264746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "卫尉寺",
+        "description": "卫尉寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.922479,
+              34.265497
+            ],
+            [
+              108.924179,
+              34.265497
+            ],
+            [
+              108.924179,
+              34.263995
+            ],
+            [
+              108.922479,
+              34.263995
+            ],
+            [
+              108.922479,
+              34.265497
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "卫尉寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "卫尉寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.923329,
+          34.264746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "尚辇局",
+        "description": "尚辇局 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.924265,
+              34.265497
+            ],
+            [
+              108.925965,
+              34.265497
+            ],
+            [
+              108.925965,
+              34.263995
+            ],
+            [
+              108.924265,
+              34.263995
+            ],
+            [
+              108.924265,
+              34.265497
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "尚辇局",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "尚辇局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.925115,
+          34.264746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "尚舍局",
+        "description": "尚舍局 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.926052,
+              34.265497
+            ],
+            [
+              108.927752,
+              34.265497
+            ],
+            [
+              108.927752,
+              34.263995
+            ],
+            [
+              108.926052,
+              34.263995
+            ],
+            [
+              108.926052,
+              34.265497
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "尚舍局",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "尚舍局"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.926902,
+          34.264746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "司农寺草坊",
+        "description": "司农寺草坊 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920693,
+              34.261168
+            ],
+            [
+              108.927752,
+              34.261168
+            ],
+            [
+              108.927752,
+              34.260197
+            ],
+            [
+              108.920693,
+              34.260197
+            ],
+            [
+              108.920693,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "司农寺草坊",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "司农寺草坊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924222,
+          34.260683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "ritual"
+        ],
+        "name": "废石台",
+        "description": "废石台 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920693,
+              34.260108
+            ],
+            [
+              108.927752,
+              34.260108
+            ],
+            [
+              108.927752,
+              34.259092
+            ],
+            [
+              108.920693,
+              34.259092
+            ],
+            [
+              108.920693,
+              34.260108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "废石台",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "废石台"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924222,
+          34.2596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "骅骝马坊",
+        "description": "骅骝马坊 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920693,
+              34.258562
+            ],
+            [
+              108.927752,
+              34.258562
+            ],
+            [
+              108.927752,
+              34.256531
+            ],
+            [
+              108.920693,
+              34.256531
+            ],
+            [
+              108.920693,
+              34.258562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "骅骝马坊",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "骅骝马坊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.924222,
+          34.257547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "郊社署",
+        "description": "郊社署 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920693,
+              34.256001
+            ],
+            [
+              108.924179,
+              34.256001
+            ],
+            [
+              108.924179,
+              34.253969
+            ],
+            [
+              108.920693,
+              34.253969
+            ],
+            [
+              108.920693,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "郊社署",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "郊社署"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.922436,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "ritual"
+        ],
+        "name": "大社",
+        "description": "大社 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.924265,
+              34.256001
+            ],
+            [
+              108.927752,
+              34.256001
+            ],
+            [
+              108.927752,
+              34.253969
+            ],
+            [
+              108.924265,
+              34.253969
+            ],
+            [
+              108.924265,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "大社",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "大社"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.926008,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右卫",
+        "description": "右卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928452,
+              34.268854
+            ],
+            [
+              108.929666,
+              34.268854
+            ],
+            [
+              108.929666,
+              34.266557
+            ],
+            [
+              108.928452,
+              34.266557
+            ],
+            [
+              108.928452,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "右卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.929059,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右监门卫",
+        "description": "右监门卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.929752,
+              34.268854
+            ],
+            [
+              108.930965,
+              34.268854
+            ],
+            [
+              108.930965,
+              34.266557
+            ],
+            [
+              108.929752,
+              34.266557
+            ],
+            [
+              108.929752,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "右监门卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右监门卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.930359,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右千牛卫",
+        "description": "右千牛卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.931052,
+              34.268854
+            ],
+            [
+              108.932265,
+              34.268854
+            ],
+            [
+              108.932265,
+              34.266557
+            ],
+            [
+              108.931052,
+              34.266557
+            ],
+            [
+              108.931052,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "右千牛卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右千牛卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931658,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "四方馆",
+        "description": "四方馆 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.932351,
+              34.268854
+            ],
+            [
+              108.933565,
+              34.268854
+            ],
+            [
+              108.933565,
+              34.266557
+            ],
+            [
+              108.932351,
+              34.266557
+            ],
+            [
+              108.932351,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "四方馆",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "四方馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.932958,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "中书外省",
+        "description": "中书外省 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.933651,
+              34.268854
+            ],
+            [
+              108.934864,
+              34.268854
+            ],
+            [
+              108.934864,
+              34.266557
+            ],
+            [
+              108.933651,
+              34.266557
+            ],
+            [
+              108.933651,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "中书外省",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "中书外省"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.934258,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右骁卫",
+        "description": "右骁卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928452,
+              34.265983
+            ],
+            [
+              108.931615,
+              34.265983
+            ],
+            [
+              108.931615,
+              34.263995
+            ],
+            [
+              108.928452,
+              34.263995
+            ],
+            [
+              108.928452,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "右骁卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右骁卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.930034,
+          34.264989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右武卫",
+        "description": "右武卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.931701,
+              34.265983
+            ],
+            [
+              108.934864,
+              34.265983
+            ],
+            [
+              108.934864,
+              34.263995
+            ],
+            [
+              108.931701,
+              34.263995
+            ],
+            [
+              108.931701,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "右武卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右武卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.933283,
+          34.264989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "司农寺",
+        "description": "司农寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928452,
+              34.263509
+            ],
+            [
+              108.934864,
+              34.263509
+            ],
+            [
+              108.934864,
+              34.261699
+            ],
+            [
+              108.928452,
+              34.261699
+            ],
+            [
+              108.928452,
+              34.263509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "司农寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "司农寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931658,
+          34.262604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "秘书省",
+        "description": "秘书省 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928452,
+              34.261168
+            ],
+            [
+              108.930532,
+              34.261168
+            ],
+            [
+              108.930532,
+              34.259092
+            ],
+            [
+              108.928452,
+              34.259092
+            ],
+            [
+              108.928452,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "秘书省",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "秘书省"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.929492,
+          34.26013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右威卫",
+        "description": "右威卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.930618,
+              34.261168
+            ],
+            [
+              108.932698,
+              34.261168
+            ],
+            [
+              108.932698,
+              34.259092
+            ],
+            [
+              108.930618,
+              34.259092
+            ],
+            [
+              108.930618,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "右威卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右威卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931658,
+          34.26013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右领军卫",
+        "description": "右领军卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.932785,
+              34.261168
+            ],
+            [
+              108.934864,
+              34.261168
+            ],
+            [
+              108.934864,
+              34.259092
+            ],
+            [
+              108.932785,
+              34.259092
+            ],
+            [
+              108.932785,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "右领军卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右领军卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.933825,
+          34.26013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "太史监",
+        "description": "太史监 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928452,
+              34.258562
+            ],
+            [
+              108.930532,
+              34.258562
+            ],
+            [
+              108.930532,
+              34.256531
+            ],
+            [
+              108.928452,
+              34.256531
+            ],
+            [
+              108.928452,
+              34.258562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "太史监",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "太史监"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.929492,
+          34.257547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "御史台",
+        "description": "御史台 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.930618,
+              34.258562
+            ],
+            [
+              108.932698,
+              34.258562
+            ],
+            [
+              108.932698,
+              34.256531
+            ],
+            [
+              108.930618,
+              34.256531
+            ],
+            [
+              108.930618,
+              34.258562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "御史台",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "御史台"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.931658,
+          34.257547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "宗正寺",
+        "description": "宗正寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.932785,
+              34.258562
+            ],
+            [
+              108.934864,
+              34.258562
+            ],
+            [
+              108.934864,
+              34.256531
+            ],
+            [
+              108.932785,
+              34.256531
+            ],
+            [
+              108.932785,
+              34.258562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "宗正寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "宗正寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.933825,
+          34.257547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "鸿胪客馆",
+        "description": "鸿胪客馆 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.928452,
+              34.256001
+            ],
+            [
+              108.931615,
+              34.256001
+            ],
+            [
+              108.931615,
+              34.253969
+            ],
+            [
+              108.928452,
+              34.253969
+            ],
+            [
+              108.928452,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "鸿胪客馆",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "鸿胪客馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.930034,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "鸿胪寺",
+        "description": "鸿胪寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.931701,
+              34.256001
+            ],
+            [
+              108.934864,
+              34.256001
+            ],
+            [
+              108.934864,
+              34.253969
+            ],
+            [
+              108.931701,
+              34.253969
+            ],
+            [
+              108.931701,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "鸿胪寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "鸿胪寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.933283,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "门下外省",
+        "description": "门下外省 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935727,
+              34.268854
+            ],
+            [
+              108.93694,
+              34.268854
+            ],
+            [
+              108.93694,
+              34.266557
+            ],
+            [
+              108.935727,
+              34.266557
+            ],
+            [
+              108.935727,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "门下外省",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "门下外省"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936333,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "殿中省",
+        "description": "殿中省 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.937026,
+              34.268854
+            ],
+            [
+              108.93824,
+              34.268854
+            ],
+            [
+              108.93824,
+              34.266557
+            ],
+            [
+              108.937026,
+              34.266557
+            ],
+            [
+              108.937026,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "殿中省",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "殿中省"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.937633,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左千牛卫",
+        "description": "左千牛卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.938326,
+              34.268854
+            ],
+            [
+              108.93954,
+              34.268854
+            ],
+            [
+              108.93954,
+              34.266557
+            ],
+            [
+              108.938326,
+              34.266557
+            ],
+            [
+              108.938326,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "左千牛卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左千牛卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.938933,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左卫",
+        "description": "左卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.939626,
+              34.268854
+            ],
+            [
+              108.940839,
+              34.268854
+            ],
+            [
+              108.940839,
+              34.266557
+            ],
+            [
+              108.939626,
+              34.266557
+            ],
+            [
+              108.939626,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "左卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.940233,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "东宫内坊",
+        "description": "东宫内坊 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.940926,
+              34.268854
+            ],
+            [
+              108.942139,
+              34.268854
+            ],
+            [
+              108.942139,
+              34.266557
+            ],
+            [
+              108.940926,
+              34.266557
+            ],
+            [
+              108.940926,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "small"
+        ],
+        "name": "东宫内坊",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "东宫内坊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.941532,
+          34.267706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左监门卫",
+        "description": "左监门卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935727,
+              34.265983
+            ],
+            [
+              108.937807,
+              34.265983
+            ],
+            [
+              108.937807,
+              34.263995
+            ],
+            [
+              108.935727,
+              34.263995
+            ],
+            [
+              108.935727,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左监门卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左监门卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936767,
+          34.264989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左武卫",
+        "description": "左武卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.937893,
+              34.265983
+            ],
+            [
+              108.939973,
+              34.265983
+            ],
+            [
+              108.939973,
+              34.263995
+            ],
+            [
+              108.937893,
+              34.263995
+            ],
+            [
+              108.937893,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "左武卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左武卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.938933,
+          34.264989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左骁卫",
+        "description": "左骁卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.940059,
+              34.265983
+            ],
+            [
+              108.942139,
+              34.265983
+            ],
+            [
+              108.942139,
+              34.263995
+            ],
+            [
+              108.940059,
+              34.263995
+            ],
+            [
+              108.940059,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "左骁卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左骁卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.941099,
+          34.264989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "尚书省",
+        "description": "尚书省 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935727,
+              34.263509
+            ],
+            [
+              108.942139,
+              34.263509
+            ],
+            [
+              108.942139,
+              34.261699
+            ],
+            [
+              108.935727,
+              34.261699
+            ],
+            [
+              108.935727,
+              34.263509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "尚书省",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "尚书省"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.938933,
+          34.262604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左领军卫",
+        "description": "左领军卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935727,
+              34.261168
+            ],
+            [
+              108.937265,
+              34.261168
+            ],
+            [
+              108.937265,
+              34.259092
+            ],
+            [
+              108.935727,
+              34.259092
+            ],
+            [
+              108.935727,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左领军卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左领军卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.936496,
+          34.26013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左威卫",
+        "description": "左威卫 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.937351,
+              34.261168
+            ],
+            [
+              108.93889,
+              34.261168
+            ],
+            [
+              108.93889,
+              34.259092
+            ],
+            [
+              108.937351,
+              34.259092
+            ],
+            [
+              108.937351,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左威卫",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左威卫"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.938121,
+          34.26013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "吏部选院",
+        "description": "吏部选院 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.938976,
+              34.261168
+            ],
+            [
+              108.940514,
+              34.261168
+            ],
+            [
+              108.940514,
+              34.259092
+            ],
+            [
+              108.938976,
+              34.259092
+            ],
+            [
+              108.938976,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "吏部选院",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "吏部选院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.939745,
+          34.26013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "礼部南院",
+        "description": "礼部南院 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.940601,
+              34.261168
+            ],
+            [
+              108.942139,
+              34.261168
+            ],
+            [
+              108.942139,
+              34.259092
+            ],
+            [
+              108.940601,
+              34.259092
+            ],
+            [
+              108.940601,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "礼部南院",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "礼部南院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.94137,
+          34.26013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "太仆寺",
+        "description": "太仆寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935727,
+              34.258562
+            ],
+            [
+              108.93889,
+              34.258562
+            ],
+            [
+              108.93889,
+              34.256531
+            ],
+            [
+              108.935727,
+              34.256531
+            ],
+            [
+              108.935727,
+              34.258562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "太仆寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "太仆寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.937308,
+          34.257547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "大府寺",
+        "description": "大府寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.938976,
+              34.258562
+            ],
+            [
+              108.942139,
+              34.258562
+            ],
+            [
+              108.942139,
+              34.256531
+            ],
+            [
+              108.938976,
+              34.256531
+            ],
+            [
+              108.938976,
+              34.258562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "大府寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "大府寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.940558,
+          34.257547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "太常寺",
+        "description": "太常寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.935727,
+              34.256001
+            ],
+            [
+              108.942139,
+              34.256001
+            ],
+            [
+              108.942139,
+              34.253969
+            ],
+            [
+              108.935727,
+              34.253969
+            ],
+            [
+              108.935727,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "太常寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "太常寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.938933,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右春坊",
+        "description": "右春坊 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942947,
+              34.268854
+            ],
+            [
+              108.944323,
+              34.268854
+            ],
+            [
+              108.944323,
+              34.267741
+            ],
+            [
+              108.942947,
+              34.267741
+            ],
+            [
+              108.942947,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "右春坊",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右春坊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.943635,
+          34.268297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右清道率府",
+        "description": "右清道率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.944409,
+              34.268854
+            ],
+            [
+              108.945784,
+              34.268854
+            ],
+            [
+              108.945784,
+              34.267741
+            ],
+            [
+              108.944409,
+              34.267741
+            ],
+            [
+              108.944409,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "右清道率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右清道率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.945096,
+          34.268297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右内率府",
+        "description": "右内率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.94587,
+              34.268854
+            ],
+            [
+              108.947245,
+              34.268854
+            ],
+            [
+              108.947245,
+              34.267741
+            ],
+            [
+              108.94587,
+              34.267741
+            ],
+            [
+              108.94587,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "右内率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右内率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946558,
+          34.268297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "东宫朝堂",
+        "description": "东宫朝堂 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.947331,
+              34.268854
+            ],
+            [
+              108.948707,
+              34.268854
+            ],
+            [
+              108.948707,
+              34.267741
+            ],
+            [
+              108.947331,
+              34.267741
+            ],
+            [
+              108.947331,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "东宫朝堂",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "东宫朝堂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.948019,
+          34.268297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右监门率府",
+        "description": "右监门率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.948793,
+              34.268854
+            ],
+            [
+              108.950168,
+              34.268854
+            ],
+            [
+              108.950168,
+              34.267741
+            ],
+            [
+              108.948793,
+              34.267741
+            ],
+            [
+              108.948793,
+              34.268854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "右监门率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右监门率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.94948,
+          34.268297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左监门率府",
+        "description": "左监门率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942947,
+              34.26767
+            ],
+            [
+              108.944323,
+              34.26767
+            ],
+            [
+              108.944323,
+              34.266557
+            ],
+            [
+              108.942947,
+              34.266557
+            ],
+            [
+              108.942947,
+              34.26767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左监门率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左监门率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.943635,
+          34.267114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左内率府",
+        "description": "左内率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.944409,
+              34.26767
+            ],
+            [
+              108.945784,
+              34.26767
+            ],
+            [
+              108.945784,
+              34.266557
+            ],
+            [
+              108.944409,
+              34.266557
+            ],
+            [
+              108.944409,
+              34.26767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左内率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左内率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.945096,
+          34.267114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左清道率府",
+        "description": "左清道率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.94587,
+              34.26767
+            ],
+            [
+              108.947245,
+              34.26767
+            ],
+            [
+              108.947245,
+              34.266557
+            ],
+            [
+              108.94587,
+              34.266557
+            ],
+            [
+              108.94587,
+              34.26767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左清道率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左清道率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946558,
+          34.267114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "家令寺",
+        "description": "家令寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.947331,
+              34.26767
+            ],
+            [
+              108.948707,
+              34.26767
+            ],
+            [
+              108.948707,
+              34.266557
+            ],
+            [
+              108.947331,
+              34.266557
+            ],
+            [
+              108.947331,
+              34.26767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "家令寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "家令寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.948019,
+          34.267114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左春坊",
+        "description": "左春坊 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.948793,
+              34.26767
+            ],
+            [
+              108.950168,
+              34.26767
+            ],
+            [
+              108.950168,
+              34.266557
+            ],
+            [
+              108.948793,
+              34.266557
+            ],
+            [
+              108.948793,
+              34.26767
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左春坊",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左春坊"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.94948,
+          34.267114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "东宫仆寺",
+        "description": "东宫仆寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942947,
+              34.265983
+            ],
+            [
+              108.944688,
+              34.265983
+            ],
+            [
+              108.944688,
+              34.265024
+            ],
+            [
+              108.942947,
+              34.265024
+            ],
+            [
+              108.942947,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "东宫仆寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "东宫仆寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.943818,
+          34.265504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "率更寺",
+        "description": "率更寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.944774,
+              34.265983
+            ],
+            [
+              108.946515,
+              34.265983
+            ],
+            [
+              108.946515,
+              34.265024
+            ],
+            [
+              108.944774,
+              34.265024
+            ],
+            [
+              108.944774,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "率更寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "率更寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.945644,
+          34.265504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右司御率府",
+        "description": "右司御率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.946601,
+              34.265983
+            ],
+            [
+              108.948341,
+              34.265983
+            ],
+            [
+              108.948341,
+              34.265024
+            ],
+            [
+              108.946601,
+              34.265024
+            ],
+            [
+              108.946601,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "右司御率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右司御率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.947471,
+          34.265504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "右卫率府",
+        "description": "右卫率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.948428,
+              34.265983
+            ],
+            [
+              108.950168,
+              34.265983
+            ],
+            [
+              108.950168,
+              34.265024
+            ],
+            [
+              108.948428,
+              34.265024
+            ],
+            [
+              108.948428,
+              34.265983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "右卫率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "右卫率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.949298,
+          34.265504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左卫率府",
+        "description": "左卫率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942947,
+              34.264954
+            ],
+            [
+              108.945297,
+              34.264954
+            ],
+            [
+              108.945297,
+              34.263995
+            ],
+            [
+              108.942947,
+              34.263995
+            ],
+            [
+              108.942947,
+              34.264954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左卫率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左卫率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.944122,
+          34.264475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "左司御率府",
+        "description": "左司御率府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.945383,
+              34.264954
+            ],
+            [
+              108.947732,
+              34.264954
+            ],
+            [
+              108.947732,
+              34.263995
+            ],
+            [
+              108.945383,
+              34.263995
+            ],
+            [
+              108.945383,
+              34.264954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左司御率府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左司御率府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946558,
+          34.264475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "詹事府",
+        "description": "詹事府 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.947819,
+              34.264954
+            ],
+            [
+              108.950168,
+              34.264954
+            ],
+            [
+              108.950168,
+              34.263995
+            ],
+            [
+              108.947819,
+              34.263995
+            ],
+            [
+              108.947819,
+              34.264954
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "詹事府",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "詹事府"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.948993,
+          34.264475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "都水监",
+        "description": "都水监 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942947,
+              34.263509
+            ],
+            [
+              108.945297,
+              34.263509
+            ],
+            [
+              108.945297,
+              34.261699
+            ],
+            [
+              108.942947,
+              34.261699
+            ],
+            [
+              108.942947,
+              34.263509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "都水监",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "都水监"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.944122,
+          34.262604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "光禄寺",
+        "description": "光禄寺 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.945383,
+              34.263509
+            ],
+            [
+              108.947732,
+              34.263509
+            ],
+            [
+              108.947732,
+              34.261699
+            ],
+            [
+              108.945383,
+              34.261699
+            ],
+            [
+              108.945383,
+              34.263509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "光禄寺",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "光禄寺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.946558,
+          34.262604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block"
+        ],
+        "name": "军器监",
+        "description": "军器监 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.947819,
+              34.263509
+            ],
+            [
+              108.950168,
+              34.263509
+            ],
+            [
+              108.950168,
+              34.261699
+            ],
+            [
+              108.947819,
+              34.261699
+            ],
+            [
+              108.947819,
+              34.263509
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "军器监",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "军器监"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.948993,
+          34.262604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "少府监",
+        "description": "少府监 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942947,
+              34.261168
+            ],
+            [
+              108.946515,
+              34.261168
+            ],
+            [
+              108.946515,
+              34.256531
+            ],
+            [
+              108.942947,
+              34.256531
+            ],
+            [
+              108.942947,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "large"
+        ],
+        "name": "少府监",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "少府监"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.944731,
+          34.25885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major"
+        ],
+        "name": "左藏外库院",
+        "description": "左藏外库院 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.946601,
+              34.261168
+            ],
+            [
+              108.950168,
+              34.261168
+            ],
+            [
+              108.950168,
+              34.256531
+            ],
+            [
+              108.946601,
+              34.256531
+            ],
+            [
+              108.946601,
+              34.261168
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "左藏外库院",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "左藏外库院"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.948384,
+          34.25885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "major",
+          "ritual"
+        ],
+        "name": "太庙",
+        "description": "太庙 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.942947,
+              34.256001
+            ],
+            [
+              108.944688,
+              34.256001
+            ],
+            [
+              108.944688,
+              34.253969
+            ],
+            [
+              108.942947,
+              34.253969
+            ],
+            [
+              108.942947,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "太庙",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "太庙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.943818,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "ritual"
+        ],
+        "name": "中宗庙",
+        "description": "中宗庙 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.944774,
+              34.256001
+            ],
+            [
+              108.946515,
+              34.256001
+            ],
+            [
+              108.946515,
+              34.253969
+            ],
+            [
+              108.944774,
+              34.253969
+            ],
+            [
+              108.944774,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "中宗庙",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "中宗庙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.945644,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "ritual"
+        ],
+        "name": "元献皇后庙",
+        "description": "元献皇后庙 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.946601,
+              34.256001
+            ],
+            [
+              108.948341,
+              34.256001
+            ],
+            [
+              108.948341,
+              34.253969
+            ],
+            [
+              108.946601,
+              34.253969
+            ],
+            [
+              108.946601,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "元献皇后庙",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "元献皇后庙"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.947471,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "office-block",
+          "ritual"
+        ],
+        "name": "太庙署",
+        "description": "太庙署 | 皇城官署/设施 | 可设为起点或终点",
+        "_elementType": "rect",
+        "_group": "imperial-office-layer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.948428,
+              34.256001
+            ],
+            [
+              108.950168,
+              34.256001
+            ],
+            [
+              108.950168,
+              34.253969
+            ],
+            [
+              108.948428,
+              34.253969
+            ],
+            [
+              108.948428,
+              34.256001
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "office-label",
+          "medium"
+        ],
+        "name": "太庙署",
+        "_elementType": "text",
+        "_group": "imperial-office-layer",
+        "text": "太庙署"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.949298,
+          34.254985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-garden"
+        ],
+        "name": "芙蓉园",
+        "description": "芙蓉园 | 皇家园林，节庆对公众开放；东侧夹城御道为禁行区",
+        "_elementType": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.974379,
+              34.211769
+            ],
+            [
+              108.987813,
+              34.211769
+            ],
+            [
+              108.987813,
+              34.196672
+            ],
+            [
+              108.981061,
+              34.196672
+            ],
+            [
+              108.981061,
+              34.202149
+            ],
+            [
+              108.974379,
+              34.202149
+            ],
+            [
+              108.974379,
+              34.211769
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-water"
+        ],
+        "name": "曲江池",
+        "description": "曲江池 | water | 水体，不作为通行路网。",
+        "_elementType": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.976157,
+              34.211115
+            ],
+            [
+              108.977666,
+              34.210894
+            ],
+            [
+              108.979175,
+              34.21032
+            ],
+            [
+              108.980145,
+              34.20926
+            ],
+            [
+              108.979821,
+              34.208068
+            ],
+            [
+              108.978528,
+              34.207228
+            ],
+            [
+              108.977504,
+              34.206477
+            ],
+            [
+              108.977666,
+              34.205197
+            ],
+            [
+              108.978959,
+              34.20396
+            ],
+            [
+              108.979875,
+              34.20259
+            ],
+            [
+              108.980198,
+              34.200912
+            ],
+            [
+              108.979444,
+              34.19941
+            ],
+            [
+              108.97842,
+              34.198262
+            ],
+            [
+              108.977073,
+              34.197423
+            ],
+            [
+              108.97578,
+              34.197908
+            ],
+            [
+              108.974972,
+              34.199013
+            ],
+            [
+              108.974594,
+              34.200382
+            ],
+            [
+              108.974487,
+              34.202105
+            ],
+            [
+              108.974702,
+              34.203739
+            ],
+            [
+              108.975241,
+              34.205152
+            ],
+            [
+              108.975403,
+              34.206566
+            ],
+            [
+              108.975403,
+              34.208023
+            ],
+            [
+              108.975618,
+              34.209348
+            ],
+            [
+              108.976157,
+              34.211115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-wall"
+        ],
+        "name": "北侧夹城隔墙",
+        "description": "北侧夹城隔墙 | wall | 隔墙，分开普通居民街与夹城御道，不可通行。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.920402,
+              34.281442
+            ],
+            [
+              108.989968,
+              34.281442
+            ],
+            [
+              108.989968,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.281354
+            ],
+            [
+              108.920402,
+              34.281442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "css": [
+          "feature",
+          "feature-wall"
+        ],
+        "name": "东侧夹城隔墙",
+        "description": "东侧夹城隔墙 | wall | 隔墙，分开普通居民街与夹城御道，不可通行。",
+        "_elementType": "rect"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              108.988459,
+              34.282591
+            ],
+            [
+              108.988567,
+              34.282591
+            ],
+            [
+              108.988567,
+              34.212034
+            ],
+            [
+              108.988459,
+              34.212034
+            ],
+            [
+              108.988459,
+              34.282591
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
